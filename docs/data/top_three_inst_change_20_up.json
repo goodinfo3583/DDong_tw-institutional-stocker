@@ -1113,17 +1113,17 @@
     "change": 1.1423481560000894
   },
   {
-    "code": "2537",
-    "name": "聯上發",
-    "market": "TWSE",
-    "three_inst_ratio": 3.22,
-    "change": 1.1400000000000001
-  },
-  {
     "code": "00903",
     "name": "富邦元宇宙",
     "market": "TWSE",
     "three_inst_ratio": 2.68,
+    "change": 1.1400000000000001
+  },
+  {
+    "code": "2537",
+    "name": "聯上發",
+    "market": "TWSE",
+    "three_inst_ratio": 3.22,
     "change": 1.1400000000000001
   },
   {
@@ -1372,10 +1372,10 @@
     "change": 1.0054305462635247
   },
   {
-    "code": "1711",
-    "name": "永光",
+    "code": "6869",
+    "name": "雲豹能源",
     "market": "TWSE",
-    "three_inst_ratio": 6.07,
+    "three_inst_ratio": 3.5216563669889647,
     "change": 1.0
   },
   {
@@ -1386,17 +1386,17 @@
     "change": 1.0
   },
   {
+    "code": "1711",
+    "name": "永光",
+    "market": "TWSE",
+    "three_inst_ratio": 6.07,
+    "change": 1.0
+  },
+  {
     "code": "1623",
     "name": "大東電",
     "market": "TWSE",
     "three_inst_ratio": 1.76,
-    "change": 1.0
-  },
-  {
-    "code": "6869",
-    "name": "雲豹能源",
-    "market": "TWSE",
-    "three_inst_ratio": 3.5216563669889647,
     "change": 1.0
   }
 ]

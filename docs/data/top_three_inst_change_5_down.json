@@ -581,17 +581,17 @@
     "change": -0.6616884891046695
   },
   {
-    "code": "00921",
-    "name": "兆豐龍頭等權重",
-    "market": "TWSE",
-    "three_inst_ratio": 0.89,
-    "change": -0.65
-  },
-  {
     "code": "00993A",
     "name": "主動安聯台灣",
     "market": "TWSE",
     "three_inst_ratio": 0.93,
+    "change": -0.65
+  },
+  {
+    "code": "00921",
+    "name": "兆豐龍頭等權重",
+    "market": "TWSE",
+    "three_inst_ratio": 0.89,
     "change": -0.65
   },
   {
@@ -896,17 +896,17 @@
     "change": -0.45999999999999996
   },
   {
-    "code": "00894",
-    "name": "中信小資高價30",
-    "market": "TWSE",
-    "three_inst_ratio": 1.29,
-    "change": -0.45999999999999996
-  },
-  {
     "code": "5236",
     "name": "凌陽創新",
     "market": "TWSE",
     "three_inst_ratio": 6.916666218030193,
+    "change": -0.45999999999999996
+  },
+  {
+    "code": "00894",
+    "name": "中信小資高價30",
+    "market": "TWSE",
+    "three_inst_ratio": 1.29,
     "change": -0.45999999999999996
   },
   {
@@ -1302,17 +1302,17 @@
     "change": -0.28000000000000114
   },
   {
-    "code": "1305",
-    "name": "華夏",
-    "market": "TWSE",
-    "three_inst_ratio": 3.530164809910651,
-    "change": -0.28000000000000025
-  },
-  {
     "code": "1532",
     "name": "勤美",
     "market": "TWSE",
     "three_inst_ratio": 6.161122230754738,
+    "change": -0.28000000000000025
+  },
+  {
+    "code": "1305",
+    "name": "華夏",
+    "market": "TWSE",
+    "three_inst_ratio": 3.530164809910651,
     "change": -0.28000000000000025
   },
   {
