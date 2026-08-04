@@ -10,309 +10,288 @@
     "code": "6414",
     "name": "樺漢",
     "market": "TWSE",
-    "three_inst_ratio": 47.98636213217329,
-    "change": 19.88220507848727
+    "three_inst_ratio": 47.996362132173296,
+    "change": 20.623659203884653
   },
   {
     "code": "5906",
     "name": "台南-KY",
     "market": "TWSE",
-    "three_inst_ratio": 19.5,
-    "change": 19.5
-  },
-  {
-    "code": "2492",
-    "name": "華新科",
-    "market": "TWSE",
-    "three_inst_ratio": 32.67486548333096,
-    "change": 19.06481139456649
-  },
-  {
-    "code": "3026",
-    "name": "禾伸堂",
-    "market": "TWSE",
-    "three_inst_ratio": 34.52953408878269,
-    "change": 18.929423240239977
+    "three_inst_ratio": 19.51,
+    "change": 19.51
   },
   {
     "code": "8028",
     "name": "昇陽半導體",
     "market": "TWSE",
-    "three_inst_ratio": 31.15909021335767,
-    "change": 18.226892551579294
+    "three_inst_ratio": 31.179090213357668,
+    "change": 19.09845629418418
   },
   {
-    "code": "3450",
-    "name": "聯鈞",
+    "code": "3026",
+    "name": "禾伸堂",
     "market": "TWSE",
-    "three_inst_ratio": 29.182264533294997,
-    "change": 17.577674068330847
+    "three_inst_ratio": 34.75663924316547,
+    "change": 19.065624182720533
   },
   {
-    "code": "3033",
-    "name": "威健",
+    "code": "2492",
+    "name": "華新科",
     "market": "TWSE",
-    "three_inst_ratio": 24.00089636738601,
-    "change": 17.549603789961147
+    "three_inst_ratio": 31.491692057630086,
+    "change": 17.96184381286994
   },
   {
     "code": "3583",
     "name": "辛耘",
     "market": "TWSE",
-    "three_inst_ratio": 29.512337129577446,
-    "change": 17.2792214040521
+    "three_inst_ratio": 29.633710966359526,
+    "change": 17.37059524083418
+  },
+  {
+    "code": "3033",
+    "name": "威健",
+    "market": "TWSE",
+    "three_inst_ratio": 24.15163332753159,
+    "change": 17.050784666159927
+  },
+  {
+    "code": "3450",
+    "name": "聯鈞",
+    "market": "TWSE",
+    "three_inst_ratio": 28.879957550237958,
+    "change": 16.968799232835394
   },
   {
     "code": "00683L",
     "name": "期元大美元指正2",
     "market": "TWSE",
-    "three_inst_ratio": 17.41,
-    "change": 16.26
+    "three_inst_ratio": 17.42,
+    "change": 16.270000000000003
   },
   {
     "code": "8016",
     "name": "矽創",
     "market": "TWSE",
-    "three_inst_ratio": 44.035547735401416,
-    "change": 14.72840083372903
-  },
-  {
-    "code": "2351",
-    "name": "順德",
-    "market": "TWSE",
-    "three_inst_ratio": 24.667113739149443,
-    "change": 14.298720316562214
-  },
-  {
-    "code": "2458",
-    "name": "義隆",
-    "market": "TWSE",
-    "three_inst_ratio": 28.077954176918396,
-    "change": 14.017148272995513
-  },
-  {
-    "code": "3533",
-    "name": "嘉澤",
-    "market": "TWSE",
-    "three_inst_ratio": 55.30829450147066,
-    "change": 13.8742450009482
-  },
-  {
-    "code": "6831",
-    "name": "邁科",
-    "market": "TWSE",
-    "three_inst_ratio": 20.708662222222223,
-    "change": 13.678682962962965
+    "three_inst_ratio": 44.0082385738081,
+    "change": 14.815242198240618
   },
   {
     "code": "3413",
     "name": "京鼎",
     "market": "TWSE",
-    "three_inst_ratio": 27.438185700041565,
-    "change": 13.414697615611471
+    "three_inst_ratio": 28.088185700041567,
+    "change": 14.276549074765411
   },
   {
-    "code": "00943",
-    "name": "兆豐電子高息等權",
+    "code": "2351",
+    "name": "順德",
     "market": "TWSE",
-    "three_inst_ratio": 14.28,
-    "change": 12.23
+    "three_inst_ratio": 24.609662365675145,
+    "change": 14.201268943087916
+  },
+  {
+    "code": "2458",
+    "name": "義隆",
+    "market": "TWSE",
+    "three_inst_ratio": 28.123730185263156,
+    "change": 13.855996200768361
+  },
+  {
+    "code": "6831",
+    "name": "邁科",
+    "market": "TWSE",
+    "three_inst_ratio": 20.868662222222223,
+    "change": 13.808682962962965
+  },
+  {
+    "code": "3533",
+    "name": "嘉澤",
+    "market": "TWSE",
+    "three_inst_ratio": 55.23789118015173,
+    "change": 13.531401071426053
   },
   {
     "code": "6491",
     "name": "晶碩",
     "market": "TWSE",
-    "three_inst_ratio": 20.257298717948718,
-    "change": 12.227549999999999
-  },
-  {
-    "code": "3209",
-    "name": "全科",
-    "market": "TWSE",
-    "three_inst_ratio": 17.937539584754806,
-    "change": 11.267106449147274
-  },
-  {
-    "code": "2376",
-    "name": "技嘉",
-    "market": "TWSE",
-    "three_inst_ratio": 25.4160761871783,
-    "change": 11.003559015009543
-  },
-  {
-    "code": "3090",
-    "name": "日電貿",
-    "market": "TWSE",
-    "three_inst_ratio": 16.56518367449133,
-    "change": 10.974103057320697
-  },
-  {
-    "code": "4764",
-    "name": "雙鍵",
-    "market": "TWSE",
-    "three_inst_ratio": 35.05103946851316,
-    "change": 10.935433665604176
-  },
-  {
-    "code": "8021",
-    "name": "尖點",
-    "market": "TWSE",
-    "three_inst_ratio": 24.353664124245764,
-    "change": 10.739873502427397
+    "three_inst_ratio": 20.408324358974358,
+    "change": 12.448575641025641
   },
   {
     "code": "00980A",
     "name": "主動野村臺灣優選",
     "market": "TWSE",
-    "three_inst_ratio": 11.295730925156578,
-    "change": 10.585730925156579
+    "three_inst_ratio": 12.83083873859293,
+    "change": 12.320838738592931
   },
   {
-    "code": "2727",
-    "name": "王品",
+    "code": "00943",
+    "name": "兆豐電子高息等權",
     "market": "TWSE",
-    "three_inst_ratio": 33.84650545889686,
-    "change": 10.581460678963893
+    "three_inst_ratio": 14.02,
+    "change": 11.959999999999999
+  },
+  {
+    "code": "8021",
+    "name": "尖點",
+    "market": "TWSE",
+    "three_inst_ratio": 24.23333403712721,
+    "change": 11.492133572231642
+  },
+  {
+    "code": "2376",
+    "name": "技嘉",
+    "market": "TWSE",
+    "three_inst_ratio": 26.10159617384666,
+    "change": 11.4390790016779
   },
   {
     "code": "3231",
     "name": "緯創",
     "market": "TWSE",
-    "three_inst_ratio": 36.9359263892598,
-    "change": 10.390826174657118
+    "three_inst_ratio": 37.851080744034945,
+    "change": 11.375727693498806
   },
   {
-    "code": "8033",
-    "name": "雷虎",
+    "code": "4764",
+    "name": "雙鍵",
     "market": "TWSE",
-    "three_inst_ratio": 14.162778144172279,
-    "change": 10.382156974416901
-  },
-  {
-    "code": "00991A",
-    "name": "主動復華未來50",
-    "market": "TWSE",
-    "three_inst_ratio": 11.202350156648395,
-    "change": 9.837848705281298
-  },
-  {
-    "code": "2618",
-    "name": "長榮航",
-    "market": "TWSE",
-    "three_inst_ratio": 33.21309147512952,
-    "change": 9.66448563800445
-  },
-  {
-    "code": "2049",
-    "name": "上銀",
-    "market": "TWSE",
-    "three_inst_ratio": 37.23485756725473,
-    "change": 9.564932702876696
+    "three_inst_ratio": 34.94105366527171,
+    "change": 11.166616877905046
   },
   {
     "code": "3189",
     "name": "景碩",
     "market": "TWSE",
-    "three_inst_ratio": 30.36587321662195,
-    "change": 9.220070883806997
+    "three_inst_ratio": 30.380472376077726,
+    "change": 10.834305885222971
   },
   {
-    "code": "8261",
-    "name": "富鼎",
+    "code": "8033",
+    "name": "雷虎",
     "market": "TWSE",
-    "three_inst_ratio": 12.137138747240636,
-    "change": 9.007558159012724
+    "three_inst_ratio": 14.23460041477916,
+    "change": 10.563979245023784
   },
   {
-    "code": "2401",
-    "name": "凌陽",
+    "code": "2727",
+    "name": "王品",
     "market": "TWSE",
-    "three_inst_ratio": 18.463037880330187,
-    "change": 8.97719306391547
+    "three_inst_ratio": 33.76650545889685,
+    "change": 10.492191016560753
   },
   {
-    "code": "3702",
-    "name": "大聯大",
+    "code": "3209",
+    "name": "全科",
     "market": "TWSE",
-    "three_inst_ratio": 30.82390128507693,
-    "change": 8.903395299994529
+    "three_inst_ratio": 18.037539584754807,
+    "change": 10.307739563451321
   },
   {
-    "code": "2472",
-    "name": "立隆電",
+    "code": "2049",
+    "name": "上銀",
     "market": "TWSE",
-    "three_inst_ratio": 19.61155590079122,
-    "change": 8.89591378055551
-  },
-  {
-    "code": "00947",
-    "name": "台新臺灣IC設計",
-    "market": "TWSE",
-    "three_inst_ratio": 10.218122272997185,
-    "change": 8.848122272997184
-  },
-  {
-    "code": "6202",
-    "name": "盛群",
-    "market": "TWSE",
-    "three_inst_ratio": 16.130307541792504,
-    "change": 8.683012940766933
-  },
-  {
-    "code": "2637",
-    "name": "慧洋-KY",
-    "market": "TWSE",
-    "three_inst_ratio": 21.96600928467389,
-    "change": 8.675787938232528
-  },
-  {
-    "code": "6226",
-    "name": "光鼎",
-    "market": "TWSE",
-    "three_inst_ratio": 9.350527588794055,
-    "change": 8.670527588794055
-  },
-  {
-    "code": "9933",
-    "name": "中鼎",
-    "market": "TWSE",
-    "three_inst_ratio": 18.871155856706906,
-    "change": 8.539045473817804
-  },
-  {
-    "code": "00714",
-    "name": "群益道瓊美國地產",
-    "market": "TWSE",
-    "three_inst_ratio": 10.25,
-    "change": 8.51
-  },
-  {
-    "code": "3034",
-    "name": "聯詠",
-    "market": "TWSE",
-    "three_inst_ratio": 37.58937965828217,
-    "change": 8.498821747663726
+    "three_inst_ratio": 37.3358912450991,
+    "change": 10.017927013888151
   },
   {
     "code": "00875",
     "name": "國泰網路資安",
     "market": "TWSE",
-    "three_inst_ratio": 9.76,
-    "change": 8.02
+    "three_inst_ratio": 11.72,
+    "change": 9.950000000000001
   },
   {
-    "code": "2455",
-    "name": "全新",
+    "code": "3090",
+    "name": "日電貿",
     "market": "TWSE",
-    "three_inst_ratio": 46.92599688637331,
-    "change": 7.988912882712597
+    "three_inst_ratio": 15.350052102613251,
+    "change": 9.848971485442618
   },
   {
-    "code": "6706",
-    "name": "惠特",
+    "code": "2618",
+    "name": "長榮航",
     "market": "TWSE",
-    "three_inst_ratio": 12.159456340330316,
-    "change": 7.887508371381306
+    "three_inst_ratio": 33.387149988103715,
+    "change": 9.518274471928251
+  },
+  {
+    "code": "2472",
+    "name": "立隆電",
+    "market": "TWSE",
+    "three_inst_ratio": 19.884102495935643,
+    "change": 9.51082617001132
+  },
+  {
+    "code": "2401",
+    "name": "凌陽",
+    "market": "TWSE",
+    "three_inst_ratio": 18.593037880330186,
+    "change": 9.06719306391547
+  },
+  {
+    "code": "3702",
+    "name": "大聯大",
+    "market": "TWSE",
+    "three_inst_ratio": 30.880494220370352,
+    "change": 8.81112544019518
+  },
+  {
+    "code": "2637",
+    "name": "慧洋-KY",
+    "market": "TWSE",
+    "three_inst_ratio": 22.054257264425807,
+    "change": 8.670233467554032
+  },
+  {
+    "code": "00714",
+    "name": "群益道瓊美國地產",
+    "market": "TWSE",
+    "three_inst_ratio": 10.68,
+    "change": 8.64
+  },
+  {
+    "code": "3034",
+    "name": "聯詠",
+    "market": "TWSE",
+    "three_inst_ratio": 37.862544057883646,
+    "change": 8.6244449341184
+  },
+  {
+    "code": "9933",
+    "name": "中鼎",
+    "market": "TWSE",
+    "three_inst_ratio": 18.851155856706907,
+    "change": 8.389156808448773
+  },
+  {
+    "code": "6206",
+    "name": "飛捷",
+    "market": "TWSE",
+    "three_inst_ratio": 15.526171904491079,
+    "change": 8.195440709602899
+  },
+  {
+    "code": "6226",
+    "name": "光鼎",
+    "market": "TWSE",
+    "three_inst_ratio": 8.802258669118268,
+    "change": 8.112258669118269
+  },
+  {
+    "code": "3006",
+    "name": "晶豪科",
+    "market": "TWSE",
+    "three_inst_ratio": 35.36037797606167,
+    "change": 8.083529587574734
+  },
+  {
+    "code": "8261",
+    "name": "富鼎",
+    "market": "TWSE",
+    "three_inst_ratio": 11.262736124049052,
+    "change": 8.064737495465678
   },
   {
     "code": "00736",
@@ -322,1081 +301,1102 @@
     "change": 7.829999999999998
   },
   {
-    "code": "2605",
-    "name": "新興",
+    "code": "2356",
+    "name": "英業達",
     "market": "TWSE",
-    "three_inst_ratio": 49.58808641894436,
-    "change": 7.819012628248686
+    "three_inst_ratio": 20.36750721359857,
+    "change": 7.757537376662567
   },
   {
-    "code": "6206",
-    "name": "飛捷",
+    "code": "00632R",
+    "name": "元大台灣50反1",
     "market": "TWSE",
-    "three_inst_ratio": 14.986870900545416,
-    "change": 7.727327998949605
+    "three_inst_ratio": 8.784968838259262,
+    "change": 7.744082158578367
+  },
+  {
+    "code": "00700",
+    "name": "富邦恒生國企",
+    "market": "TWSE",
+    "three_inst_ratio": 10.94,
+    "change": 7.67
   },
   {
     "code": "00922",
     "name": "國泰台灣領袖50",
     "market": "TWSE",
-    "three_inst_ratio": 20.079415883497415,
-    "change": 7.669415883497415
+    "three_inst_ratio": 20.129415883497416,
+    "change": 7.659415883497415
   },
   {
-    "code": "2867",
-    "name": "三商壽",
+    "code": "00991A",
+    "name": "主動復華未來50",
     "market": "TWSE",
-    "three_inst_ratio": 22.510577998033153,
-    "change": 7.610577692922604
+    "three_inst_ratio": 8.795601861681408,
+    "change": 7.586151560872821
   },
   {
     "code": "2483",
     "name": "百容",
     "market": "TWSE",
-    "three_inst_ratio": 8.45,
-    "change": 7.609999999999999
+    "three_inst_ratio": 8.44,
+    "change": 7.579999999999999
   },
   {
-    "code": "2356",
-    "name": "英業達",
+    "code": "6166",
+    "name": "凌華",
     "market": "TWSE",
-    "three_inst_ratio": 20.107799759553785,
-    "change": 7.605237570105526
+    "three_inst_ratio": 21.81857562191977,
+    "change": 7.54857562191977
+  },
+  {
+    "code": "2006",
+    "name": "東和鋼鐵",
+    "market": "TWSE",
+    "three_inst_ratio": 22.34772759849362,
+    "change": 7.5206597308735095
+  },
+  {
+    "code": "2605",
+    "name": "新興",
+    "market": "TWSE",
+    "three_inst_ratio": 49.638086418944354,
+    "change": 7.5190126282486816
   },
   {
     "code": "3704",
     "name": "合勤控",
     "market": "TWSE",
-    "three_inst_ratio": 14.641962714821172,
-    "change": 7.497006219861081
+    "three_inst_ratio": 14.731962714821172,
+    "change": 7.447006219861081
+  },
+  {
+    "code": "2867",
+    "name": "三商壽",
+    "market": "TWSE",
+    "three_inst_ratio": 22.54057799803315,
+    "change": 7.420577692922603
+  },
+  {
+    "code": "2377",
+    "name": "微星",
+    "market": "TWSE",
+    "three_inst_ratio": 17.390663571730506,
+    "change": 7.38215686765648
+  },
+  {
+    "code": "8039",
+    "name": "台虹",
+    "market": "TWSE",
+    "three_inst_ratio": 22.133946316569933,
+    "change": 7.264721922122904
+  },
+  {
+    "code": "8046",
+    "name": "南電",
+    "market": "TWSE",
+    "three_inst_ratio": 26.370606062592138,
+    "change": 7.230705899694705
+  },
+  {
+    "code": "00947",
+    "name": "台新臺灣IC設計",
+    "market": "TWSE",
+    "three_inst_ratio": 7.948486572451869,
+    "change": 7.148486572451869
+  },
+  {
+    "code": "3706",
+    "name": "神達",
+    "market": "TWSE",
+    "three_inst_ratio": 15.130670246325623,
+    "change": 7.117381933786957
+  },
+  {
+    "code": "3023",
+    "name": "信邦",
+    "market": "TWSE",
+    "three_inst_ratio": 46.18468043410217,
+    "change": 7.094616707010765
+  },
+  {
+    "code": "2478",
+    "name": "大毅",
+    "market": "TWSE",
+    "three_inst_ratio": 20.192161005710037,
+    "change": 7.058996108368765
+  },
+  {
+    "code": "2316",
+    "name": "楠梓電",
+    "market": "TWSE",
+    "three_inst_ratio": 36.805558338079955,
+    "change": 7.039363441945909
+  },
+  {
+    "code": "3665",
+    "name": "貿聯-KY",
+    "market": "TWSE",
+    "three_inst_ratio": 54.891375585370405,
+    "change": 6.98345567613935
+  },
+  {
+    "code": "2455",
+    "name": "全新",
+    "market": "TWSE",
+    "three_inst_ratio": 47.21816014866545,
+    "change": 6.861627136779909
+  },
+  {
+    "code": "00661",
+    "name": "元大日經225",
+    "market": "TWSE",
+    "three_inst_ratio": 7.988537886872999,
+    "change": 6.859813786545845
   },
   {
     "code": "00681R",
     "name": "元大美債20反1",
     "market": "TWSE",
     "three_inst_ratio": 18.71,
-    "change": 7.470000000000001
-  },
-  {
-    "code": "6166",
-    "name": "凌華",
-    "market": "TWSE",
-    "three_inst_ratio": 21.71857562191977,
-    "change": 7.448575621919769
-  },
-  {
-    "code": "00657",
-    "name": "國泰日經225",
-    "market": "TWSE",
-    "three_inst_ratio": 14.8,
-    "change": 7.430000000000001
-  },
-  {
-    "code": "2478",
-    "name": "大毅",
-    "market": "TWSE",
-    "three_inst_ratio": 20.687836990508327,
-    "change": 7.404672093167054
-  },
-  {
-    "code": "7795",
-    "name": "長廣",
-    "market": "TWSE",
-    "three_inst_ratio": 8.959655517991589,
-    "change": 7.378709159758209
-  },
-  {
-    "code": "4722",
-    "name": "國精化",
-    "market": "TWSE",
-    "three_inst_ratio": 10.417616788393675,
-    "change": 7.258270167668283
-  },
-  {
-    "code": "2006",
-    "name": "東和鋼鐵",
-    "market": "TWSE",
-    "three_inst_ratio": 22.038540491163367,
-    "change": 7.240447170475207
-  },
-  {
-    "code": "00700",
-    "name": "富邦恒生國企",
-    "market": "TWSE",
-    "three_inst_ratio": 10.42,
-    "change": 7.21
-  },
-  {
-    "code": "3023",
-    "name": "信邦",
-    "market": "TWSE",
-    "three_inst_ratio": 46.19261207345984,
-    "change": 7.171298705713021
-  },
-  {
-    "code": "3006",
-    "name": "晶豪科",
-    "market": "TWSE",
-    "three_inst_ratio": 33.29037797606168,
-    "change": 7.003715176786226
-  },
-  {
-    "code": "1560",
-    "name": "中砂",
-    "market": "TWSE",
-    "three_inst_ratio": 40.782366841093705,
-    "change": 6.917832023324316
-  },
-  {
-    "code": "8039",
-    "name": "台虹",
-    "market": "TWSE",
-    "three_inst_ratio": 22.049498764120894,
-    "change": 6.890274369673866
-  },
-  {
-    "code": "00661",
-    "name": "元大日經225",
-    "market": "TWSE",
-    "three_inst_ratio": 7.978537886872998,
-    "change": 6.829813786545845
+    "change": 6.8100000000000005
   },
   {
     "code": "3605",
     "name": "宏致",
     "market": "TWSE",
-    "three_inst_ratio": 18.719105844315145,
+    "three_inst_ratio": 18.829105844315144,
     "change": 6.803236605463718
-  },
-  {
-    "code": "3035",
-    "name": "智原",
-    "market": "TWSE",
-    "three_inst_ratio": 14.481455641083802,
-    "change": 6.784406057573994
-  },
-  {
-    "code": "4551",
-    "name": "智伸科",
-    "market": "TWSE",
-    "three_inst_ratio": 57.369947454359135,
-    "change": 6.781461696655811
-  },
-  {
-    "code": "00995A",
-    "name": "主動中信台灣卓越",
-    "market": "TWSE",
-    "three_inst_ratio": 8.06,
-    "change": 6.78
-  },
-  {
-    "code": "2377",
-    "name": "微星",
-    "market": "TWSE",
-    "three_inst_ratio": 16.586646026538773,
-    "change": 6.697320991557287
-  },
-  {
-    "code": "3045",
-    "name": "台灣大",
-    "market": "TWSE",
-    "three_inst_ratio": 21.39311747883152,
-    "change": 6.52544848799514
-  },
-  {
-    "code": "6213",
-    "name": "聯茂",
-    "market": "TWSE",
-    "three_inst_ratio": 18.080241354892383,
-    "change": 6.520633633687071
-  },
-  {
-    "code": "3706",
-    "name": "神達",
-    "market": "TWSE",
-    "three_inst_ratio": 14.612252509942515,
-    "change": 6.518964197403848
-  },
-  {
-    "code": "6830",
-    "name": "汎銓",
-    "market": "TWSE",
-    "three_inst_ratio": 11.04785103147633,
-    "change": 6.488957625474544
-  },
-  {
-    "code": "3048",
-    "name": "益登",
-    "market": "TWSE",
-    "three_inst_ratio": 8.400344291112642,
-    "change": 6.4603442911126425
-  },
-  {
-    "code": "00981A",
-    "name": "主動統一台股增長",
-    "market": "TWSE",
-    "three_inst_ratio": 7.5407988962597345,
-    "change": 6.43256241215289
-  },
-  {
-    "code": "7769",
-    "name": "鴻勁",
-    "market": "TWSE",
-    "three_inst_ratio": 23.67178791752348,
-    "change": 6.418009225810039
   },
   {
     "code": "3042",
     "name": "晶技",
     "market": "TWSE",
-    "three_inst_ratio": 17.60133981477422,
-    "change": 6.398754324326955
-  },
-  {
-    "code": "2316",
-    "name": "楠梓電",
-    "market": "TWSE",
-    "three_inst_ratio": 36.68510843199015,
-    "change": 6.378913535856107
-  },
-  {
-    "code": "2603",
-    "name": "長榮",
-    "market": "TWSE",
-    "three_inst_ratio": 24.22370440674611,
-    "change": 6.293442299785163
+    "three_inst_ratio": 18.019241466117393,
+    "change": 6.755315250177533
   },
   {
     "code": "5388",
     "name": "中磊",
     "market": "TWSE",
-    "three_inst_ratio": 22.71249755750545,
-    "change": 6.251185794429901
+    "three_inst_ratio": 22.94249755750545,
+    "change": 6.7511857944299045
   },
   {
-    "code": "3665",
-    "name": "貿聯-KY",
+    "code": "00657",
+    "name": "國泰日經225",
     "market": "TWSE",
-    "three_inst_ratio": 54.50417684392078,
-    "change": 6.245793115186629
+    "three_inst_ratio": 14.78,
+    "change": 6.74
   },
   {
-    "code": "8046",
-    "name": "南電",
+    "code": "4551",
+    "name": "智伸科",
     "market": "TWSE",
-    "three_inst_ratio": 26.383665170978098,
-    "change": 6.172287222824082
+    "three_inst_ratio": 57.37168322648239,
+    "change": 6.7231974687790625
+  },
+  {
+    "code": "6213",
+    "name": "聯茂",
+    "market": "TWSE",
+    "three_inst_ratio": 18.429947411972275,
+    "change": 6.710339690766963
+  },
+  {
+    "code": "7795",
+    "name": "長廣",
+    "market": "TWSE",
+    "three_inst_ratio": 8.569655517991588,
+    "change": 6.628709159758208
+  },
+  {
+    "code": "6202",
+    "name": "盛群",
+    "market": "TWSE",
+    "three_inst_ratio": 15.742642244698297,
+    "change": 6.625347643672724
+  },
+  {
+    "code": "2464",
+    "name": "盟立",
+    "market": "TWSE",
+    "three_inst_ratio": 8.906975149772867,
+    "change": 6.606490773865117
+  },
+  {
+    "code": "1560",
+    "name": "中砂",
+    "market": "TWSE",
+    "three_inst_ratio": 40.733108270504225,
+    "change": 6.605838919212012
+  },
+  {
+    "code": "4722",
+    "name": "國精化",
+    "market": "TWSE",
+    "three_inst_ratio": 9.797616788393675,
+    "change": 6.438270167668284
+  },
+  {
+    "code": "2603",
+    "name": "長榮",
+    "market": "TWSE",
+    "three_inst_ratio": 24.23116404149232,
+    "change": 6.425545976344207
+  },
+  {
+    "code": "3045",
+    "name": "台灣大",
+    "market": "TWSE",
+    "three_inst_ratio": 21.297719372332367,
+    "change": 6.40193045342091
+  },
+  {
+    "code": "7769",
+    "name": "鴻勁",
+    "market": "TWSE",
+    "three_inst_ratio": 23.65568610015006,
+    "change": 6.379128549991663
+  },
+  {
+    "code": "00913",
+    "name": "兆豐台灣晶圓製造",
+    "market": "TWSE",
+    "three_inst_ratio": 6.59,
+    "change": 6.28
   },
   {
     "code": "6715",
     "name": "嘉基",
     "market": "TWSE",
     "three_inst_ratio": 7.859907892244478,
-    "change": 6.159907892244478
+    "change": 6.119907892244478
   },
   {
-    "code": "2481",
-    "name": "強茂",
+    "code": "6830",
+    "name": "汎銓",
     "market": "TWSE",
-    "three_inst_ratio": 33.34592201570812,
-    "change": 5.87166244081326
+    "three_inst_ratio": 10.317851031476332,
+    "change": 6.008957625474545
   },
   {
-    "code": "2327",
-    "name": "國巨*",
+    "code": "3035",
+    "name": "智原",
     "market": "TWSE",
-    "three_inst_ratio": 55.63040359866632,
-    "change": 5.8430529508876745
-  },
-  {
-    "code": "5871",
-    "name": "中租-KY",
-    "market": "TWSE",
-    "three_inst_ratio": 43.54364202096599,
-    "change": 5.841061917569689
-  },
-  {
-    "code": "00913",
-    "name": "兆豐台灣晶圓製造",
-    "market": "TWSE",
-    "three_inst_ratio": 6.53,
-    "change": 5.67
-  },
-  {
-    "code": "2355",
-    "name": "敬鵬",
-    "market": "TWSE",
-    "three_inst_ratio": 17.05450716237183,
-    "change": 5.668604527820721
-  },
-  {
-    "code": "2493",
-    "name": "揚博",
-    "market": "TWSE",
-    "three_inst_ratio": 10.3549793989397,
-    "change": 5.516575247438164
-  },
-  {
-    "code": "3022",
-    "name": "威強電",
-    "market": "TWSE",
-    "three_inst_ratio": 20.342250964748768,
-    "change": 5.367831698799856
-  },
-  {
-    "code": "3305",
-    "name": "昇貿",
-    "market": "TWSE",
-    "three_inst_ratio": 6.90019470943611,
-    "change": 5.364184810590725
-  },
-  {
-    "code": "00992A",
-    "name": "主動群益科技創新",
-    "market": "TWSE",
-    "three_inst_ratio": 6.553424375741086,
-    "change": 5.363424375741086
-  },
-  {
-    "code": "4576",
-    "name": "大銀微系統",
-    "market": "TWSE",
-    "three_inst_ratio": 6.864198925545789,
-    "change": 5.3255044693467495
-  },
-  {
-    "code": "2606",
-    "name": "裕民",
-    "market": "TWSE",
-    "three_inst_ratio": 16.314807399964657,
-    "change": 5.308785949677128
-  },
-  {
-    "code": "2464",
-    "name": "盟立",
-    "market": "TWSE",
-    "three_inst_ratio": 8.448216006803827,
-    "change": 5.307731630896076
-  },
-  {
-    "code": "6531",
-    "name": "愛普*",
-    "market": "TWSE",
-    "three_inst_ratio": 37.59904500028063,
-    "change": 5.228110658016199
-  },
-  {
-    "code": "3055",
-    "name": "蔚華科",
-    "market": "TWSE",
-    "three_inst_ratio": 6.05,
-    "change": 5.21
-  },
-  {
-    "code": "3406",
-    "name": "玉晶光",
-    "market": "TWSE",
-    "three_inst_ratio": 42.136711401303685,
-    "change": 5.195548866186115
+    "three_inst_ratio": 14.7014556410838,
+    "change": 5.999800421195424
   },
   {
     "code": "00910",
     "name": "第一金太空衛星",
     "market": "TWSE",
-    "three_inst_ratio": 8.34,
-    "change": 5.17
+    "three_inst_ratio": 8.41,
+    "change": 5.93
   },
   {
-    "code": "2467",
-    "name": "志聖",
+    "code": "2327",
+    "name": "國巨*",
     "market": "TWSE",
-    "three_inst_ratio": 21.812013789163252,
-    "change": 5.130001180572698
+    "three_inst_ratio": 55.486003333020705,
+    "change": 5.79002303277629
   },
   {
-    "code": "00897",
-    "name": "富邦基因免疫生技",
+    "code": "5871",
+    "name": "中租-KY",
     "market": "TWSE",
-    "three_inst_ratio": 5.54,
-    "change": 5.12
+    "three_inst_ratio": 43.575712016891444,
+    "change": 5.741619479461377
   },
   {
-    "code": "5285",
-    "name": "界霖",
+    "code": "3305",
+    "name": "昇貿",
     "market": "TWSE",
-    "three_inst_ratio": 8.309930420074785,
-    "change": 5.109930420074785
-  },
-  {
-    "code": "8438",
-    "name": "昶昕",
-    "market": "TWSE",
-    "three_inst_ratio": 6.13,
-    "change": 5.091242297299229
-  },
-  {
-    "code": "1709",
-    "name": "和益",
-    "market": "TWSE",
-    "three_inst_ratio": 7.68,
-    "change": 5.02
-  },
-  {
-    "code": "5434",
-    "name": "崇越",
-    "market": "TWSE",
-    "three_inst_ratio": 34.260274462168816,
-    "change": 5.004511742575378
-  },
-  {
-    "code": "7750",
-    "name": "新代",
-    "market": "TWSE",
-    "three_inst_ratio": 18.155734309536072,
-    "change": 4.993976587837368
-  },
-  {
-    "code": "2027",
-    "name": "大成鋼",
-    "market": "TWSE",
-    "three_inst_ratio": 25.233794492143357,
-    "change": 4.9808066844682415
-  },
-  {
-    "code": "6415",
-    "name": "矽力*-KY",
-    "market": "TWSE",
-    "three_inst_ratio": 83.31400810180573,
-    "change": 4.967817455252074
-  },
-  {
-    "code": "3645",
-    "name": "達邁",
-    "market": "TWSE",
-    "three_inst_ratio": 15.428036729648836,
-    "change": 4.9582548707989655
-  },
-  {
-    "code": "8996",
-    "name": "高力",
-    "market": "TWSE",
-    "three_inst_ratio": 49.57349163879434,
-    "change": 4.878241326497388
-  },
-  {
-    "code": "9912",
-    "name": "偉聯",
-    "market": "TWSE",
-    "three_inst_ratio": 20.46,
-    "change": 4.870000000000001
-  },
-  {
-    "code": "2233",
-    "name": "宇隆",
-    "market": "TWSE",
-    "three_inst_ratio": 10.21025177991626,
-    "change": 4.832293698843232
-  },
-  {
-    "code": "00674R",
-    "name": "期元大S&P黃金反1",
-    "market": "TWSE",
-    "three_inst_ratio": 8.1,
-    "change": 4.83
-  },
-  {
-    "code": "3060",
-    "name": "銘異",
-    "market": "TWSE",
-    "three_inst_ratio": 12.405491375272701,
-    "change": 4.790775461080831
-  },
-  {
-    "code": "00994A",
-    "name": "主動第一金台股優",
-    "market": "TWSE",
-    "three_inst_ratio": 7.9,
-    "change": 4.78
+    "three_inst_ratio": 6.98019470943611,
+    "change": 5.7241848105907245
   },
   {
     "code": "6165",
     "name": "浪凡",
     "market": "TWSE",
-    "three_inst_ratio": 9.88,
-    "change": 4.720000000000001
+    "three_inst_ratio": 10.68,
+    "change": 5.62
   },
   {
-    "code": "3550",
-    "name": "聯穎",
+    "code": "4576",
+    "name": "大銀微系統",
     "market": "TWSE",
-    "three_inst_ratio": 8.407089725708973,
-    "change": 4.689888423988842
+    "three_inst_ratio": 6.9841989255457895,
+    "change": 5.51550446934675
   },
   {
-    "code": "6214",
-    "name": "精誠",
+    "code": "2355",
+    "name": "敬鵬",
     "market": "TWSE",
-    "three_inst_ratio": 14.965290439169532,
-    "change": 4.636864689659349
+    "three_inst_ratio": 17.12450716237183,
+    "change": 5.498604527820721
   },
   {
-    "code": "2465",
-    "name": "麗臺",
+    "code": "3048",
+    "name": "益登",
     "market": "TWSE",
-    "three_inst_ratio": 5.22,
-    "change": 4.609999999999999
+    "three_inst_ratio": 7.500344291112641,
+    "change": 5.48034429111264
   },
   {
-    "code": "7788",
-    "name": "松川精密",
+    "code": "3022",
+    "name": "威強電",
     "market": "TWSE",
-    "three_inst_ratio": 8.79,
-    "change": 4.559999999999999
+    "three_inst_ratio": 20.382250964748767,
+    "change": 5.397831698799855
   },
   {
-    "code": "6164",
-    "name": "華興",
+    "code": "3060",
+    "name": "銘異",
     "market": "TWSE",
-    "three_inst_ratio": 6.43,
-    "change": 4.55
+    "three_inst_ratio": 12.656945252578106,
+    "change": 5.382229338386236
   },
   {
-    "code": "4737",
-    "name": "華廣",
+    "code": "2606",
+    "name": "裕民",
     "market": "TWSE",
-    "three_inst_ratio": 28.48,
-    "change": 4.539999999999999
+    "three_inst_ratio": 16.373687828619754,
+    "change": 5.363168314848336
   },
   {
-    "code": "6443",
-    "name": "元晶",
+    "code": "00678",
+    "name": "群益那斯達克生技",
     "market": "TWSE",
-    "three_inst_ratio": 14.38,
-    "change": 4.520000000000001
+    "three_inst_ratio": 6.91,
+    "change": 5.2700000000000005
+  },
+  {
+    "code": "5434",
+    "name": "崇越",
+    "market": "TWSE",
+    "three_inst_ratio": 34.274618523083944,
+    "change": 5.223455629891983
+  },
+  {
+    "code": "2027",
+    "name": "大成鋼",
+    "market": "TWSE",
+    "three_inst_ratio": 25.215534442856494,
+    "change": 5.202546635181378
+  },
+  {
+    "code": "6415",
+    "name": "矽力*-KY",
+    "market": "TWSE",
+    "three_inst_ratio": 83.43327753792101,
+    "change": 5.194402527310757
+  },
+  {
+    "code": "5285",
+    "name": "界霖",
+    "market": "TWSE",
+    "three_inst_ratio": 8.359930420074784,
+    "change": 5.189930420074784
+  },
+  {
+    "code": "7750",
+    "name": "新代",
+    "market": "TWSE",
+    "three_inst_ratio": 18.437563297746475,
+    "change": 5.17580557604777
+  },
+  {
+    "code": "3645",
+    "name": "達邁",
+    "market": "TWSE",
+    "three_inst_ratio": 15.508036729648836,
+    "change": 5.148254870798965
+  },
+  {
+    "code": "8438",
+    "name": "昶昕",
+    "market": "TWSE",
+    "three_inst_ratio": 6.1,
+    "change": 5.142672032941109
+  },
+  {
+    "code": "3055",
+    "name": "蔚華科",
+    "market": "TWSE",
+    "three_inst_ratio": 6.03,
+    "change": 5.11
+  },
+  {
+    "code": "1709",
+    "name": "和益",
+    "market": "TWSE",
+    "three_inst_ratio": 7.69,
+    "change": 5.050000000000001
+  },
+  {
+    "code": "6531",
+    "name": "愛普*",
+    "market": "TWSE",
+    "three_inst_ratio": 37.5475523729273,
+    "change": 5.033540960492523
+  },
+  {
+    "code": "2493",
+    "name": "揚博",
+    "market": "TWSE",
+    "three_inst_ratio": 9.77207737943885,
+    "change": 5.023673227937314
+  },
+  {
+    "code": "00994A",
+    "name": "主動第一金台股優",
+    "market": "TWSE",
+    "three_inst_ratio": 7.86,
+    "change": 5.0200000000000005
+  },
+  {
+    "code": "2436",
+    "name": "偉詮電",
+    "market": "TWSE",
+    "three_inst_ratio": 12.037257029131553,
+    "change": 5.015839348491063
+  },
+  {
+    "code": "00981A",
+    "name": "主動統一台股增長",
+    "market": "TWSE",
+    "three_inst_ratio": 6.1288478120083045,
+    "change": 5.000611327901461
+  },
+  {
+    "code": "3406",
+    "name": "玉晶光",
+    "market": "TWSE",
+    "three_inst_ratio": 41.819159828928896,
+    "change": 4.964135271542162
   },
   {
     "code": "00634R",
     "name": "富邦上証反1",
     "market": "TWSE",
-    "three_inst_ratio": 9.23,
-    "change": 4.510000000000001
+    "three_inst_ratio": 9.65,
+    "change": 4.930000000000001
   },
   {
-    "code": "2243",
-    "name": "宏旭-KY",
+    "code": "6443",
+    "name": "元晶",
     "market": "TWSE",
-    "three_inst_ratio": 28.973337650826117,
-    "change": 4.493337650826117
+    "three_inst_ratio": 14.46,
+    "change": 4.9
+  },
+  {
+    "code": "9912",
+    "name": "偉聯",
+    "market": "TWSE",
+    "three_inst_ratio": 20.49,
+    "change": 4.899999999999999
+  },
+  {
+    "code": "2465",
+    "name": "麗臺",
+    "market": "TWSE",
+    "three_inst_ratio": 5.47,
+    "change": 4.88
+  },
+  {
+    "code": "3550",
+    "name": "聯穎",
+    "market": "TWSE",
+    "three_inst_ratio": 8.288949325894933,
+    "change": 4.791748024174803
+  },
+  {
+    "code": "2467",
+    "name": "志聖",
+    "market": "TWSE",
+    "three_inst_ratio": 21.853561504323082,
+    "change": 4.745790492899598
+  },
+  {
+    "code": "00897",
+    "name": "富邦基因免疫生技",
+    "market": "TWSE",
+    "three_inst_ratio": 5.47,
+    "change": 4.7299999999999995
+  },
+  {
+    "code": "6214",
+    "name": "精誠",
+    "market": "TWSE",
+    "three_inst_ratio": 15.105290439169531,
+    "change": 4.706864689659348
+  },
+  {
+    "code": "2481",
+    "name": "強茂",
+    "market": "TWSE",
+    "three_inst_ratio": 32.580847896449754,
+    "change": 4.626588321554898
+  },
+  {
+    "code": "7788",
+    "name": "松川精密",
+    "market": "TWSE",
+    "three_inst_ratio": 8.83,
+    "change": 4.61
+  },
+  {
+    "code": "1303",
+    "name": "南亞",
+    "market": "TWSE",
+    "three_inst_ratio": 36.20285671678473,
+    "change": 4.582018735606432
+  },
+  {
+    "code": "6164",
+    "name": "華興",
+    "market": "TWSE",
+    "three_inst_ratio": 6.42,
+    "change": 4.58
+  },
+  {
+    "code": "8996",
+    "name": "高力",
+    "market": "TWSE",
+    "three_inst_ratio": 50.19884347281902,
+    "change": 4.562952856803207
+  },
+  {
+    "code": "1597",
+    "name": "直得",
+    "market": "TWSE",
+    "three_inst_ratio": 8.8,
+    "change": 4.470000000000001
   },
   {
     "code": "2428",
     "name": "興勤",
     "market": "TWSE",
     "three_inst_ratio": 20.593412208245418,
-    "change": 4.475435971286725
+    "change": 4.455435971286725
   },
   {
-    "code": "00917",
-    "name": "中信特選金融",
+    "code": "2243",
+    "name": "宏旭-KY",
     "market": "TWSE",
-    "three_inst_ratio": 4.63,
-    "change": 4.32
-  },
-  {
-    "code": "2395",
-    "name": "研華",
-    "market": "TWSE",
-    "three_inst_ratio": 36.01334182582808,
-    "change": 4.308498078156006
-  },
-  {
-    "code": "2436",
-    "name": "偉詮電",
-    "market": "TWSE",
-    "three_inst_ratio": 11.907257029131552,
-    "change": 4.280841147287965
-  },
-  {
-    "code": "00632R",
-    "name": "元大台灣50反1",
-    "market": "TWSE",
-    "three_inst_ratio": 5.288134059916169,
-    "change": 4.276451741363264
-  },
-  {
-    "code": "2890",
-    "name": "永豐金",
-    "market": "TWSE",
-    "three_inst_ratio": 32.09847076736543,
-    "change": 4.240668034716531
-  },
-  {
-    "code": "1597",
-    "name": "直得",
-    "market": "TWSE",
-    "three_inst_ratio": 8.77,
-    "change": 4.199999999999999
-  },
-  {
-    "code": "6196",
-    "name": "帆宣",
-    "market": "TWSE",
-    "three_inst_ratio": 13.50249915216766,
-    "change": 4.196981984595508
-  },
-  {
-    "code": "1303",
-    "name": "南亞",
-    "market": "TWSE",
-    "three_inst_ratio": 36.3178131031375,
-    "change": 4.195604809958354
-  },
-  {
-    "code": "2645",
-    "name": "長榮航太",
-    "market": "TWSE",
-    "three_inst_ratio": 14.12961124354322,
-    "change": 4.194776733814193
-  },
-  {
-    "code": "3591",
-    "name": "艾笛森",
-    "market": "TWSE",
-    "three_inst_ratio": 6.54,
-    "change": 4.15
-  },
-  {
-    "code": "6449",
-    "name": "鈺邦",
-    "market": "TWSE",
-    "three_inst_ratio": 12.714598734253507,
-    "change": 4.135915580824808
-  },
-  {
-    "code": "2461",
-    "name": "光群雷",
-    "market": "TWSE",
-    "three_inst_ratio": 8.84,
-    "change": 4.04
-  },
-  {
-    "code": "2851",
-    "name": "中再保",
-    "market": "TWSE",
-    "three_inst_ratio": 9.399648124114687,
-    "change": 4.038937344509152
-  },
-  {
-    "code": "2542",
-    "name": "興富發",
-    "market": "TWSE",
-    "three_inst_ratio": 13.449838697266635,
-    "change": 3.9813778367060415
-  },
-  {
-    "code": "6277",
-    "name": "宏正",
-    "market": "TWSE",
-    "three_inst_ratio": 10.808930495915643,
-    "change": 3.9687091730568707
-  },
-  {
-    "code": "1342",
-    "name": "八貫",
-    "market": "TWSE",
-    "three_inst_ratio": 31.9212785672658,
-    "change": 3.963331791470825
-  },
-  {
-    "code": "6890",
-    "name": "來億-KY",
-    "market": "TWSE",
-    "three_inst_ratio": 91.6461303127506,
-    "change": 3.954301924619074
-  },
-  {
-    "code": "4961",
-    "name": "天鈺",
-    "market": "TWSE",
-    "three_inst_ratio": 17.53849450964356,
-    "change": 3.852310597813739
-  },
-  {
-    "code": "6994",
-    "name": "富威電力",
-    "market": "TWSE",
-    "three_inst_ratio": 5.85,
-    "change": 3.7899999999999996
+    "three_inst_ratio": 28.844779121439803,
+    "change": 4.344779121439803
   },
   {
     "code": "2301",
     "name": "光寶科",
     "market": "TWSE",
-    "three_inst_ratio": 34.31711250438048,
-    "change": 3.7712207119558556
+    "three_inst_ratio": 35.56718706913207,
+    "change": 4.308233498207649
   },
   {
-    "code": "2485",
-    "name": "兆赫",
+    "code": "2645",
+    "name": "長榮航太",
     "market": "TWSE",
-    "three_inst_ratio": 6.27,
-    "change": 3.7499999999999996
+    "three_inst_ratio": 14.09038925163665,
+    "change": 4.28528776979781
   },
   {
-    "code": "1516",
-    "name": "川飛",
+    "code": "2395",
+    "name": "研華",
     "market": "TWSE",
-    "three_inst_ratio": 5.86,
-    "change": 3.7300000000000004
+    "three_inst_ratio": 36.01704561850424,
+    "change": 4.282433307546452
   },
   {
-    "code": "3717",
-    "name": "聯嘉投控",
+    "code": "2890",
+    "name": "永豐金",
     "market": "TWSE",
-    "three_inst_ratio": 5.42,
-    "change": 3.73
+    "three_inst_ratio": 32.171761497073746,
+    "change": 4.262618213606064
   },
   {
-    "code": "6271",
-    "name": "同欣電",
+    "code": "1342",
+    "name": "八貫",
     "market": "TWSE",
-    "three_inst_ratio": 31.766950950612642,
-    "change": 3.725833360024488
+    "three_inst_ratio": 32.23256060372225,
+    "change": 4.234613827927273
   },
   {
-    "code": "6834",
-    "name": "天二科技",
+    "code": "3591",
+    "name": "艾笛森",
     "market": "TWSE",
-    "three_inst_ratio": 14.018762244368165,
-    "change": 3.568762244368166
+    "three_inst_ratio": 6.62,
+    "change": 4.23
   },
   {
-    "code": "6405",
-    "name": "悅城",
+    "code": "6449",
+    "name": "鈺邦",
     "market": "TWSE",
-    "three_inst_ratio": 6.73,
-    "change": 3.5600000000000005
+    "three_inst_ratio": 12.774598734253505,
+    "change": 4.215915580824806
   },
   {
-    "code": "3576",
-    "name": "聯合再生",
+    "code": "00917",
+    "name": "中信特選金融",
     "market": "TWSE",
-    "three_inst_ratio": 14.419896854357384,
-    "change": 3.519896854357384
+    "three_inst_ratio": 4.8,
+    "change": 4.1899999999999995
   },
   {
-    "code": "4590",
-    "name": "富田-創",
+    "code": "2461",
+    "name": "光群雷",
     "market": "TWSE",
-    "three_inst_ratio": 3.49,
-    "change": 3.49
+    "three_inst_ratio": 8.95,
+    "change": 4.129999999999999
   },
   {
-    "code": "2347",
-    "name": "聯強",
+    "code": "6196",
+    "name": "帆宣",
     "market": "TWSE",
-    "three_inst_ratio": 29.254165092663786,
-    "change": 3.456937287037295
+    "three_inst_ratio": 13.376363711102927,
+    "change": 4.1232102656401945
   },
   {
-    "code": "2030",
-    "name": "彰源",
+    "code": "00992A",
+    "name": "主動群益科技創新",
     "market": "TWSE",
-    "three_inst_ratio": 5.52,
-    "change": 3.4499999999999997
+    "three_inst_ratio": 5.272931116650422,
+    "change": 4.102931116650422
   },
   {
-    "code": "2897",
-    "name": "王道銀行",
+    "code": "6277",
+    "name": "宏正",
     "market": "TWSE",
-    "three_inst_ratio": 8.86546836731253,
-    "change": 3.4368636724430086
+    "three_inst_ratio": 10.908930495915643,
+    "change": 4.03870917305687
   },
   {
-    "code": "4956",
-    "name": "光鋐",
+    "code": "4737",
+    "name": "華廣",
     "market": "TWSE",
-    "three_inst_ratio": 11.800995934237905,
-    "change": 3.4209959342379044
+    "three_inst_ratio": 28.48,
+    "change": 3.9800000000000004
   },
   {
-    "code": "00678",
-    "name": "群益那斯達克生技",
+    "code": "2851",
+    "name": "中再保",
     "market": "TWSE",
-    "three_inst_ratio": 5.05,
-    "change": 3.41
+    "three_inst_ratio": 9.369648124114688,
+    "change": 3.9489373445091527
+  },
+  {
+    "code": "6890",
+    "name": "來億-KY",
+    "market": "TWSE",
+    "three_inst_ratio": 91.6580629510826,
+    "change": 3.9262345629510804
+  },
+  {
+    "code": "6994",
+    "name": "富威電力",
+    "market": "TWSE",
+    "three_inst_ratio": 5.91,
+    "change": 3.91
+  },
+  {
+    "code": "2542",
+    "name": "興富發",
+    "market": "TWSE",
+    "three_inst_ratio": 13.412718288275391,
+    "change": 3.8954999018081953
   },
   {
     "code": "2388",
     "name": "威盛",
     "market": "TWSE",
-    "three_inst_ratio": 16.485237682274686,
-    "change": 3.3585592664258535
+    "three_inst_ratio": 17.02523768227469,
+    "change": 3.848559266425857
   },
   {
-    "code": "2382",
-    "name": "廣達",
+    "code": "3717",
+    "name": "聯嘉投控",
     "market": "TWSE",
-    "three_inst_ratio": 26.820843569983737,
-    "change": 3.3495089196995025
+    "three_inst_ratio": 5.48,
+    "change": 3.7900000000000005
   },
   {
-    "code": "3029",
-    "name": "零壹",
+    "code": "4961",
+    "name": "天鈺",
     "market": "TWSE",
-    "three_inst_ratio": 7.024644467982233,
-    "change": 3.2914054035630933
+    "three_inst_ratio": 17.57849450964356,
+    "change": 3.7706611622914004
   },
   {
-    "code": "0050",
-    "name": "元大台灣50",
+    "code": "2485",
+    "name": "兆赫",
     "market": "TWSE",
-    "three_inst_ratio": 7.295558767287766,
-    "change": 3.2887678795819353
+    "three_inst_ratio": 6.05,
+    "change": 3.75
   },
   {
-    "code": "4771",
-    "name": "望隼",
+    "code": "2344",
+    "name": "華邦電",
     "market": "TWSE",
-    "three_inst_ratio": 7.75,
-    "change": 3.26
+    "three_inst_ratio": 28.058321380109774,
+    "change": 3.7433167191755317
   },
   {
-    "code": "2367",
-    "name": "燿華",
+    "code": "1516",
+    "name": "川飛",
     "market": "TWSE",
-    "three_inst_ratio": 12.85380101512464,
-    "change": 3.208495440392179
+    "three_inst_ratio": 5.88,
+    "change": 3.73
+  },
+  {
+    "code": "6706",
+    "name": "惠特",
+    "market": "TWSE",
+    "three_inst_ratio": 11.919456340330315,
+    "change": 3.5275083713813054
   },
   {
     "code": "2434",
     "name": "統懋",
     "market": "TWSE",
-    "three_inst_ratio": 4.16,
-    "change": 3.1100000000000003
+    "three_inst_ratio": 4.53,
+    "change": 3.49
   },
   {
-    "code": "1568",
-    "name": "倉佑",
+    "code": "00988A",
+    "name": "主動統一全球創新",
     "market": "TWSE",
-    "three_inst_ratio": 4.34,
-    "change": 3.0999999999999996
-  },
-  {
-    "code": "5269",
-    "name": "祥碩",
-    "market": "TWSE",
-    "three_inst_ratio": 16.24691519465158,
-    "change": 3.0952024827340097
+    "three_inst_ratio": 4.83625073195943,
+    "change": 3.44625073195943
   },
   {
     "code": "00733",
     "name": "富邦臺灣中小",
     "market": "TWSE",
-    "three_inst_ratio": 6.009884120299854,
-    "change": 3.088153083854338
+    "three_inst_ratio": 6.05721696854712,
+    "change": 3.443783071901669
+  },
+  {
+    "code": "2233",
+    "name": "宇隆",
+    "market": "TWSE",
+    "three_inst_ratio": 10.110251779916261,
+    "change": 3.4156111037123758
+  },
+  {
+    "code": "6405",
+    "name": "悅城",
+    "market": "TWSE",
+    "three_inst_ratio": 6.71,
+    "change": 3.4
+  },
+  {
+    "code": "2897",
+    "name": "王道銀行",
+    "market": "TWSE",
+    "three_inst_ratio": 8.847916501988628,
+    "change": 3.389311807119106
+  },
+  {
+    "code": "2030",
+    "name": "彰源",
+    "market": "TWSE",
+    "three_inst_ratio": 5.48,
+    "change": 3.3800000000000003
+  },
+  {
+    "code": "2347",
+    "name": "聯強",
+    "market": "TWSE",
+    "three_inst_ratio": 29.266143572833304,
+    "change": 3.3589157672068097
+  },
+  {
+    "code": "3576",
+    "name": "聯合再生",
+    "market": "TWSE",
+    "three_inst_ratio": 14.329896854357385,
+    "change": 3.349896854357384
+  },
+  {
+    "code": "0050",
+    "name": "元大台灣50",
+    "market": "TWSE",
+    "three_inst_ratio": 7.204845372284844,
+    "change": 3.349696428208545
+  },
+  {
+    "code": "3029",
+    "name": "零壹",
+    "market": "TWSE",
+    "three_inst_ratio": 7.152848116859969,
+    "change": 3.3224820166690368
+  },
+  {
+    "code": "4771",
+    "name": "望隼",
+    "market": "TWSE",
+    "three_inst_ratio": 7.76,
+    "change": 3.25
+  },
+  {
+    "code": "00763U",
+    "name": "期街口道瓊銅",
+    "market": "TWSE",
+    "three_inst_ratio": 3.51,
+    "change": 3.2299999999999995
+  },
+  {
+    "code": "6271",
+    "name": "同欣電",
+    "market": "TWSE",
+    "three_inst_ratio": 31.57695095061264,
+    "change": 3.185833360024489
+  },
+  {
+    "code": "00674R",
+    "name": "期元大S&P黃金反1",
+    "market": "TWSE",
+    "three_inst_ratio": 8.1,
+    "change": 3.1599999999999993
+  },
+  {
+    "code": "00898",
+    "name": "國泰基因免疫革命",
+    "market": "TWSE",
+    "three_inst_ratio": 4.39,
+    "change": 3.1499999999999995
+  },
+  {
+    "code": "6416",
+    "name": "瑞祺電通",
+    "market": "TWSE",
+    "three_inst_ratio": 6.347927700186207,
+    "change": 3.147927700186207
+  },
+  {
+    "code": "6120",
+    "name": "達運",
+    "market": "TWSE",
+    "three_inst_ratio": 9.75727924136417,
+    "change": 3.1434558748504804
   },
   {
     "code": "8454",
     "name": "富邦媒",
     "market": "TWSE",
-    "three_inst_ratio": 15.910361020476344,
-    "change": 3.0817728342767072
+    "three_inst_ratio": 15.990361020476344,
+    "change": 3.131772834276708
   },
   {
-    "code": "7610",
-    "name": "聯友金屬-創",
+    "code": "4571",
+    "name": "鈞興-KY",
     "market": "TWSE",
-    "three_inst_ratio": 20.97,
-    "change": 3.0799999999999983
+    "three_inst_ratio": 64.31194480216436,
+    "change": 3.129017298470508
+  },
+  {
+    "code": "00653L",
+    "name": "富邦印度正2",
+    "market": "TWSE",
+    "three_inst_ratio": 4.26,
+    "change": 3.11
+  },
+  {
+    "code": "1568",
+    "name": "倉佑",
+    "market": "TWSE",
+    "three_inst_ratio": 4.33,
+    "change": 3.08
+  },
+  {
+    "code": "4590",
+    "name": "富田-創",
+    "market": "TWSE",
+    "three_inst_ratio": 3.46,
+    "change": 3.05
   },
   {
     "code": "00709",
     "name": "富邦歐洲",
     "market": "TWSE",
     "three_inst_ratio": 3.7001034928848644,
-    "change": 3.0501034928848645
+    "change": 3.0401034928848643
+  },
+  {
+    "code": "3708",
+    "name": "上緯投控",
+    "market": "TWSE",
+    "three_inst_ratio": 8.240513130481059,
+    "change": 3.0224669331977996
   },
   {
     "code": "2349",
     "name": "錸德",
     "market": "TWSE",
     "three_inst_ratio": 14.11,
-    "change": 3.0299999999999994
-  },
-  {
-    "code": "4571",
-    "name": "鈞興-KY",
-    "market": "TWSE",
-    "three_inst_ratio": 64.24194480216435,
-    "change": 3.0090172984704964
-  },
-  {
-    "code": "2501",
-    "name": "國建",
-    "market": "TWSE",
-    "three_inst_ratio": 12.226414969011131,
-    "change": 2.9796822672190117
-  },
-  {
-    "code": "2615",
-    "name": "萬海",
-    "market": "TWSE",
-    "three_inst_ratio": 39.986602125080296,
-    "change": 2.9793553107496535
-  },
-  {
-    "code": "2317",
-    "name": "鴻海",
-    "market": "TWSE",
-    "three_inst_ratio": 40.40466421430919,
-    "change": 2.9701534782414143
+    "change": 3.0199999999999996
   },
   {
     "code": "3443",
     "name": "創意",
     "market": "TWSE",
-    "three_inst_ratio": 33.91335622241817,
-    "change": 2.948975255042818
-  },
-  {
-    "code": "6446",
-    "name": "藥華藥",
-    "market": "TWSE",
-    "three_inst_ratio": 26.301395551637633,
-    "change": 2.9300782504061225
-  },
-  {
-    "code": "6416",
-    "name": "瑞祺電通",
-    "market": "TWSE",
-    "three_inst_ratio": 6.147927700186208,
-    "change": 2.9279277001862076
-  },
-  {
-    "code": "00988A",
-    "name": "主動統一全球創新",
-    "market": "TWSE",
-    "three_inst_ratio": 4.68595145070765,
-    "change": 2.9259514507076503
-  },
-  {
-    "code": "6120",
-    "name": "達運",
-    "market": "TWSE",
-    "three_inst_ratio": 9.57727924136417,
-    "change": 2.9234558748504806
-  },
-  {
-    "code": "00763U",
-    "name": "期街口道瓊銅",
-    "market": "TWSE",
-    "three_inst_ratio": 3.49,
-    "change": 2.9000000000000004
-  },
-  {
-    "code": "00656R",
-    "name": "國泰中國A50反1",
-    "market": "TWSE",
-    "three_inst_ratio": 2.91,
-    "change": 2.89
+    "three_inst_ratio": 34.23528657165407,
+    "change": 3.017469518362443
   },
   {
     "code": "1326",
     "name": "台化",
     "market": "TWSE",
-    "three_inst_ratio": 37.87864310080841,
-    "change": 2.862359636562182
+    "three_inst_ratio": 37.85347147489429,
+    "change": 2.9971880106480597
+  },
+  {
+    "code": "2615",
+    "name": "萬海",
+    "market": "TWSE",
+    "three_inst_ratio": 40.01606758416782,
+    "change": 2.995619381886584
+  },
+  {
+    "code": "5269",
+    "name": "祥碩",
+    "market": "TWSE",
+    "three_inst_ratio": 16.358263690853796,
+    "change": 2.9438763643491903
   },
   {
     "code": "2379",
     "name": "瑞昱",
     "market": "TWSE",
-    "three_inst_ratio": 49.04463510800698,
-    "change": 2.853760959937354
+    "three_inst_ratio": 49.13420087458146,
+    "change": 2.9426378463918113
   },
   {
-    "code": "3708",
-    "name": "上緯投控",
+    "code": "2501",
+    "name": "國建",
     "market": "TWSE",
-    "three_inst_ratio": 8.120513130481058,
-    "change": 2.8524669331977988
+    "three_inst_ratio": 12.217603395389634,
+    "change": 2.930870693597516
   },
   {
-    "code": "3016",
-    "name": "嘉晶",
+    "code": "00656R",
+    "name": "國泰中國A50反1",
     "market": "TWSE",
-    "three_inst_ratio": 5.209569559794034,
-    "change": 2.8295695597940345
+    "three_inst_ratio": 2.92,
+    "change": 2.9
   },
   {
-    "code": "00898",
-    "name": "國泰基因免疫革命",
+    "code": "2495",
+    "name": "普安",
     "market": "TWSE",
-    "three_inst_ratio": 4.05,
-    "change": 2.7699999999999996
-  },
-  {
-    "code": "8473",
-    "name": "山林水",
-    "market": "TWSE",
-    "three_inst_ratio": 4.21,
-    "change": 2.75
+    "three_inst_ratio": 7.750317701449005,
+    "change": 2.8906832632759683
   },
   {
     "code": "4938",
     "name": "和碩",
     "market": "TWSE",
-    "three_inst_ratio": 30.38218468180797,
-    "change": 2.7444959511211984
+    "three_inst_ratio": 30.594459066480905,
+    "change": 2.872847436448094
   },
   {
-    "code": "2527",
-    "name": "宏璟",
+    "code": "2484",
+    "name": "希華",
     "market": "TWSE",
-    "three_inst_ratio": 44.14048715159856,
-    "change": 2.702842926165168
+    "three_inst_ratio": 7.076589684765664,
+    "change": 2.8465896847656635
+  },
+  {
+    "code": "4956",
+    "name": "光鋐",
+    "market": "TWSE",
+    "three_inst_ratio": 11.710995934237905,
+    "change": 2.8209959342379047
+  },
+  {
+    "code": "2317",
+    "name": "鴻海",
+    "market": "TWSE",
+    "three_inst_ratio": 40.38095401374835,
+    "change": 2.8196451101248456
+  },
+  {
+    "code": "8473",
+    "name": "山林水",
+    "market": "TWSE",
+    "three_inst_ratio": 4.24,
+    "change": 2.7700000000000005
+  },
+  {
+    "code": "1563",
+    "name": "巧新",
+    "market": "TWSE",
+    "three_inst_ratio": 4.38,
+    "change": 2.7699999999999996
   },
   {
     "code": "3661",
     "name": "世芯-KY",
     "market": "TWSE",
-    "three_inst_ratio": 53.579768197848836,
-    "change": 2.672390669896103
-  },
-  {
-    "code": "1723",
-    "name": "中碳",
-    "market": "TWSE",
-    "three_inst_ratio": 9.131022150362035,
-    "change": 2.6625850688851465
+    "three_inst_ratio": 53.550208461202395,
+    "change": 2.751521519608481
   },
   {
     "code": "00643",
     "name": "群益深証中小",
     "market": "TWSE",
-    "three_inst_ratio": 16.09,
-    "change": 2.6400000000000006
-  },
-  {
-    "code": "6141",
-    "name": "柏承",
-    "market": "TWSE",
-    "three_inst_ratio": 4.47,
-    "change": 2.6199999999999997
-  },
-  {
-    "code": "00757",
-    "name": "統一FANG+",
-    "market": "TWSE",
-    "three_inst_ratio": 2.5986320563006693,
-    "change": 2.6132050289019175
+    "three_inst_ratio": 16.19,
+    "change": 2.7300000000000004
   },
   {
     "code": "2365",
     "name": "昆盈",
     "market": "TWSE",
-    "three_inst_ratio": 3.36,
-    "change": 2.61
+    "three_inst_ratio": 3.39,
+    "change": 2.73
+  },
+  {
+    "code": "00757",
+    "name": "統一FANG+",
+    "market": "TWSE",
+    "three_inst_ratio": 2.621214616682207,
+    "change": 2.702963564715939
+  },
+  {
+    "code": "3016",
+    "name": "嘉晶",
+    "market": "TWSE",
+    "three_inst_ratio": 4.8695695597940345,
+    "change": 2.6895695597940343
+  },
+  {
+    "code": "3588",
+    "name": "通嘉",
+    "market": "TWSE",
+    "three_inst_ratio": 4.94,
+    "change": 2.6800000000000006
+  },
+  {
+    "code": "1723",
+    "name": "中碳",
+    "market": "TWSE",
+    "three_inst_ratio": 9.121022150362036,
+    "change": 2.6725850688851462
+  },
+  {
+    "code": "1301",
+    "name": "台塑",
+    "market": "TWSE",
+    "three_inst_ratio": 31.815281665282438,
+    "change": 2.6408322115999177
+  },
+  {
+    "code": "6141",
+    "name": "柏承",
+    "market": "TWSE",
+    "three_inst_ratio": 4.5,
+    "change": 2.63
   }
 ]
