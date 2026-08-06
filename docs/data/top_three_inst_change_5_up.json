@@ -490,17 +490,17 @@
     "change": 1.2692069844397267
   },
   {
-    "code": "00993A",
-    "name": "主動安聯台灣",
-    "market": "TWSE",
-    "three_inst_ratio": 1.57,
-    "change": 1.25
-  },
-  {
     "code": "00783",
     "name": "富邦中証500",
     "market": "TWSE",
     "three_inst_ratio": 5.63,
+    "change": 1.25
+  },
+  {
+    "code": "00993A",
+    "name": "主動安聯台灣",
+    "market": "TWSE",
+    "three_inst_ratio": 1.57,
     "change": 1.25
   },
   {
@@ -560,17 +560,17 @@
     "change": 1.1678291576292423
   },
   {
-    "code": "3149",
-    "name": "正達",
-    "market": "TWSE",
-    "three_inst_ratio": 4.41,
-    "change": 1.1600000000000001
-  },
-  {
     "code": "00666R",
     "name": "富邦恒生國企反1",
     "market": "TWSE",
     "three_inst_ratio": 9.85,
+    "change": 1.1600000000000001
+  },
+  {
+    "code": "3149",
+    "name": "正達",
+    "market": "TWSE",
+    "three_inst_ratio": 4.41,
     "change": 1.1600000000000001
   },
   {
@@ -812,17 +812,17 @@
     "change": 0.8000000000000003
   },
   {
-    "code": "1536",
-    "name": "和大",
-    "market": "TWSE",
-    "three_inst_ratio": 4.6526750635315315,
-    "change": 0.7999999999999998
-  },
-  {
     "code": "6416",
     "name": "瑞祺電通",
     "market": "TWSE",
     "three_inst_ratio": 6.627927700186207,
+    "change": 0.7999999999999998
+  },
+  {
+    "code": "1536",
+    "name": "和大",
+    "market": "TWSE",
+    "three_inst_ratio": 4.6526750635315315,
     "change": 0.7999999999999998
   },
   {
@@ -952,10 +952,10 @@
     "change": 0.7172823811375615
   },
   {
-    "code": "3004",
-    "name": "豐達科",
+    "code": "00896",
+    "name": "中信綠能及電動車",
     "market": "TWSE",
-    "three_inst_ratio": 4.752909981200202,
+    "three_inst_ratio": 0.97,
     "change": 0.71
   },
   {
@@ -966,10 +966,10 @@
     "change": 0.71
   },
   {
-    "code": "00896",
-    "name": "中信綠能及電動車",
+    "code": "3004",
+    "name": "豐達科",
     "market": "TWSE",
-    "three_inst_ratio": 0.97,
+    "three_inst_ratio": 4.752909981200202,
     "change": 0.71
   },
   {
@@ -980,17 +980,17 @@
     "change": 0.701775189246785
   },
   {
-    "code": "00401A",
-    "name": "主動摩根台灣鑫收",
-    "market": "TWSE",
-    "three_inst_ratio": 2.27,
-    "change": 0.7
-  },
-  {
     "code": "00688L",
     "name": "國泰20年美債正2",
     "market": "TWSE",
     "three_inst_ratio": 2.23,
+    "change": 0.7
+  },
+  {
+    "code": "00401A",
+    "name": "主動摩根台灣鑫收",
+    "market": "TWSE",
+    "three_inst_ratio": 2.27,
     "change": 0.7
   },
   {
@@ -1379,17 +1379,17 @@
     "change": 0.5028985810690632
   },
   {
-    "code": "00714",
-    "name": "群益道瓊美國地產",
-    "market": "TWSE",
-    "three_inst_ratio": 10.67,
-    "change": 0.5
-  },
-  {
     "code": "2340",
     "name": "台亞",
     "market": "TWSE",
     "three_inst_ratio": 9.258632082196648,
+    "change": 0.5
+  },
+  {
+    "code": "00714",
+    "name": "群益道瓊美國地產",
+    "market": "TWSE",
+    "three_inst_ratio": 10.67,
     "change": 0.5
   },
   {

@@ -742,17 +742,17 @@
     "change": 3.3016240784424866
   },
   {
-    "code": "7788",
-    "name": "松川精密",
-    "market": "TWSE",
-    "three_inst_ratio": 8.62,
-    "change": 3.2399999999999993
-  },
-  {
     "code": "5285",
     "name": "界霖",
     "market": "TWSE",
     "three_inst_ratio": 8.269930420074784,
+    "change": 3.2399999999999993
+  },
+  {
+    "code": "7788",
+    "name": "松川精密",
+    "market": "TWSE",
+    "three_inst_ratio": 8.62,
     "change": 3.2399999999999993
   },
   {
@@ -1162,6 +1162,13 @@
     "change": 2.349722693403127
   },
   {
+    "code": "00739",
+    "name": "元大MSCI A股",
+    "market": "TWSE",
+    "three_inst_ratio": 3.0,
+    "change": 2.34
+  },
+  {
     "code": "2101",
     "name": "南港",
     "market": "TWSE",
@@ -1173,13 +1180,6 @@
     "name": "時碩工業",
     "market": "TWSE",
     "three_inst_ratio": 4.38,
-    "change": 2.34
-  },
-  {
-    "code": "00739",
-    "name": "元大MSCI A股",
-    "market": "TWSE",
-    "three_inst_ratio": 3.0,
     "change": 2.34
   },
   {
@@ -1218,17 +1218,17 @@
     "change": 2.2631014977451684
   },
   {
-    "code": "00640L",
-    "name": "富邦日本正2",
-    "market": "TWSE",
-    "three_inst_ratio": 2.82,
-    "change": 2.25
-  },
-  {
     "code": "4771",
     "name": "望隼",
     "market": "TWSE",
     "three_inst_ratio": 7.97,
+    "change": 2.25
+  },
+  {
+    "code": "00640L",
+    "name": "富邦日本正2",
+    "market": "TWSE",
+    "three_inst_ratio": 2.82,
     "change": 2.25
   },
   {
