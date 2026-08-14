@@ -742,17 +742,17 @@
     "change": 0.7071312300884793
   },
   {
-    "code": "4956",
-    "name": "光鋐",
-    "market": "TWSE",
-    "three_inst_ratio": 11.750995934237904,
-    "change": 0.6899999999999995
-  },
-  {
     "code": "1709",
     "name": "和益",
     "market": "TWSE",
     "three_inst_ratio": 8.28,
+    "change": 0.6899999999999995
+  },
+  {
+    "code": "4956",
+    "name": "光鋐",
+    "market": "TWSE",
+    "three_inst_ratio": 11.750995934237904,
     "change": 0.6899999999999995
   },
   {
@@ -1253,10 +1253,10 @@
     "change": 0.41999999999999815
   },
   {
-    "code": "1309",
-    "name": "台達化",
+    "code": "6416",
+    "name": "瑞祺電通",
     "market": "TWSE",
-    "three_inst_ratio": 2.85,
+    "three_inst_ratio": 7.207927700186207,
     "change": 0.41000000000000014
   },
   {
@@ -1267,10 +1267,10 @@
     "change": 0.41000000000000014
   },
   {
-    "code": "6416",
-    "name": "瑞祺電通",
+    "code": "1309",
+    "name": "台達化",
     "market": "TWSE",
-    "three_inst_ratio": 7.207927700186207,
+    "three_inst_ratio": 2.85,
     "change": 0.41000000000000014
   },
   {
@@ -1337,17 +1337,17 @@
     "change": 0.39241980635907225
   },
   {
-    "code": "8163",
-    "name": "達方",
-    "market": "TWSE",
-    "three_inst_ratio": 9.467312143152457,
-    "change": 0.39000000000000057
-  },
-  {
     "code": "3437",
     "name": "榮創",
     "market": "TWSE",
     "three_inst_ratio": 5.45,
+    "change": 0.39000000000000057
+  },
+  {
+    "code": "8163",
+    "name": "達方",
+    "market": "TWSE",
+    "three_inst_ratio": 9.467312143152457,
     "change": 0.39000000000000057
   },
   {

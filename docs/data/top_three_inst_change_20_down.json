@@ -497,17 +497,17 @@
     "change": -1.5572712721563935
   },
   {
-    "code": "3011",
-    "name": "今皓",
-    "market": "TWSE",
-    "three_inst_ratio": 2.54,
-    "change": -1.5300000000000002
-  },
-  {
     "code": "00926",
     "name": "凱基全球菁英55",
     "market": "TWSE",
     "three_inst_ratio": 2.03,
+    "change": -1.5300000000000002
+  },
+  {
+    "code": "3011",
+    "name": "今皓",
+    "market": "TWSE",
+    "three_inst_ratio": 2.54,
     "change": -1.5300000000000002
   },
   {
@@ -896,17 +896,17 @@
     "change": -0.81
   },
   {
-    "code": "2440",
-    "name": "太空梭",
-    "market": "TWSE",
-    "three_inst_ratio": 0.81,
-    "change": -0.79
-  },
-  {
     "code": "6994",
     "name": "富威電力",
     "market": "TWSE",
     "three_inst_ratio": 5.78,
+    "change": -0.79
+  },
+  {
+    "code": "2440",
+    "name": "太空梭",
+    "market": "TWSE",
+    "three_inst_ratio": 0.81,
     "change": -0.79
   },
   {
@@ -1134,10 +1134,10 @@
     "change": -0.6000000000000005
   },
   {
-    "code": "2426",
-    "name": "鼎元",
+    "code": "2231",
+    "name": "為升",
     "market": "TWSE",
-    "three_inst_ratio": 7.075072445801517,
+    "three_inst_ratio": 4.658879519571091,
     "change": -0.5999999999999996
   },
   {
@@ -1148,10 +1148,10 @@
     "change": -0.5999999999999996
   },
   {
-    "code": "2231",
-    "name": "為升",
+    "code": "2426",
+    "name": "鼎元",
     "market": "TWSE",
-    "three_inst_ratio": 4.658879519571091,
+    "three_inst_ratio": 7.075072445801517,
     "change": -0.5999999999999996
   },
   {
@@ -1183,13 +1183,6 @@
     "change": -0.5843829564990317
   },
   {
-    "code": "2390",
-    "name": "云辰",
-    "market": "TWSE",
-    "three_inst_ratio": 3.13,
-    "change": -0.5800000000000001
-  },
-  {
     "code": "1532",
     "name": "勤美",
     "market": "TWSE",
@@ -1197,10 +1190,10 @@
     "change": -0.5800000000000001
   },
   {
-    "code": "4169",
-    "name": "泰宗",
+    "code": "2390",
+    "name": "云辰",
     "market": "TWSE",
-    "three_inst_ratio": 6.89,
+    "three_inst_ratio": 3.13,
     "change": -0.5800000000000001
   },
   {
@@ -1208,6 +1201,13 @@
     "name": "富邦恒生國企正2",
     "market": "TWSE",
     "three_inst_ratio": 1.21,
+    "change": -0.5800000000000001
+  },
+  {
+    "code": "4169",
+    "name": "泰宗",
+    "market": "TWSE",
+    "three_inst_ratio": 6.89,
     "change": -0.5800000000000001
   },
   {
@@ -1225,17 +1225,17 @@
     "change": -0.5700000000000003
   },
   {
-    "code": "3501",
-    "name": "維熹",
-    "market": "TWSE",
-    "three_inst_ratio": 3.1816920641607394,
-    "change": -0.5699999999999998
-  },
-  {
     "code": "3058",
     "name": "立德",
     "market": "TWSE",
     "three_inst_ratio": 2.14,
+    "change": -0.5699999999999998
+  },
+  {
+    "code": "3501",
+    "name": "維熹",
+    "market": "TWSE",
+    "three_inst_ratio": 3.1816920641607394,
     "change": -0.5699999999999998
   },
   {
