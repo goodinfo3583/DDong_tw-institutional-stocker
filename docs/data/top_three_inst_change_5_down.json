@@ -756,13 +756,6 @@
     "change": -0.6000000000000014
   },
   {
-    "code": "00956",
-    "name": "中信日經高股息",
-    "market": "TWSE",
-    "three_inst_ratio": 4.24,
-    "change": -0.5999999999999996
-  },
-  {
     "code": "00714",
     "name": "群益道瓊美國地產",
     "market": "TWSE",
@@ -770,17 +763,24 @@
     "change": -0.5999999999999996
   },
   {
-    "code": "00903",
-    "name": "富邦元宇宙",
+    "code": "00956",
+    "name": "中信日經高股息",
     "market": "TWSE",
-    "three_inst_ratio": 2.12,
-    "change": -0.5899999999999999
+    "three_inst_ratio": 4.24,
+    "change": -0.5999999999999996
   },
   {
     "code": "2548",
     "name": "華固",
     "market": "TWSE",
     "three_inst_ratio": 14.330771191684871,
+    "change": -0.5899999999999999
+  },
+  {
+    "code": "00903",
+    "name": "富邦元宇宙",
+    "market": "TWSE",
+    "three_inst_ratio": 2.12,
     "change": -0.5899999999999999
   },
   {
@@ -966,17 +966,17 @@
     "change": -0.48999999999999977
   },
   {
-    "code": "7740",
-    "name": "熙特爾-創",
-    "market": "TWSE",
-    "three_inst_ratio": 4.88,
-    "change": -0.4800000000000004
-  },
-  {
     "code": "4960",
     "name": "誠美材",
     "market": "TWSE",
     "three_inst_ratio": 18.99,
+    "change": -0.4800000000000004
+  },
+  {
+    "code": "7740",
+    "name": "熙特爾-創",
+    "market": "TWSE",
+    "three_inst_ratio": 4.88,
     "change": -0.4800000000000004
   },
   {
@@ -1008,17 +1008,17 @@
     "change": -0.47194179221141397
   },
   {
-    "code": "4720",
-    "name": "德淵",
-    "market": "TWSE",
-    "three_inst_ratio": 5.345081284030114,
-    "change": -0.46999999999999975
-  },
-  {
     "code": "3622",
     "name": "洋華",
     "market": "TWSE",
     "three_inst_ratio": 3.4969787665964436,
+    "change": -0.46999999999999975
+  },
+  {
+    "code": "4720",
+    "name": "德淵",
+    "market": "TWSE",
+    "three_inst_ratio": 5.345081284030114,
     "change": -0.46999999999999975
   },
   {
@@ -1027,13 +1027,6 @@
     "market": "TWSE",
     "three_inst_ratio": 45.98222222222223,
     "change": -0.46000000000000085
-  },
-  {
-    "code": "3016",
-    "name": "嘉晶",
-    "market": "TWSE",
-    "three_inst_ratio": 4.179805574109865,
-    "change": -0.45999999999999996
   },
   {
     "code": "6994",
@@ -1047,6 +1040,13 @@
     "name": "興能高",
     "market": "TWSE",
     "three_inst_ratio": 2.59,
+    "change": -0.45999999999999996
+  },
+  {
+    "code": "3016",
+    "name": "嘉晶",
+    "market": "TWSE",
+    "three_inst_ratio": 4.179805574109865,
     "change": -0.45999999999999996
   },
   {
@@ -1071,17 +1071,17 @@
     "change": -0.4543277008105324
   },
   {
-    "code": "8438",
-    "name": "昶昕",
-    "market": "TWSE",
-    "three_inst_ratio": 5.33,
-    "change": -0.4500000000000002
-  },
-  {
     "code": "2442",
     "name": "新美齊",
     "market": "TWSE",
     "three_inst_ratio": 2.51,
+    "change": -0.4500000000000002
+  },
+  {
+    "code": "8438",
+    "name": "昶昕",
+    "market": "TWSE",
+    "three_inst_ratio": 5.33,
     "change": -0.4500000000000002
   },
   {
@@ -1267,13 +1267,6 @@
     "change": -0.3927059723060602
   },
   {
-    "code": "00701",
-    "name": "國泰股利精選30",
-    "market": "TWSE",
-    "three_inst_ratio": 3.160584713981372,
-    "change": -0.3900000000000001
-  },
-  {
     "code": "6209",
     "name": "今國光",
     "market": "TWSE",
@@ -1285,6 +1278,13 @@
     "name": "銘旺科",
     "market": "TWSE",
     "three_inst_ratio": 0.96,
+    "change": -0.3900000000000001
+  },
+  {
+    "code": "00701",
+    "name": "國泰股利精選30",
+    "market": "TWSE",
+    "three_inst_ratio": 3.160584713981372,
     "change": -0.3900000000000001
   },
   {
@@ -1330,13 +1330,6 @@
     "change": -0.38000000000000034
   },
   {
-    "code": "00963",
-    "name": "中信全球高股息",
-    "market": "TWSE",
-    "three_inst_ratio": 1.85,
-    "change": -0.3799999999999999
-  },
-  {
     "code": "1540",
     "name": "喬福",
     "market": "TWSE",
@@ -1348,6 +1341,13 @@
     "name": "通嘉",
     "market": "TWSE",
     "three_inst_ratio": 5.07,
+    "change": -0.3799999999999999
+  },
+  {
+    "code": "00963",
+    "name": "中信全球高股息",
+    "market": "TWSE",
+    "three_inst_ratio": 1.85,
     "change": -0.3799999999999999
   },
   {

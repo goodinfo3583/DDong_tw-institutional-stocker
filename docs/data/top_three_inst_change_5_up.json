@@ -938,17 +938,17 @@
     "change": 0.500636901636212
   },
   {
-    "code": "4526",
-    "name": "東台",
-    "market": "TWSE",
-    "three_inst_ratio": 6.99,
-    "change": 0.5
-  },
-  {
     "code": "6698",
     "name": "旭暉應材",
     "market": "TWSE",
     "three_inst_ratio": 1.99,
+    "change": 0.5
+  },
+  {
+    "code": "4526",
+    "name": "東台",
+    "market": "TWSE",
+    "three_inst_ratio": 6.99,
     "change": 0.5
   },
   {
@@ -1085,10 +1085,10 @@
     "change": 0.4200000000000017
   },
   {
-    "code": "1904",
-    "name": "正隆",
+    "code": "5521",
+    "name": "工信",
     "market": "TWSE",
-    "three_inst_ratio": 11.342530054408307,
+    "three_inst_ratio": 7.53,
     "change": 0.41999999999999993
   },
   {
@@ -1099,17 +1099,17 @@
     "change": 0.41999999999999993
   },
   {
+    "code": "1904",
+    "name": "正隆",
+    "market": "TWSE",
+    "three_inst_ratio": 11.342530054408307,
+    "change": 0.41999999999999993
+  },
+  {
     "code": "1416",
     "name": "廣豐",
     "market": "TWSE",
     "three_inst_ratio": 6.64,
-    "change": 0.41999999999999993
-  },
-  {
-    "code": "5521",
-    "name": "工信",
-    "market": "TWSE",
-    "three_inst_ratio": 7.53,
     "change": 0.41999999999999993
   },
   {
@@ -1211,17 +1211,17 @@
     "change": 0.36358974358974194
   },
   {
-    "code": "00896",
-    "name": "中信綠能及電動車",
-    "market": "TWSE",
-    "three_inst_ratio": 1.44,
-    "change": 0.3599999999999999
-  },
-  {
     "code": "3504",
     "name": "揚明光",
     "market": "TWSE",
     "three_inst_ratio": 4.209123266802581,
+    "change": 0.3599999999999999
+  },
+  {
+    "code": "00896",
+    "name": "中信綠能及電動車",
+    "market": "TWSE",
+    "three_inst_ratio": 1.44,
     "change": 0.3599999999999999
   },
   {
@@ -1295,17 +1295,17 @@
     "change": 0.3203655618269634
   },
   {
-    "code": "3576",
-    "name": "聯合再生",
-    "market": "TWSE",
-    "three_inst_ratio": 14.759517138325817,
-    "change": 0.3200000000000003
-  },
-  {
     "code": "3046",
     "name": "建碁",
     "market": "TWSE",
     "three_inst_ratio": 6.703165381894376,
+    "change": 0.3200000000000003
+  },
+  {
+    "code": "3576",
+    "name": "聯合再生",
+    "market": "TWSE",
+    "three_inst_ratio": 14.759517138325817,
     "change": 0.3200000000000003
   },
   {
