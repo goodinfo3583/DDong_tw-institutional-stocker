@@ -917,17 +917,17 @@
     "change": -0.9199999999999995
   },
   {
-    "code": "00926",
-    "name": "凱基全球菁英55",
-    "market": "TWSE",
-    "three_inst_ratio": 2.02,
-    "change": -0.9100000000000001
-  },
-  {
     "code": "3041",
     "name": "揚智",
     "market": "TWSE",
     "three_inst_ratio": 6.565468164510085,
+    "change": -0.9100000000000001
+  },
+  {
+    "code": "00926",
+    "name": "凱基全球菁英55",
+    "market": "TWSE",
+    "three_inst_ratio": 2.02,
     "change": -0.9100000000000001
   },
   {
@@ -966,17 +966,17 @@
     "change": -0.8899999999999997
   },
   {
-    "code": "7740",
-    "name": "熙特爾-創",
-    "market": "TWSE",
-    "three_inst_ratio": 4.85,
-    "change": -0.8700000000000001
-  },
-  {
     "code": "6873",
     "name": "泓德能源",
     "market": "TWSE",
     "three_inst_ratio": 6.248723775465277,
+    "change": -0.8700000000000001
+  },
+  {
+    "code": "7740",
+    "name": "熙特爾-創",
+    "market": "TWSE",
+    "three_inst_ratio": 4.85,
     "change": -0.8700000000000001
   },
   {
@@ -1022,6 +1022,13 @@
     "change": -0.839404698619294
   },
   {
+    "code": "00982A",
+    "name": "主動群益台灣強棒",
+    "market": "TWSE",
+    "three_inst_ratio": 1.71,
+    "change": -0.81
+  },
+  {
     "code": "3694",
     "name": "海華",
     "market": "TWSE",
@@ -1033,13 +1040,6 @@
     "name": "台新永續高息中小",
     "market": "TWSE",
     "three_inst_ratio": 1.13,
-    "change": -0.81
-  },
-  {
-    "code": "00982A",
-    "name": "主動群益台灣強棒",
-    "market": "TWSE",
-    "three_inst_ratio": 1.71,
     "change": -0.81
   },
   {
@@ -1253,17 +1253,17 @@
     "change": -0.6307540263946976
   },
   {
-    "code": "4169",
-    "name": "泰宗",
-    "market": "TWSE",
-    "three_inst_ratio": 6.75,
-    "change": -0.6299999999999999
-  },
-  {
     "code": "00865B",
     "name": "國泰US短期公債",
     "market": "TWSE",
     "three_inst_ratio": 0.51,
+    "change": -0.6299999999999999
+  },
+  {
+    "code": "4169",
+    "name": "泰宗",
+    "market": "TWSE",
+    "three_inst_ratio": 6.75,
     "change": -0.6299999999999999
   },
   {
@@ -1323,17 +1323,17 @@
     "change": -0.6100000000000001
   },
   {
-    "code": "2630",
-    "name": "亞航",
-    "market": "TWSE",
-    "three_inst_ratio": 3.19,
-    "change": -0.6000000000000001
-  },
-  {
     "code": "3025",
     "name": "星通",
     "market": "TWSE",
     "three_inst_ratio": 3.368237464317465,
+    "change": -0.6000000000000001
+  },
+  {
+    "code": "2630",
+    "name": "亞航",
+    "market": "TWSE",
+    "three_inst_ratio": 3.19,
     "change": -0.6000000000000001
   },
   {
