@@ -2649,5 +2649,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 10.32652464193181,
     "three_inst_ratio_change_20": 1.0268765178171222
+  },
+  {
+    "date": "2026-08-27",
+    "code": "2851",
+    "name": "中再保",
+    "market": "TWSE",
+    "foreign_ratio": 10.12,
+    "trust_ratio": 0.20502537048403044,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 10.32502537048403,
+    "three_inst_ratio_change_20": 0.9653772463693411
   }
 ]
