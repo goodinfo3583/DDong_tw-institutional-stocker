@@ -511,17 +511,17 @@
     "change": 5.522117976542837
   },
   {
-    "code": "6165",
-    "name": "浪凡",
-    "market": "TWSE",
-    "three_inst_ratio": 10.43,
-    "change": 5.489999999999999
-  },
-  {
     "code": "4771",
     "name": "望隼",
     "market": "TWSE",
     "three_inst_ratio": 10.12,
+    "change": 5.489999999999999
+  },
+  {
+    "code": "6165",
+    "name": "浪凡",
+    "market": "TWSE",
+    "three_inst_ratio": 10.43,
     "change": 5.489999999999999
   },
   {
@@ -1386,17 +1386,17 @@
     "change": 2.1805983199430017
   },
   {
-    "code": "00682U",
-    "name": "期元大美元指數",
-    "market": "TWSE",
-    "three_inst_ratio": 2.18,
-    "change": 2.18
-  },
-  {
     "code": "00651R",
     "name": "復華香港反1",
     "market": "TWSE",
     "three_inst_ratio": 3.2,
+    "change": 2.18
+  },
+  {
+    "code": "00682U",
+    "name": "期元大美元指數",
+    "market": "TWSE",
+    "three_inst_ratio": 2.18,
     "change": 2.18
   }
 ]

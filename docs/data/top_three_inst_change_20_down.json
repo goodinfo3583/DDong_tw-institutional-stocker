@@ -1239,17 +1239,17 @@
     "change": -0.8500000000000001
   },
   {
-    "code": "00852L",
-    "name": "國泰美國道瓊正2",
-    "market": "TWSE",
-    "three_inst_ratio": 2.06,
-    "change": -0.8399999999999999
-  },
-  {
     "code": "00983D",
     "name": "主動富邦複合收益",
     "market": "TWSE",
     "three_inst_ratio": 0.33,
+    "change": -0.8399999999999999
+  },
+  {
+    "code": "00852L",
+    "name": "國泰美國道瓊正2",
+    "market": "TWSE",
+    "three_inst_ratio": 2.06,
     "change": -0.8399999999999999
   },
   {
@@ -1274,13 +1274,6 @@
     "change": -0.8225054920435468
   },
   {
-    "code": "00994A",
-    "name": "主動第一金台股優",
-    "market": "TWSE",
-    "three_inst_ratio": 6.04,
-    "change": -0.8200000000000003
-  },
-  {
     "code": "1737",
     "name": "臺鹽",
     "market": "TWSE",
@@ -1292,6 +1285,13 @@
     "name": "有成精密",
     "market": "TWSE",
     "three_inst_ratio": 3.767383120441301,
+    "change": -0.8200000000000003
+  },
+  {
+    "code": "00994A",
+    "name": "主動第一金台股優",
+    "market": "TWSE",
+    "three_inst_ratio": 6.04,
     "change": -0.8200000000000003
   },
   {
@@ -1337,17 +1337,17 @@
     "change": -0.791283537316982
   },
   {
-    "code": "3535",
-    "name": "晶彩科",
-    "market": "TWSE",
-    "three_inst_ratio": 3.58,
-    "change": -0.7800000000000002
-  },
-  {
     "code": "00735",
     "name": "國泰臺韓科技",
     "market": "TWSE",
     "three_inst_ratio": 4.35,
+    "change": -0.7800000000000002
+  },
+  {
+    "code": "3535",
+    "name": "晶彩科",
+    "market": "TWSE",
+    "three_inst_ratio": 3.58,
     "change": -0.7800000000000002
   },
   {
@@ -1386,17 +1386,17 @@
     "change": -0.7500000000000004
   },
   {
+    "code": "00924",
+    "name": "復華S&P500成長",
+    "market": "TWSE",
+    "three_inst_ratio": 0.44,
+    "change": -0.75
+  },
+  {
     "code": "1537",
     "name": "廣隆",
     "market": "TWSE",
     "three_inst_ratio": 15.39189616283355,
-    "change": -0.75
-  },
-  {
-    "code": "1809",
-    "name": "中釉",
-    "market": "TWSE",
-    "three_inst_ratio": 2.08,
     "change": -0.75
   }
 ]
