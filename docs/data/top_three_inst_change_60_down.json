@@ -1365,17 +1365,17 @@
     "change": -1.2200000000000002
   },
   {
-    "code": "00738U",
-    "name": "期元大道瓊白銀",
-    "market": "TWSE",
-    "three_inst_ratio": 1.21,
-    "change": -1.21
-  },
-  {
     "code": "2630",
     "name": "亞航",
     "market": "TWSE",
     "three_inst_ratio": 2.59,
+    "change": -1.21
+  },
+  {
+    "code": "00738U",
+    "name": "期元大道瓊白銀",
+    "market": "TWSE",
+    "three_inst_ratio": 1.21,
     "change": -1.21
   },
   {
