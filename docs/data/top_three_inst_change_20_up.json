@@ -1162,17 +1162,17 @@
     "change": 0.8501151145267443
   },
   {
-    "code": "3046",
-    "name": "建碁",
-    "market": "TWSE",
-    "three_inst_ratio": 5.883165381894376,
-    "change": 0.8499999999999996
-  },
-  {
     "code": "6668",
     "name": "中揚光",
     "market": "TWSE",
     "three_inst_ratio": 10.29,
+    "change": 0.8499999999999996
+  },
+  {
+    "code": "3046",
+    "name": "建碁",
+    "market": "TWSE",
+    "three_inst_ratio": 5.883165381894376,
     "change": 0.8499999999999996
   },
   {
@@ -1281,20 +1281,6 @@
     "change": 0.7716424032800617
   },
   {
-    "code": "00681R",
-    "name": "元大美債20反1",
-    "market": "TWSE",
-    "three_inst_ratio": 19.48,
-    "change": 0.7699999999999996
-  },
-  {
-    "code": "3356",
-    "name": "奇偶",
-    "market": "TWSE",
-    "three_inst_ratio": 9.04,
-    "change": 0.7699999999999996
-  },
-  {
     "code": "7827",
     "name": "漢康-KY創",
     "market": "TWSE",
@@ -1306,6 +1292,20 @@
     "name": "第一保",
     "market": "TWSE",
     "three_inst_ratio": 6.123662360411835,
+    "change": 0.7699999999999996
+  },
+  {
+    "code": "00681R",
+    "name": "元大美債20反1",
+    "market": "TWSE",
+    "three_inst_ratio": 19.48,
+    "change": 0.7699999999999996
+  },
+  {
+    "code": "3356",
+    "name": "奇偶",
+    "market": "TWSE",
+    "three_inst_ratio": 9.04,
     "change": 0.7699999999999996
   },
   {

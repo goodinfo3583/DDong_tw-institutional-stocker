@@ -553,17 +553,17 @@
     "change": 0.7099999999999991
   },
   {
-    "code": "00865B",
-    "name": "國泰US短期公債",
-    "market": "TWSE",
-    "three_inst_ratio": 1.2,
-    "change": 0.7
-  },
-  {
     "code": "00404A",
     "name": "主動聯博動能50",
     "market": "TWSE",
     "three_inst_ratio": 2.29,
+    "change": 0.7
+  },
+  {
+    "code": "00865B",
+    "name": "國泰US短期公債",
+    "market": "TWSE",
+    "three_inst_ratio": 1.2,
     "change": 0.7
   },
   {
@@ -952,17 +952,17 @@
     "change": 0.4501404765702599
   },
   {
-    "code": "4912",
-    "name": "聯德控股-KY",
-    "market": "TWSE",
-    "three_inst_ratio": 24.77203155253349,
-    "change": 0.4499999999999993
-  },
-  {
     "code": "3563",
     "name": "牧德",
     "market": "TWSE",
     "three_inst_ratio": 13.469618210249774,
+    "change": 0.4499999999999993
+  },
+  {
+    "code": "4912",
+    "name": "聯德控股-KY",
+    "market": "TWSE",
+    "three_inst_ratio": 24.77203155253349,
     "change": 0.4499999999999993
   },
   {
@@ -973,17 +973,17 @@
     "change": 0.442675805507303
   },
   {
-    "code": "2328",
-    "name": "廣宇",
-    "market": "TWSE",
-    "three_inst_ratio": 9.294690201906377,
-    "change": 0.4399999999999995
-  },
-  {
     "code": "3576",
     "name": "聯合再生",
     "market": "TWSE",
     "three_inst_ratio": 15.169517138325817,
+    "change": 0.4399999999999995
+  },
+  {
+    "code": "2328",
+    "name": "廣宇",
+    "market": "TWSE",
+    "three_inst_ratio": 9.294690201906377,
     "change": 0.4399999999999995
   },
   {
@@ -1148,17 +1148,17 @@
     "change": 0.3654556845931971
   },
   {
-    "code": "2402",
-    "name": "毅嘉",
-    "market": "TWSE",
-    "three_inst_ratio": 4.703743948430349,
-    "change": 0.3600000000000003
-  },
-  {
     "code": "1313",
     "name": "聯成",
     "market": "TWSE",
     "three_inst_ratio": 7.241277382855206,
+    "change": 0.3600000000000003
+  },
+  {
+    "code": "2402",
+    "name": "毅嘉",
+    "market": "TWSE",
+    "three_inst_ratio": 4.703743948430349,
     "change": 0.3600000000000003
   },
   {
