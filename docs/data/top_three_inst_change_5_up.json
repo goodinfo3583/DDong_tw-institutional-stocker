@@ -476,17 +476,17 @@
     "change": 0.5451101674568761
   },
   {
-    "code": "00700",
-    "name": "富邦恒生國企",
-    "market": "TWSE",
-    "three_inst_ratio": 5.1,
-    "change": 0.54
-  },
-  {
     "code": "00983D",
     "name": "主動富邦複合收益",
     "market": "TWSE",
     "three_inst_ratio": 0.88,
+    "change": 0.54
+  },
+  {
+    "code": "00700",
+    "name": "富邦恒生國企",
+    "market": "TWSE",
+    "three_inst_ratio": 5.1,
     "change": 0.54
   },
   {
@@ -903,17 +903,17 @@
     "change": 0.3037575092790945
   },
   {
-    "code": "4771",
-    "name": "望隼",
-    "market": "TWSE",
-    "three_inst_ratio": 10.49,
-    "change": 0.3000000000000007
-  },
-  {
     "code": "7610",
     "name": "聯友金屬-創",
     "market": "TWSE",
     "three_inst_ratio": 19.84,
+    "change": 0.3000000000000007
+  },
+  {
+    "code": "4771",
+    "name": "望隼",
+    "market": "TWSE",
+    "three_inst_ratio": 10.49,
     "change": 0.3000000000000007
   },
   {
@@ -1036,17 +1036,17 @@
     "change": 0.2400020273036354
   },
   {
-    "code": "00985B",
-    "name": "群益ESG投等債0-5",
-    "market": "TWSE",
-    "three_inst_ratio": 0.36,
-    "change": 0.24
-  },
-  {
     "code": "00865B",
     "name": "國泰US短期公債",
     "market": "TWSE",
     "three_inst_ratio": 1.05,
+    "change": 0.24
+  },
+  {
+    "code": "00985B",
+    "name": "群益ESG投等債0-5",
+    "market": "TWSE",
+    "three_inst_ratio": 0.36,
     "change": 0.24
   },
   {
@@ -1113,17 +1113,17 @@
     "change": 0.22017083699795137
   },
   {
-    "code": "9921",
-    "name": "巨大",
-    "market": "TWSE",
-    "three_inst_ratio": 32.1795823870148,
-    "change": 0.21999999999999886
-  },
-  {
     "code": "2820",
     "name": "華票",
     "market": "TWSE",
     "three_inst_ratio": 9.810678501221183,
+    "change": 0.21999999999999886
+  },
+  {
+    "code": "9921",
+    "name": "巨大",
+    "market": "TWSE",
+    "three_inst_ratio": 32.1795823870148,
     "change": 0.21999999999999886
   },
   {
@@ -1176,17 +1176,17 @@
     "change": 0.20006003241267678
   },
   {
-    "code": "00996A",
-    "name": "主動兆豐台灣豐收",
-    "market": "TWSE",
-    "three_inst_ratio": 6.09,
-    "change": 0.20000000000000018
-  },
-  {
     "code": "00714",
     "name": "群益道瓊美國地產",
     "market": "TWSE",
     "three_inst_ratio": 2.14,
+    "change": 0.20000000000000018
+  },
+  {
+    "code": "00996A",
+    "name": "主動兆豐台灣豐收",
+    "market": "TWSE",
+    "three_inst_ratio": 6.09,
     "change": 0.20000000000000018
   },
   {
@@ -1330,6 +1330,20 @@
     "change": 0.1636333713086735
   },
   {
+    "code": "00728",
+    "name": "第一金工業30",
+    "market": "TWSE",
+    "three_inst_ratio": 1.34,
+    "change": 0.16000000000000014
+  },
+  {
+    "code": "6205",
+    "name": "詮欣",
+    "market": "TWSE",
+    "three_inst_ratio": 3.428783986172853,
+    "change": 0.16000000000000014
+  },
+  {
     "code": "4155",
     "name": "訊映",
     "market": "TWSE",
@@ -1344,31 +1358,17 @@
     "change": 0.16000000000000014
   },
   {
-    "code": "6205",
-    "name": "詮欣",
+    "code": "00637L",
+    "name": "元大滬深300正2",
     "market": "TWSE",
-    "three_inst_ratio": 3.428783986172853,
-    "change": 0.16000000000000014
-  },
-  {
-    "code": "00728",
-    "name": "第一金工業30",
-    "market": "TWSE",
-    "three_inst_ratio": 1.34,
-    "change": 0.16000000000000014
+    "three_inst_ratio": 0.46,
+    "change": 0.16000000000000003
   },
   {
     "code": "3308",
     "name": "聯德",
     "market": "TWSE",
     "three_inst_ratio": 1.02,
-    "change": 0.16000000000000003
-  },
-  {
-    "code": "00637L",
-    "name": "元大滬深300正2",
-    "market": "TWSE",
-    "three_inst_ratio": 0.46,
     "change": 0.16000000000000003
   },
   {
