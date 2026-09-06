@@ -812,17 +812,17 @@
     "change": -2.501905101580517
   },
   {
-    "code": "00637L",
-    "name": "元大滬深300正2",
-    "market": "TWSE",
-    "three_inst_ratio": 0.95,
-    "change": -2.49
-  },
-  {
     "code": "2241",
     "name": "艾姆勒",
     "market": "TWSE",
     "three_inst_ratio": 8.07,
+    "change": -2.49
+  },
+  {
+    "code": "00637L",
+    "name": "元大滬深300正2",
+    "market": "TWSE",
+    "three_inst_ratio": 0.95,
     "change": -2.49
   },
   {
