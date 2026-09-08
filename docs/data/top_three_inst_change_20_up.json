@@ -847,17 +847,17 @@
     "change": 0.8700000000000001
   },
   {
-    "code": "1710",
-    "name": "東聯",
-    "market": "TWSE",
-    "three_inst_ratio": 4.769460109557783,
-    "change": 0.8600000000000003
-  },
-  {
     "code": "2034",
     "name": "允強",
     "market": "TWSE",
     "three_inst_ratio": 5.54,
+    "change": 0.8600000000000003
+  },
+  {
+    "code": "1710",
+    "name": "東聯",
+    "market": "TWSE",
+    "three_inst_ratio": 4.769460109557783,
     "change": 0.8600000000000003
   },
   {
@@ -1036,13 +1036,6 @@
     "change": 0.7027723444185945
   },
   {
-    "code": "00920",
-    "name": "富邦ESG綠色電力",
-    "market": "TWSE",
-    "three_inst_ratio": 6.11,
-    "change": 0.7000000000000002
-  },
-  {
     "code": "00642U",
     "name": "期元大S&P石油",
     "market": "TWSE",
@@ -1050,10 +1043,10 @@
     "change": 0.7000000000000002
   },
   {
-    "code": "2399",
-    "name": "映泰",
+    "code": "00920",
+    "name": "富邦ESG綠色電力",
     "market": "TWSE",
-    "three_inst_ratio": 6.088315553060078,
+    "three_inst_ratio": 6.11,
     "change": 0.7000000000000002
   },
   {
@@ -1061,6 +1054,13 @@
     "name": "揚明光",
     "market": "TWSE",
     "three_inst_ratio": 4.609123266802581,
+    "change": 0.7000000000000002
+  },
+  {
+    "code": "2399",
+    "name": "映泰",
+    "market": "TWSE",
+    "three_inst_ratio": 6.088315553060078,
     "change": 0.7000000000000002
   },
   {
@@ -1295,17 +1295,17 @@
     "change": 0.5305787636767487
   },
   {
-    "code": "8104",
-    "name": "錸寶",
-    "market": "TWSE",
-    "three_inst_ratio": 2.31,
-    "change": 0.53
-  },
-  {
     "code": "1325",
     "name": "恆大",
     "market": "TWSE",
     "three_inst_ratio": 1.52,
+    "change": 0.53
+  },
+  {
+    "code": "8104",
+    "name": "錸寶",
+    "market": "TWSE",
+    "three_inst_ratio": 2.31,
     "change": 0.53
   },
   {

@@ -140,17 +140,17 @@
     "change": 1.6329587689704783
   },
   {
-    "code": "00954",
-    "name": "中信日本半導體",
-    "market": "TWSE",
-    "three_inst_ratio": 1.91,
-    "change": 1.5099999999999998
-  },
-  {
     "code": "00738U",
     "name": "期元大道瓊白銀",
     "market": "TWSE",
     "three_inst_ratio": 2.55,
+    "change": 1.5099999999999998
+  },
+  {
+    "code": "00954",
+    "name": "中信日本半導體",
+    "market": "TWSE",
+    "three_inst_ratio": 1.91,
     "change": 1.5099999999999998
   },
   {
@@ -553,17 +553,17 @@
     "change": 0.5400000000000009
   },
   {
-    "code": "00407A",
-    "name": "主動凱基台灣",
-    "market": "TWSE",
-    "three_inst_ratio": 3.03,
-    "change": 0.5299999999999998
-  },
-  {
     "code": "00701",
     "name": "國泰股利精選30",
     "market": "TWSE",
     "three_inst_ratio": 3.8896216397572565,
+    "change": 0.5299999999999998
+  },
+  {
+    "code": "00407A",
+    "name": "主動凱基台灣",
+    "market": "TWSE",
+    "three_inst_ratio": 3.03,
     "change": 0.5299999999999998
   },
   {
@@ -693,6 +693,13 @@
     "change": 0.42302659615185867
   },
   {
+    "code": "00405A",
+    "name": "主動富邦台灣龍耀",
+    "market": "TWSE",
+    "three_inst_ratio": 1.77,
+    "change": 0.41999999999999993
+  },
+  {
     "code": "00952",
     "name": "凱基台灣AI50",
     "market": "TWSE",
@@ -704,13 +711,6 @@
     "name": "奇偶",
     "market": "TWSE",
     "three_inst_ratio": 9.57,
-    "change": 0.41999999999999993
-  },
-  {
-    "code": "00405A",
-    "name": "主動富邦台灣龍耀",
-    "market": "TWSE",
-    "three_inst_ratio": 1.77,
     "change": 0.41999999999999993
   },
   {
@@ -1204,17 +1204,17 @@
     "change": 0.22000000000000064
   },
   {
-    "code": "00640L",
-    "name": "富邦日本正2",
-    "market": "TWSE",
-    "three_inst_ratio": 1.11,
-    "change": 0.22000000000000008
-  },
-  {
     "code": "1713",
     "name": "國化",
     "market": "TWSE",
     "three_inst_ratio": 1.1,
+    "change": 0.22000000000000008
+  },
+  {
+    "code": "00640L",
+    "name": "富邦日本正2",
+    "market": "TWSE",
+    "three_inst_ratio": 1.11,
     "change": 0.22000000000000008
   },
   {
@@ -1351,17 +1351,17 @@
     "change": 0.18
   },
   {
-    "code": "8249",
-    "name": "菱光",
-    "market": "TWSE",
-    "three_inst_ratio": 1.79,
-    "change": 0.17999999999999994
-  },
-  {
     "code": "00401A",
     "name": "主動摩根台灣鑫收",
     "market": "TWSE",
     "three_inst_ratio": 1.63,
+    "change": 0.17999999999999994
+  },
+  {
+    "code": "8249",
+    "name": "菱光",
+    "market": "TWSE",
+    "three_inst_ratio": 1.79,
     "change": 0.17999999999999994
   },
   {
