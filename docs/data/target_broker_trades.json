@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-10T15:14:22.532023",
+  "updated": "2026-09-10T16:11:42.649554",
   "brokers": {
     "元大-三民": [
       {
@@ -11,6 +11,13 @@
       }
     ],
     "元大-中崙": [
+      {
+        "stock_code": "2330",
+        "net_vol": 117,
+        "side": "buy",
+        "pct": 0.61,
+        "rank": 10
+      },
       {
         "stock_code": "2308",
         "net_vol": -144,
@@ -96,6 +103,15 @@
         "side": "sell",
         "pct": 0.26,
         "rank": 13
+      }
+    ],
+    "元大-向上": [
+      {
+        "stock_code": "2330",
+        "net_vol": -37,
+        "side": "sell",
+        "pct": 0.19,
+        "rank": 14
       }
     ],
     "元大-和平": [
@@ -330,6 +346,13 @@
     ],
     "元大-鳳山": [
       {
+        "stock_code": "2330",
+        "net_vol": -29,
+        "side": "sell",
+        "pct": 0.15,
+        "rank": 15
+      },
+      {
         "stock_code": "2345",
         "net_vol": -23,
         "side": "sell",
@@ -338,6 +361,13 @@
       }
     ],
     "元大證券": [
+      {
+        "stock_code": "2330",
+        "net_vol": 1096,
+        "side": "buy",
+        "pct": 5.75,
+        "rank": 1
+      },
       {
         "stock_code": "2317",
         "net_vol": -79,
@@ -595,6 +625,13 @@
       }
     ],
     "凱基-台北": [
+      {
+        "stock_code": "2330",
+        "net_vol": 242,
+        "side": "buy",
+        "pct": 1.27,
+        "rank": 4
+      },
       {
         "stock_code": "2317",
         "net_vol": -121,
@@ -872,6 +909,13 @@
     ],
     "台灣摩根士丹利": [
       {
+        "stock_code": "2330",
+        "net_vol": -560,
+        "side": "sell",
+        "pct": 2.94,
+        "rank": 4
+      },
+      {
         "stock_code": "2317",
         "net_vol": -817,
         "side": "sell",
@@ -1054,6 +1098,13 @@
       }
     ],
     "富邦-仁愛": [
+      {
+        "stock_code": "2330",
+        "net_vol": 111,
+        "side": "buy",
+        "pct": 0.58,
+        "rank": 11
+      },
       {
         "stock_code": "2308",
         "net_vol": 105,
@@ -1259,6 +1310,13 @@
     ],
     "富邦-陽明": [
       {
+        "stock_code": "2330",
+        "net_vol": 217,
+        "side": "buy",
+        "pct": 1.14,
+        "rank": 7
+      },
+      {
         "stock_code": "2308",
         "net_vol": 70,
         "side": "buy",
@@ -1267,6 +1325,13 @@
       }
     ],
     "富邦證券": [
+      {
+        "stock_code": "2330",
+        "net_vol": 749,
+        "side": "buy",
+        "pct": 3.93,
+        "rank": 3
+      },
       {
         "stock_code": "2317",
         "net_vol": 1709,
@@ -1360,6 +1425,13 @@
       }
     ],
     "摩根大通": [
+      {
+        "stock_code": "2330",
+        "net_vol": 755,
+        "side": "buy",
+        "pct": 3.96,
+        "rank": 2
+      },
       {
         "stock_code": "2317",
         "net_vol": -2271,
@@ -1496,6 +1568,13 @@
     ],
     "新加坡商瑞銀": [
       {
+        "stock_code": "2330",
+        "net_vol": -233,
+        "side": "sell",
+        "pct": 1.22,
+        "rank": 6
+      },
+      {
         "stock_code": "2317",
         "net_vol": 1218,
         "side": "buy",
@@ -1624,6 +1703,13 @@
     ],
     "港商野村": [
       {
+        "stock_code": "2330",
+        "net_vol": -2215,
+        "side": "sell",
+        "pct": 11.62,
+        "rank": 1
+      },
+      {
         "stock_code": "2317",
         "net_vol": 2906,
         "side": "buy",
@@ -1745,6 +1831,13 @@
     ],
     "港商麥格理": [
       {
+        "stock_code": "2330",
+        "net_vol": -442,
+        "side": "sell",
+        "pct": 2.32,
+        "rank": 5
+      },
+      {
         "stock_code": "2317",
         "net_vol": -6641,
         "side": "sell",
@@ -1830,6 +1923,13 @@
       }
     ],
     "美商高盛": [
+      {
+        "stock_code": "2330",
+        "net_vol": 95,
+        "side": "buy",
+        "pct": 0.5,
+        "rank": 12
+      },
       {
         "stock_code": "2317",
         "net_vol": 442,
@@ -1951,6 +2051,13 @@
       }
     ],
     "美林": [
+      {
+        "stock_code": "2330",
+        "net_vol": 218,
+        "side": "buy",
+        "pct": 1.14,
+        "rank": 6
+      },
       {
         "stock_code": "2317",
         "net_vol": -472,
