@@ -763,17 +763,17 @@
     "change": 0.7999999999999998
   },
   {
-    "code": "1710",
-    "name": "東聯",
-    "market": "TWSE",
-    "three_inst_ratio": 5.059460109557783,
-    "change": 0.79
-  },
-  {
     "code": "2816",
     "name": "旺旺保",
     "market": "TWSE",
     "three_inst_ratio": 3.38,
+    "change": 0.79
+  },
+  {
+    "code": "1710",
+    "name": "東聯",
+    "market": "TWSE",
+    "three_inst_ratio": 5.059460109557783,
     "change": 0.79
   },
   {
@@ -952,10 +952,10 @@
     "change": 0.5864574544733028
   },
   {
-    "code": "2461",
-    "name": "光群雷",
+    "code": "2104",
+    "name": "國際中橡",
     "market": "TWSE",
-    "three_inst_ratio": 9.86,
+    "three_inst_ratio": 5.640816571080326,
     "change": 0.5800000000000001
   },
   {
@@ -966,10 +966,10 @@
     "change": 0.5800000000000001
   },
   {
-    "code": "2104",
-    "name": "國際中橡",
+    "code": "2461",
+    "name": "光群雷",
     "market": "TWSE",
-    "three_inst_ratio": 5.640816571080326,
+    "three_inst_ratio": 9.86,
     "change": 0.5800000000000001
   },
   {
@@ -1176,17 +1176,17 @@
     "change": 0.43000000000000016
   },
   {
-    "code": "2453",
-    "name": "凌群",
-    "market": "TWSE",
-    "three_inst_ratio": 5.55,
-    "change": 0.4299999999999997
-  },
-  {
     "code": "7827",
     "name": "漢康-KY創",
     "market": "TWSE",
     "three_inst_ratio": 24.89,
+    "change": 0.4299999999999997
+  },
+  {
+    "code": "2453",
+    "name": "凌群",
+    "market": "TWSE",
+    "three_inst_ratio": 5.55,
     "change": 0.4299999999999997
   },
   {
@@ -1344,17 +1344,17 @@
     "change": 0.34987524139954473
   },
   {
-    "code": "1309",
-    "name": "台達化",
-    "market": "TWSE",
-    "three_inst_ratio": 3.19,
-    "change": 0.33999999999999986
-  },
-  {
     "code": "4960",
     "name": "誠美材",
     "market": "TWSE",
     "three_inst_ratio": 19.35,
+    "change": 0.33999999999999986
+  },
+  {
+    "code": "1309",
+    "name": "台達化",
+    "market": "TWSE",
+    "three_inst_ratio": 3.19,
     "change": 0.33999999999999986
   },
   {
