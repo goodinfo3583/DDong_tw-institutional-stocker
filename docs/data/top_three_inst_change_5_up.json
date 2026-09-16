@@ -847,17 +847,17 @@
     "change": 0.24177999140687945
   },
   {
-    "code": "2104",
-    "name": "國際中橡",
-    "market": "TWSE",
-    "three_inst_ratio": 5.5408165710803265,
-    "change": 0.2400000000000002
-  },
-  {
     "code": "2483",
     "name": "百容",
     "market": "TWSE",
     "three_inst_ratio": 5.36,
+    "change": 0.2400000000000002
+  },
+  {
+    "code": "2104",
+    "name": "國際中橡",
+    "market": "TWSE",
+    "three_inst_ratio": 5.5408165710803265,
     "change": 0.2400000000000002
   },
   {
@@ -889,17 +889,17 @@
     "change": 0.22999999999999998
   },
   {
-    "code": "00650L",
-    "name": "復華香港正2",
-    "market": "TWSE",
-    "three_inst_ratio": 0.78,
-    "change": 0.22999999999999998
-  },
-  {
     "code": "1616",
     "name": "億泰",
     "market": "TWSE",
     "three_inst_ratio": 2.161013718029211,
+    "change": 0.22999999999999998
+  },
+  {
+    "code": "00650L",
+    "name": "復華香港正2",
+    "market": "TWSE",
+    "three_inst_ratio": 0.78,
     "change": 0.22999999999999998
   },
   {
@@ -1190,10 +1190,10 @@
     "change": 0.16000000000000014
   },
   {
-    "code": "6937",
-    "name": "天虹",
+    "code": "00945B",
+    "name": "凱基美國非投等債",
     "market": "TWSE",
-    "three_inst_ratio": 4.7854327287146905,
+    "three_inst_ratio": 3.918496074907557,
     "change": 0.16000000000000014
   },
   {
@@ -1204,10 +1204,10 @@
     "change": 0.16000000000000014
   },
   {
-    "code": "00945B",
-    "name": "凱基美國非投等債",
+    "code": "1711",
+    "name": "永光",
     "market": "TWSE",
-    "three_inst_ratio": 3.918496074907557,
+    "three_inst_ratio": 5.73,
     "change": 0.16000000000000014
   },
   {
@@ -1218,10 +1218,10 @@
     "change": 0.16000000000000014
   },
   {
-    "code": "1711",
-    "name": "永光",
+    "code": "6937",
+    "name": "天虹",
     "market": "TWSE",
-    "three_inst_ratio": 5.73,
+    "three_inst_ratio": 4.7854327287146905,
     "change": 0.16000000000000014
   },
   {
@@ -1281,17 +1281,17 @@
     "change": 0.15000000000000036
   },
   {
-    "code": "1314",
-    "name": "中石化",
-    "market": "TWSE",
-    "three_inst_ratio": 10.036978214854704,
-    "change": 0.15000000000000036
-  },
-  {
     "code": "1449",
     "name": "佳和",
     "market": "TWSE",
     "three_inst_ratio": 6.98,
+    "change": 0.15000000000000036
+  },
+  {
+    "code": "1314",
+    "name": "中石化",
+    "market": "TWSE",
+    "three_inst_ratio": 10.036978214854704,
     "change": 0.15000000000000036
   },
   {
@@ -1316,10 +1316,10 @@
     "change": 0.14999999999999997
   },
   {
-    "code": "5244",
-    "name": "弘凱",
+    "code": "8011",
+    "name": "台通",
     "market": "TWSE",
-    "three_inst_ratio": 2.89,
+    "three_inst_ratio": 3.0,
     "change": 0.1499999999999999
   },
   {
@@ -1330,10 +1330,10 @@
     "change": 0.1499999999999999
   },
   {
-    "code": "8011",
-    "name": "台通",
+    "code": "5244",
+    "name": "弘凱",
     "market": "TWSE",
-    "three_inst_ratio": 3.0,
+    "three_inst_ratio": 2.89,
     "change": 0.1499999999999999
   },
   {
@@ -1393,10 +1393,10 @@
     "change": 0.14089408728921882
   },
   {
-    "code": "2816",
-    "name": "旺旺保",
+    "code": "7786",
+    "name": "東方風能",
     "market": "TWSE",
-    "three_inst_ratio": 3.4,
+    "three_inst_ratio": 2.3179566275593118,
     "change": 0.14000000000000012
   }
 ]
