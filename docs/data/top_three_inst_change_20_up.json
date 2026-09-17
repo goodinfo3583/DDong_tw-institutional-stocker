@@ -980,17 +980,17 @@
     "change": 0.5713745465300519
   },
   {
-    "code": "2636",
-    "name": "台驊控股",
-    "market": "TWSE",
-    "three_inst_ratio": 11.98236069205091,
-    "change": 0.5700000000000003
-  },
-  {
     "code": "4968",
     "name": "立積",
     "market": "TWSE",
     "three_inst_ratio": 7.198965945065897,
+    "change": 0.5700000000000003
+  },
+  {
+    "code": "2636",
+    "name": "台驊控股",
+    "market": "TWSE",
+    "three_inst_ratio": 11.98236069205091,
     "change": 0.5700000000000003
   },
   {
@@ -1036,6 +1036,13 @@
     "change": 0.5407155396298755
   },
   {
+    "code": "2102",
+    "name": "泰豐",
+    "market": "TWSE",
+    "three_inst_ratio": 3.96,
+    "change": 0.54
+  },
+  {
     "code": "5244",
     "name": "弘凱",
     "market": "TWSE",
@@ -1050,13 +1057,6 @@
     "change": 0.54
   },
   {
-    "code": "2102",
-    "name": "泰豐",
-    "market": "TWSE",
-    "three_inst_ratio": 3.96,
-    "change": 0.54
-  },
-  {
     "code": "6191",
     "name": "精成科",
     "market": "TWSE",
@@ -1064,17 +1064,17 @@
     "change": 0.5326734267568973
   },
   {
-    "code": "2104",
-    "name": "國際中橡",
-    "market": "TWSE",
-    "three_inst_ratio": 5.620816571080327,
-    "change": 0.5300000000000002
-  },
-  {
     "code": "1563",
     "name": "巧新",
     "market": "TWSE",
     "three_inst_ratio": 4.29,
+    "change": 0.5300000000000002
+  },
+  {
+    "code": "2104",
+    "name": "國際中橡",
+    "market": "TWSE",
+    "three_inst_ratio": 5.620816571080327,
     "change": 0.5300000000000002
   },
   {
@@ -1225,17 +1225,17 @@
     "change": 0.44999999999999996
   },
   {
-    "code": "1526",
-    "name": "日馳",
-    "market": "TWSE",
-    "three_inst_ratio": 3.4,
-    "change": 0.44999999999999973
-  },
-  {
     "code": "3149",
     "name": "正達",
     "market": "TWSE",
     "three_inst_ratio": 3.34,
+    "change": 0.44999999999999973
+  },
+  {
+    "code": "1526",
+    "name": "日馳",
+    "market": "TWSE",
+    "three_inst_ratio": 3.4,
     "change": 0.44999999999999973
   },
   {
@@ -1288,17 +1288,17 @@
     "change": 0.4103895484450817
   },
   {
-    "code": "2482",
-    "name": "連宇",
-    "market": "TWSE",
-    "three_inst_ratio": 1.36,
-    "change": 0.41000000000000014
-  },
-  {
     "code": "1313",
     "name": "聯成",
     "market": "TWSE",
     "three_inst_ratio": 7.181277382855206,
+    "change": 0.41000000000000014
+  },
+  {
+    "code": "2482",
+    "name": "連宇",
+    "market": "TWSE",
+    "three_inst_ratio": 1.36,
     "change": 0.41000000000000014
   },
   {

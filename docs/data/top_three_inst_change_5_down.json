@@ -770,17 +770,17 @@
     "change": -0.5802686582215912
   },
   {
-    "code": "00951",
-    "name": "台新日本半導體",
-    "market": "TWSE",
-    "three_inst_ratio": 0.54,
-    "change": -0.5800000000000001
-  },
-  {
     "code": "8222",
     "name": "寶一",
     "market": "TWSE",
     "three_inst_ratio": 2.06,
+    "change": -0.5800000000000001
+  },
+  {
+    "code": "00951",
+    "name": "台新日本半導體",
+    "market": "TWSE",
+    "three_inst_ratio": 0.54,
     "change": -0.5800000000000001
   },
   {
@@ -959,17 +959,17 @@
     "change": -0.44047168769985134
   },
   {
-    "code": "3645",
-    "name": "達邁",
-    "market": "TWSE",
-    "three_inst_ratio": 9.498036729648836,
-    "change": -0.4400000000000013
-  },
-  {
     "code": "2461",
     "name": "光群雷",
     "market": "TWSE",
     "three_inst_ratio": 9.78,
+    "change": -0.4400000000000013
+  },
+  {
+    "code": "3645",
+    "name": "達邁",
+    "market": "TWSE",
+    "three_inst_ratio": 9.498036729648836,
     "change": -0.4400000000000013
   },
   {
@@ -978,13 +978,6 @@
     "market": "TWSE",
     "three_inst_ratio": 4.510572052271168,
     "change": -0.4400000000000004
-  },
-  {
-    "code": "8131",
-    "name": "福懋科",
-    "market": "TWSE",
-    "three_inst_ratio": 3.3312811804801585,
-    "change": -0.43999999999999995
   },
   {
     "code": "8473",
@@ -998,6 +991,13 @@
     "name": "訊映",
     "market": "TWSE",
     "three_inst_ratio": 2.73,
+    "change": -0.43999999999999995
+  },
+  {
+    "code": "8131",
+    "name": "福懋科",
+    "market": "TWSE",
+    "three_inst_ratio": 3.3312811804801585,
     "change": -0.43999999999999995
   },
   {
@@ -1036,17 +1036,17 @@
     "change": -0.42721615188675344
   },
   {
-    "code": "4989",
-    "name": "榮科",
-    "market": "TWSE",
-    "three_inst_ratio": 1.2905807213365244,
-    "change": -0.41999999999999993
-  },
-  {
     "code": "3060",
     "name": "銘異",
     "market": "TWSE",
     "three_inst_ratio": 10.248771786260553,
+    "change": -0.41999999999999993
+  },
+  {
+    "code": "4989",
+    "name": "榮科",
+    "market": "TWSE",
+    "three_inst_ratio": 1.2905807213365244,
     "change": -0.41999999999999993
   },
   {
@@ -1309,17 +1309,17 @@
     "change": -0.32070517372523355
   },
   {
-    "code": "3019",
-    "name": "亞光",
-    "market": "TWSE",
-    "three_inst_ratio": 9.778904754593011,
-    "change": -0.3200000000000003
-  },
-  {
     "code": "2009",
     "name": "第一銅",
     "market": "TWSE",
     "three_inst_ratio": 2.51837780201896,
+    "change": -0.3200000000000003
+  },
+  {
+    "code": "3019",
+    "name": "亞光",
+    "market": "TWSE",
+    "three_inst_ratio": 9.778904754593011,
     "change": -0.3200000000000003
   },
   {

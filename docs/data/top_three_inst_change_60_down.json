@@ -658,17 +658,17 @@
     "change": -3.1199999999999997
   },
   {
-    "code": "00982D",
-    "name": "主動富邦動態入息",
-    "market": "TWSE",
-    "three_inst_ratio": 0.35,
-    "change": -3.09
-  },
-  {
     "code": "6209",
     "name": "今國光",
     "market": "TWSE",
     "three_inst_ratio": 1.9212841129390565,
+    "change": -3.09
+  },
+  {
+    "code": "00982D",
+    "name": "主動富邦動態入息",
+    "market": "TWSE",
+    "three_inst_ratio": 0.35,
     "change": -3.09
   },
   {
@@ -1015,17 +1015,17 @@
     "change": -2.107206455850738
   },
   {
-    "code": "3050",
-    "name": "鈺德",
-    "market": "TWSE",
-    "three_inst_ratio": 5.86,
-    "change": -2.09
-  },
-  {
     "code": "00674R",
     "name": "期元大S&P黃金反1",
     "market": "TWSE",
     "three_inst_ratio": 5.36,
+    "change": -2.09
+  },
+  {
+    "code": "3050",
+    "name": "鈺德",
+    "market": "TWSE",
+    "three_inst_ratio": 5.86,
     "change": -2.09
   },
   {
@@ -1148,17 +1148,17 @@
     "change": -1.9041992697579562
   },
   {
-    "code": "00993A",
-    "name": "主動安聯台灣",
-    "market": "TWSE",
-    "three_inst_ratio": 0.3,
-    "change": -1.9000000000000001
-  },
-  {
     "code": "00912",
     "name": "中信臺灣智慧50",
     "market": "TWSE",
     "three_inst_ratio": 0.76,
+    "change": -1.9000000000000001
+  },
+  {
+    "code": "00993A",
+    "name": "主動安聯台灣",
+    "market": "TWSE",
+    "three_inst_ratio": 0.3,
     "change": -1.9000000000000001
   },
   {
@@ -1253,17 +1253,17 @@
     "change": -1.7700701050582914
   },
   {
-    "code": "00894",
-    "name": "中信小資高價30",
-    "market": "TWSE",
-    "three_inst_ratio": 0.38,
-    "change": -1.77
-  },
-  {
     "code": "00990A",
     "name": "主動元大AI新經濟",
     "market": "TWSE",
     "three_inst_ratio": 2.48,
+    "change": -1.77
+  },
+  {
+    "code": "00894",
+    "name": "中信小資高價30",
+    "market": "TWSE",
+    "three_inst_ratio": 0.38,
     "change": -1.77
   },
   {
@@ -1386,17 +1386,17 @@
     "change": -1.5500389595959587
   },
   {
-    "code": "00985A",
-    "name": "主動野村台灣50",
-    "market": "TWSE",
-    "three_inst_ratio": 0.79,
-    "change": -1.54
-  },
-  {
     "code": "00920",
     "name": "富邦ESG綠色電力",
     "market": "TWSE",
     "three_inst_ratio": 1.87,
+    "change": -1.54
+  },
+  {
+    "code": "00985A",
+    "name": "主動野村台灣50",
+    "market": "TWSE",
+    "three_inst_ratio": 0.79,
     "change": -1.54
   }
 ]
