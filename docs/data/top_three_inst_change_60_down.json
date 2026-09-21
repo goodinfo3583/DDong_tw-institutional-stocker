@@ -903,17 +903,17 @@
     "change": -2.0156313375827857
   },
   {
-    "code": "00921",
-    "name": "兆豐龍頭等權重",
-    "market": "TWSE",
-    "three_inst_ratio": 0.17,
-    "change": -1.9700000000000002
-  },
-  {
     "code": "00693U",
     "name": "期街口S&P黃豆",
     "market": "TWSE",
     "three_inst_ratio": 0.48,
+    "change": -1.9700000000000002
+  },
+  {
+    "code": "00921",
+    "name": "兆豐龍頭等權重",
+    "market": "TWSE",
+    "three_inst_ratio": 0.17,
     "change": -1.9700000000000002
   },
   {
