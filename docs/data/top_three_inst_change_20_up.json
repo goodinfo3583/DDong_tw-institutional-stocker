@@ -987,17 +987,17 @@
     "change": 0.792595301107287
   },
   {
-    "code": "1309",
-    "name": "台達化",
-    "market": "TWSE",
-    "three_inst_ratio": 3.43,
-    "change": 0.79
-  },
-  {
     "code": "00909",
     "name": "國泰數位支付服務",
     "market": "TWSE",
     "three_inst_ratio": 2.94,
+    "change": 0.79
+  },
+  {
+    "code": "1309",
+    "name": "台達化",
+    "market": "TWSE",
+    "three_inst_ratio": 3.43,
     "change": 0.79
   },
   {
@@ -1309,6 +1309,13 @@
     "change": 0.54
   },
   {
+    "code": "1313",
+    "name": "聯成",
+    "market": "TWSE",
+    "three_inst_ratio": 7.431277382855206,
+    "change": 0.54
+  },
+  {
     "code": "6698",
     "name": "旭暉應材",
     "market": "TWSE",
@@ -1320,13 +1327,6 @@
     "name": "兆豐台灣晶圓製造",
     "market": "TWSE",
     "three_inst_ratio": 3.06,
-    "change": 0.54
-  },
-  {
-    "code": "1313",
-    "name": "聯成",
-    "market": "TWSE",
-    "three_inst_ratio": 7.431277382855206,
     "change": 0.54
   },
   {
