@@ -819,17 +819,17 @@
     "change": -2.344166445048577
   },
   {
-    "code": "00917",
-    "name": "中信特選金融",
-    "market": "TWSE",
-    "three_inst_ratio": 0.58,
-    "change": -2.26
-  },
-  {
     "code": "6164",
     "name": "華興",
     "market": "TWSE",
     "three_inst_ratio": 6.43,
+    "change": -2.26
+  },
+  {
+    "code": "00917",
+    "name": "中信特選金融",
+    "market": "TWSE",
+    "three_inst_ratio": 0.58,
     "change": -2.26
   },
   {
@@ -1050,17 +1050,17 @@
     "change": -1.8386499018043203
   },
   {
-    "code": "6243",
-    "name": "迅杰",
-    "market": "TWSE",
-    "three_inst_ratio": 1.67,
-    "change": -1.83
-  },
-  {
     "code": "00916",
     "name": "國泰全球品牌50",
     "market": "TWSE",
     "three_inst_ratio": 1.19,
+    "change": -1.83
+  },
+  {
+    "code": "6243",
+    "name": "迅杰",
+    "market": "TWSE",
+    "three_inst_ratio": 1.67,
     "change": -1.83
   },
   {
@@ -1379,13 +1379,6 @@
     "change": -1.4399999999999995
   },
   {
-    "code": "00673R",
-    "name": "期元大S&P原油反1",
-    "market": "TWSE",
-    "three_inst_ratio": 0.32,
-    "change": -1.41
-  },
-  {
     "code": "00938",
     "name": "凱基優選30",
     "market": "TWSE",
@@ -1397,6 +1390,13 @@
     "name": "期元大S&P石油",
     "market": "TWSE",
     "three_inst_ratio": 1.49,
+    "change": -1.41
+  },
+  {
+    "code": "00673R",
+    "name": "期元大S&P原油反1",
+    "market": "TWSE",
+    "three_inst_ratio": 0.32,
     "change": -1.41
   }
 ]

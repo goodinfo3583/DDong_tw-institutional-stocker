@@ -917,17 +917,17 @@
     "change": -0.4000000000000057
   },
   {
-    "code": "3022",
-    "name": "威強電",
-    "market": "TWSE",
-    "three_inst_ratio": 20.211427624887037,
-    "change": -0.39000000000000057
-  },
-  {
     "code": "3583",
     "name": "辛耘",
     "market": "TWSE",
     "three_inst_ratio": 27.32143811869851,
+    "change": -0.39000000000000057
+  },
+  {
+    "code": "3022",
+    "name": "威強電",
+    "market": "TWSE",
+    "three_inst_ratio": 20.211427624887037,
     "change": -0.39000000000000057
   },
   {
@@ -1036,17 +1036,17 @@
     "change": -0.3590038393432966
   },
   {
-    "code": "2505",
-    "name": "國揚",
-    "market": "TWSE",
-    "three_inst_ratio": 3.26,
-    "change": -0.3500000000000001
-  },
-  {
     "code": "3138",
     "name": "耀登",
     "market": "TWSE",
     "three_inst_ratio": 2.23,
+    "change": -0.3500000000000001
+  },
+  {
+    "code": "2505",
+    "name": "國揚",
+    "market": "TWSE",
+    "three_inst_ratio": 3.26,
     "change": -0.3500000000000001
   },
   {
@@ -1071,6 +1071,13 @@
     "change": -0.3404772971938712
   },
   {
+    "code": "1737",
+    "name": "臺鹽",
+    "market": "TWSE",
+    "three_inst_ratio": 6.84,
+    "change": -0.33999999999999986
+  },
+  {
     "code": "7795",
     "name": "長廣",
     "market": "TWSE",
@@ -1082,13 +1089,6 @@
     "name": "昶昕",
     "market": "TWSE",
     "three_inst_ratio": 5.0,
-    "change": -0.33999999999999986
-  },
-  {
-    "code": "1737",
-    "name": "臺鹽",
-    "market": "TWSE",
-    "three_inst_ratio": 6.84,
     "change": -0.33999999999999986
   },
   {
@@ -1113,10 +1113,10 @@
     "change": -0.3357660766347692
   },
   {
-    "code": "00401A",
-    "name": "主動摩根台灣鑫收",
+    "code": "00651R",
+    "name": "復華香港反1",
     "market": "TWSE",
-    "three_inst_ratio": 1.42,
+    "three_inst_ratio": 2.87,
     "change": -0.33000000000000007
   },
   {
@@ -1127,10 +1127,10 @@
     "change": -0.33000000000000007
   },
   {
-    "code": "00651R",
-    "name": "復華香港反1",
+    "code": "00401A",
+    "name": "主動摩根台灣鑫收",
     "market": "TWSE",
-    "three_inst_ratio": 2.87,
+    "three_inst_ratio": 1.42,
     "change": -0.33000000000000007
   },
   {
@@ -1253,17 +1253,17 @@
     "change": -0.299986003468387
   },
   {
-    "code": "3043",
-    "name": "科風",
-    "market": "TWSE",
-    "three_inst_ratio": 2.04,
-    "change": -0.29000000000000004
-  },
-  {
     "code": "1540",
     "name": "喬福",
     "market": "TWSE",
     "three_inst_ratio": 1.41,
+    "change": -0.29000000000000004
+  },
+  {
+    "code": "3043",
+    "name": "科風",
+    "market": "TWSE",
+    "three_inst_ratio": 2.04,
     "change": -0.29000000000000004
   },
   {
@@ -1337,17 +1337,17 @@
     "change": -0.27000000000000046
   },
   {
-    "code": "2038",
-    "name": "海光",
-    "market": "TWSE",
-    "three_inst_ratio": 1.4,
-    "change": -0.27
-  },
-  {
     "code": "1568",
     "name": "倉佑",
     "market": "TWSE",
     "three_inst_ratio": 3.57,
+    "change": -0.27
+  },
+  {
+    "code": "2038",
+    "name": "海光",
+    "market": "TWSE",
+    "three_inst_ratio": 1.4,
     "change": -0.27
   },
   {
