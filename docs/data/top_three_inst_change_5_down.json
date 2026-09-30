@@ -504,6 +504,20 @@
     "change": -0.6831517608856501
   },
   {
+    "code": "6451",
+    "name": "訊芯-KY",
+    "market": "TWSE",
+    "three_inst_ratio": 63.18037761926814,
+    "change": -0.6799999999999997
+  },
+  {
+    "code": "3437",
+    "name": "榮創",
+    "market": "TWSE",
+    "three_inst_ratio": 4.91,
+    "change": -0.6799999999999997
+  },
+  {
     "code": "1215",
     "name": "卜蜂",
     "market": "TWSE",
@@ -515,20 +529,6 @@
     "name": "邁達特",
     "market": "TWSE",
     "three_inst_ratio": 2.18,
-    "change": -0.6799999999999997
-  },
-  {
-    "code": "3437",
-    "name": "榮創",
-    "market": "TWSE",
-    "three_inst_ratio": 4.91,
-    "change": -0.6799999999999997
-  },
-  {
-    "code": "6451",
-    "name": "訊芯-KY",
-    "market": "TWSE",
-    "three_inst_ratio": 63.18037761926814,
     "change": -0.6799999999999997
   },
   {
@@ -903,17 +903,17 @@
     "change": -0.4300000000000006
   },
   {
-    "code": "00403A",
-    "name": "主動統一升級50",
-    "market": "TWSE",
-    "three_inst_ratio": 2.27,
-    "change": -0.43000000000000016
-  },
-  {
     "code": "00688L",
     "name": "國泰20年美債正2",
     "market": "TWSE",
     "three_inst_ratio": 1.38,
+    "change": -0.43000000000000016
+  },
+  {
+    "code": "00403A",
+    "name": "主動統一升級50",
+    "market": "TWSE",
+    "three_inst_ratio": 2.27,
     "change": -0.43000000000000016
   },
   {
@@ -1015,17 +1015,17 @@
     "change": -0.3891879478962146
   },
   {
-    "code": "3704",
-    "name": "合勤控",
-    "market": "TWSE",
-    "three_inst_ratio": 10.441962714821171,
-    "change": -0.370000000000001
-  },
-  {
     "code": "2369",
     "name": "菱生",
     "market": "TWSE",
     "three_inst_ratio": 13.448254154412686,
+    "change": -0.370000000000001
+  },
+  {
+    "code": "3704",
+    "name": "合勤控",
+    "market": "TWSE",
+    "three_inst_ratio": 10.441962714821171,
     "change": -0.370000000000001
   },
   {
@@ -1036,17 +1036,17 @@
     "change": -0.36880460721195796
   },
   {
-    "code": "3504",
-    "name": "揚明光",
-    "market": "TWSE",
-    "three_inst_ratio": 4.719123266802581,
-    "change": -0.3600000000000003
-  },
-  {
     "code": "4934",
     "name": "太極",
     "market": "TWSE",
     "three_inst_ratio": 2.88,
+    "change": -0.3600000000000003
+  },
+  {
+    "code": "3504",
+    "name": "揚明光",
+    "market": "TWSE",
+    "three_inst_ratio": 4.719123266802581,
     "change": -0.3600000000000003
   },
   {
@@ -1197,17 +1197,17 @@
     "change": -0.31
   },
   {
-    "code": "8033",
-    "name": "雷虎",
-    "market": "TWSE",
-    "three_inst_ratio": 4.2181999793172285,
-    "change": -0.3000000000000007
-  },
-  {
     "code": "2491",
     "name": "吉祥全",
     "market": "TWSE",
     "three_inst_ratio": 10.013153838649888,
+    "change": -0.3000000000000007
+  },
+  {
+    "code": "8033",
+    "name": "雷虎",
+    "market": "TWSE",
+    "three_inst_ratio": 4.2181999793172285,
     "change": -0.3000000000000007
   },
   {
@@ -1225,17 +1225,17 @@
     "change": -0.2999999999999998
   },
   {
-    "code": "1338",
-    "name": "廣華-KY",
-    "market": "TWSE",
-    "three_inst_ratio": 5.96,
-    "change": -0.2999999999999998
-  },
-  {
     "code": "00635U",
     "name": "期元大S&P黃金",
     "market": "TWSE",
     "three_inst_ratio": 6.4,
+    "change": -0.2999999999999998
+  },
+  {
+    "code": "1338",
+    "name": "廣華-KY",
+    "market": "TWSE",
+    "three_inst_ratio": 5.96,
     "change": -0.2999999999999998
   },
   {
@@ -1358,17 +1358,17 @@
     "change": -0.26000000000000023
   },
   {
-    "code": "1529",
-    "name": "樂事綠能",
-    "market": "TWSE",
-    "three_inst_ratio": 1.6618506301215628,
-    "change": -0.26
-  },
-  {
     "code": "00401A",
     "name": "主動摩根台灣鑫收",
     "market": "TWSE",
     "three_inst_ratio": 1.43,
+    "change": -0.26
+  },
+  {
+    "code": "1529",
+    "name": "樂事綠能",
+    "market": "TWSE",
+    "three_inst_ratio": 1.6618506301215628,
     "change": -0.26
   },
   {
@@ -1393,10 +1393,10 @@
     "change": -0.25
   },
   {
-    "code": "6235",
-    "name": "華孚",
+    "code": "6873",
+    "name": "泓德能源",
     "market": "TWSE",
-    "three_inst_ratio": 3.435002343447835,
+    "three_inst_ratio": 6.448723775465277,
     "change": -0.25
   }
 ]
