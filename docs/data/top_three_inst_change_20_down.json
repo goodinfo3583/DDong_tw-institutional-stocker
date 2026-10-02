@@ -889,17 +889,17 @@
     "change": -1.1733360218147264
   },
   {
-    "code": "00653L",
-    "name": "富邦印度正2",
-    "market": "TWSE",
-    "three_inst_ratio": 0.28,
-    "change": -1.17
-  },
-  {
     "code": "00675L",
     "name": "富邦臺灣加權正2",
     "market": "TWSE",
     "three_inst_ratio": 0.81,
+    "change": -1.17
+  },
+  {
+    "code": "00653L",
+    "name": "富邦印度正2",
+    "market": "TWSE",
+    "three_inst_ratio": 0.28,
     "change": -1.17
   },
   {
