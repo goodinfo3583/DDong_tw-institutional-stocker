@@ -735,17 +735,17 @@
     "change": -1.2538176716847786
   },
   {
-    "code": "1528",
-    "name": "恩德",
-    "market": "TWSE",
-    "three_inst_ratio": 1.6489546910850827,
-    "change": -1.25
-  },
-  {
     "code": "00921",
     "name": "兆豐龍頭等權重",
     "market": "TWSE",
     "three_inst_ratio": 0.21,
+    "change": -1.25
+  },
+  {
+    "code": "1528",
+    "name": "恩德",
+    "market": "TWSE",
+    "three_inst_ratio": 1.6489546910850827,
     "change": -1.25
   },
   {
@@ -847,13 +847,6 @@
     "change": -1.1011764711736731
   },
   {
-    "code": "1737",
-    "name": "臺鹽",
-    "market": "TWSE",
-    "three_inst_ratio": 6.8,
-    "change": -1.0899999999999999
-  },
-  {
     "code": "9136",
     "name": "巨騰-DR",
     "market": "TWSE",
@@ -865,6 +858,13 @@
     "name": "山林水",
     "market": "TWSE",
     "three_inst_ratio": 2.89,
+    "change": -1.0899999999999999
+  },
+  {
+    "code": "1737",
+    "name": "臺鹽",
+    "market": "TWSE",
+    "three_inst_ratio": 6.8,
     "change": -1.0899999999999999
   },
   {
