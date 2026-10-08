@@ -1190,17 +1190,17 @@
     "change": -0.27000000000000046
   },
   {
-    "code": "6695",
-    "name": "芯鼎",
-    "market": "TWSE",
-    "three_inst_ratio": 3.31,
-    "change": -0.27
-  },
-  {
     "code": "5292",
     "name": "華懋",
     "market": "TWSE",
     "three_inst_ratio": 3.240500617459865,
+    "change": -0.27
+  },
+  {
+    "code": "6695",
+    "name": "芯鼎",
+    "market": "TWSE",
+    "three_inst_ratio": 3.31,
     "change": -0.27
   },
   {
@@ -1246,13 +1246,6 @@
     "change": -0.26
   },
   {
-    "code": "00995A",
-    "name": "主動中信台灣卓越",
-    "market": "TWSE",
-    "three_inst_ratio": 0.69,
-    "change": -0.25
-  },
-  {
     "code": "1611",
     "name": "中電",
     "market": "TWSE",
@@ -1264,6 +1257,13 @@
     "name": "永崴投控",
     "market": "TWSE",
     "three_inst_ratio": 3.275710834001585,
+    "change": -0.25
+  },
+  {
+    "code": "00995A",
+    "name": "主動中信台灣卓越",
+    "market": "TWSE",
+    "three_inst_ratio": 0.69,
     "change": -0.25
   },
   {
