@@ -1141,17 +1141,17 @@
     "change": -0.7727858668017378
   },
   {
-    "code": "2506",
-    "name": "太設",
-    "market": "TWSE",
-    "three_inst_ratio": 4.05,
-    "change": -0.7700000000000005
-  },
-  {
     "code": "00657",
     "name": "國泰日經225",
     "market": "TWSE",
     "three_inst_ratio": 7.55,
+    "change": -0.7700000000000005
+  },
+  {
+    "code": "2506",
+    "name": "太設",
+    "market": "TWSE",
+    "three_inst_ratio": 4.05,
     "change": -0.7700000000000005
   },
   {

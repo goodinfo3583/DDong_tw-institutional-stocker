@@ -700,17 +700,17 @@
     "change": -0.5901361425092198
   },
   {
-    "code": "6719",
-    "name": "力智",
-    "market": "TWSE",
-    "three_inst_ratio": 6.263136036597934,
-    "change": -0.5699999999999994
-  },
-  {
     "code": "2363",
     "name": "矽統",
     "market": "TWSE",
     "three_inst_ratio": 6.115903706726183,
+    "change": -0.5699999999999994
+  },
+  {
+    "code": "6719",
+    "name": "力智",
+    "market": "TWSE",
+    "three_inst_ratio": 6.263136036597934,
     "change": -0.5699999999999994
   },
   {
@@ -805,17 +805,17 @@
     "change": -0.51
   },
   {
-    "code": "6695",
-    "name": "芯鼎",
-    "market": "TWSE",
-    "three_inst_ratio": 3.14,
-    "change": -0.5099999999999998
-  },
-  {
     "code": "2388",
     "name": "威盛",
     "market": "TWSE",
     "three_inst_ratio": 15.136160236931863,
+    "change": -0.5099999999999998
+  },
+  {
+    "code": "6695",
+    "name": "芯鼎",
+    "market": "TWSE",
+    "three_inst_ratio": 3.14,
     "change": -0.5099999999999998
   },
   {
@@ -1092,17 +1092,17 @@
     "change": -0.3205296204057291
   },
   {
-    "code": "2355",
-    "name": "敬鵬",
-    "market": "TWSE",
-    "three_inst_ratio": 16.44450716237183,
-    "change": -0.3200000000000003
-  },
-  {
     "code": "1526",
     "name": "日馳",
     "market": "TWSE",
     "three_inst_ratio": 2.92,
+    "change": -0.3200000000000003
+  },
+  {
+    "code": "2355",
+    "name": "敬鵬",
+    "market": "TWSE",
+    "three_inst_ratio": 16.44450716237183,
     "change": -0.3200000000000003
   },
   {
@@ -1309,13 +1309,6 @@
     "change": -0.252280762584995
   },
   {
-    "code": "8163",
-    "name": "達方",
-    "market": "TWSE",
-    "three_inst_ratio": 8.637312143152457,
-    "change": -0.25
-  },
-  {
     "code": "2364",
     "name": "倫飛",
     "market": "TWSE",
@@ -1327,6 +1320,13 @@
     "name": "氣立",
     "market": "TWSE",
     "three_inst_ratio": 3.21,
+    "change": -0.25
+  },
+  {
+    "code": "8163",
+    "name": "達方",
+    "market": "TWSE",
+    "three_inst_ratio": 8.637312143152457,
     "change": -0.25
   },
   {
@@ -1358,13 +1358,6 @@
     "change": -0.24002885079722347
   },
   {
-    "code": "6224",
-    "name": "聚鼎",
-    "market": "TWSE",
-    "three_inst_ratio": 10.530005838027817,
-    "change": -0.2400000000000002
-  },
-  {
     "code": "4770",
     "name": "上品",
     "market": "TWSE",
@@ -1376,6 +1369,13 @@
     "name": "達邁",
     "market": "TWSE",
     "three_inst_ratio": 8.968048429471716,
+    "change": -0.2400000000000002
+  },
+  {
+    "code": "6224",
+    "name": "聚鼎",
+    "market": "TWSE",
+    "three_inst_ratio": 10.530005838027817,
     "change": -0.2400000000000002
   },
   {
