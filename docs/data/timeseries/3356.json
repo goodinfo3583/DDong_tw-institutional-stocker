@@ -2913,5 +2913,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 9.230007293901123,
     "three_inst_ratio_change_20": 0.19000729390112348
+  },
+  {
+    "date": "2026-10-14",
+    "code": "3356",
+    "name": "奇偶",
+    "market": "TWSE",
+    "foreign_ratio": 9.91,
+    "trust_ratio": 7.293901122884407e-06,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 9.910007293901122,
+    "three_inst_ratio_change_20": 1.0600072939011227
   }
 ]
