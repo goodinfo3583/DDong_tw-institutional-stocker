@@ -903,6 +903,13 @@
     "change": 1.1799999999999997
   },
   {
+    "code": "4906",
+    "name": "正文",
+    "market": "TWSE",
+    "three_inst_ratio": 7.688833890075708,
+    "change": 1.1600000000000001
+  },
+  {
     "code": "2030",
     "name": "彰源",
     "market": "TWSE",
@@ -914,13 +921,6 @@
     "name": "裕慶-KY",
     "market": "TWSE",
     "three_inst_ratio": 7.11,
-    "change": 1.1600000000000001
-  },
-  {
-    "code": "4906",
-    "name": "正文",
-    "market": "TWSE",
-    "three_inst_ratio": 7.688833890075708,
     "change": 1.1600000000000001
   },
   {
@@ -1344,13 +1344,6 @@
     "change": 0.7705222681394694
   },
   {
-    "code": "00693U",
-    "name": "期街口S&P黃豆",
-    "market": "TWSE",
-    "three_inst_ratio": 1.11,
-    "change": 0.77
-  },
-  {
     "code": "00908",
     "name": "富邦入息REITs+",
     "market": "TWSE",
@@ -1362,6 +1355,13 @@
     "name": "復華富時不動產",
     "market": "TWSE",
     "three_inst_ratio": 1.48,
+    "change": 0.77
+  },
+  {
+    "code": "00693U",
+    "name": "期街口S&P黃豆",
+    "market": "TWSE",
+    "three_inst_ratio": 1.11,
     "change": 0.77
   },
   {
