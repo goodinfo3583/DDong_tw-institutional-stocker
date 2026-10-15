@@ -1351,17 +1351,17 @@
     "change": 0.3400000000000001
   },
   {
-    "code": "00851",
-    "name": "台新全球AI",
-    "market": "TWSE",
-    "three_inst_ratio": 1.15,
-    "change": 0.33999999999999986
-  },
-  {
     "code": "3138",
     "name": "耀登",
     "market": "TWSE",
     "three_inst_ratio": 2.6300283726608558,
+    "change": 0.33999999999999986
+  },
+  {
+    "code": "00851",
+    "name": "台新全球AI",
+    "market": "TWSE",
+    "three_inst_ratio": 1.15,
     "change": 0.33999999999999986
   },
   {
@@ -1386,17 +1386,17 @@
     "change": 0.32127002404578864
   },
   {
-    "code": "1304",
-    "name": "台聚",
-    "market": "TWSE",
-    "three_inst_ratio": 29.3,
-    "change": 0.3200000000000003
-  },
-  {
     "code": "2236",
     "name": "百達-KY",
     "market": "TWSE",
     "three_inst_ratio": 51.58,
+    "change": 0.3200000000000003
+  },
+  {
+    "code": "1304",
+    "name": "台聚",
+    "market": "TWSE",
+    "three_inst_ratio": 29.3,
     "change": 0.3200000000000003
   }
 ]

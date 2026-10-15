@@ -1386,17 +1386,17 @@
     "change": -1.1600000000000001
   },
   {
-    "code": "00938",
-    "name": "凱基優選30",
-    "market": "TWSE",
-    "three_inst_ratio": 0.47,
-    "change": -1.16
-  },
-  {
     "code": "6243",
     "name": "迅杰",
     "market": "TWSE",
     "three_inst_ratio": 1.53,
+    "change": -1.16
+  },
+  {
+    "code": "00938",
+    "name": "凱基優選30",
+    "market": "TWSE",
+    "three_inst_ratio": 0.47,
     "change": -1.16
   }
 ]
