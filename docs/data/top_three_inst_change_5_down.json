@@ -406,17 +406,17 @@
     "change": -1.1602073850992456
   },
   {
-    "code": "00894",
-    "name": "中信小資高價30",
-    "market": "TWSE",
-    "three_inst_ratio": 0.14,
-    "change": -1.12
-  },
-  {
     "code": "3048",
     "name": "益登",
     "market": "TWSE",
     "three_inst_ratio": 3.530344291112641,
+    "change": -1.12
+  },
+  {
+    "code": "00894",
+    "name": "中信小資高價30",
+    "market": "TWSE",
+    "three_inst_ratio": 0.14,
     "change": -1.12
   },
   {
@@ -1309,13 +1309,6 @@
     "change": -0.33558420602224714
   },
   {
-    "code": "3058",
-    "name": "立德",
-    "market": "TWSE",
-    "three_inst_ratio": 2.41,
-    "change": -0.33000000000000007
-  },
-  {
     "code": "6957",
     "name": "裕慶-KY",
     "market": "TWSE",
@@ -1334,6 +1327,13 @@
     "name": "錸德",
     "market": "TWSE",
     "three_inst_ratio": 12.87,
+    "change": -0.33000000000000007
+  },
+  {
+    "code": "3058",
+    "name": "立德",
+    "market": "TWSE",
+    "three_inst_ratio": 2.41,
     "change": -0.33000000000000007
   },
   {
@@ -1365,17 +1365,17 @@
     "change": -0.3099999999999996
   },
   {
-    "code": "1309",
-    "name": "台達化",
-    "market": "TWSE",
-    "three_inst_ratio": 3.11,
-    "change": -0.29000000000000004
-  },
-  {
     "code": "8462",
     "name": "柏文",
     "market": "TWSE",
     "three_inst_ratio": 5.11,
+    "change": -0.29000000000000004
+  },
+  {
+    "code": "1309",
+    "name": "台達化",
+    "market": "TWSE",
+    "three_inst_ratio": 3.11,
     "change": -0.29000000000000004
   },
   {

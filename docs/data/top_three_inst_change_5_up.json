@@ -77,17 +77,17 @@
     "change": 2.4800000000000004
   },
   {
-    "code": "00683L",
-    "name": "期元大美元指正2",
-    "market": "TWSE",
-    "three_inst_ratio": 19.22,
-    "change": 2.4800000000000004
-  },
-  {
     "code": "00961",
     "name": "FT臺灣永續高息",
     "market": "TWSE",
     "three_inst_ratio": 5.24,
+    "change": 2.4800000000000004
+  },
+  {
+    "code": "00683L",
+    "name": "期元大美元指正2",
+    "market": "TWSE",
+    "three_inst_ratio": 19.22,
     "change": 2.4800000000000004
   },
   {
@@ -210,17 +210,17 @@
     "change": 1.3889855904269819
   },
   {
-    "code": "3356",
-    "name": "奇偶",
-    "market": "TWSE",
-    "three_inst_ratio": 9.600007293901122,
-    "change": 1.379999999999999
-  },
-  {
     "code": "8213",
     "name": "志超",
     "market": "TWSE",
     "three_inst_ratio": 22.769132141864144,
+    "change": 1.379999999999999
+  },
+  {
+    "code": "3356",
+    "name": "奇偶",
+    "market": "TWSE",
+    "three_inst_ratio": 9.600007293901122,
     "change": 1.379999999999999
   },
   {
@@ -371,17 +371,17 @@
     "change": 0.9661657593934123
   },
   {
-    "code": "2241",
-    "name": "艾姆勒",
-    "market": "TWSE",
-    "three_inst_ratio": 10.44,
-    "change": 0.9299999999999997
-  },
-  {
     "code": "3416",
     "name": "融程電",
     "market": "TWSE",
     "three_inst_ratio": 5.13308793662077,
+    "change": 0.9299999999999997
+  },
+  {
+    "code": "2241",
+    "name": "艾姆勒",
+    "market": "TWSE",
+    "three_inst_ratio": 10.44,
     "change": 0.9299999999999997
   },
   {
@@ -560,13 +560,6 @@
     "change": 0.759999999999998
   },
   {
-    "code": "2402",
-    "name": "毅嘉",
-    "market": "TWSE",
-    "three_inst_ratio": 5.783743948430348,
-    "change": 0.75
-  },
-  {
     "code": "6277",
     "name": "宏正",
     "market": "TWSE",
@@ -578,6 +571,13 @@
     "name": "東聯",
     "market": "TWSE",
     "three_inst_ratio": 6.429460109557783,
+    "change": 0.75
+  },
+  {
+    "code": "2402",
+    "name": "毅嘉",
+    "market": "TWSE",
+    "three_inst_ratio": 5.783743948430348,
     "change": 0.75
   },
   {
@@ -1022,17 +1022,17 @@
     "change": 0.41248020953238296
   },
   {
-    "code": "3040",
-    "name": "遠見",
-    "market": "TWSE",
-    "three_inst_ratio": 1.57,
-    "change": 0.41000000000000014
-  },
-  {
     "code": "2108",
     "name": "南帝",
     "market": "TWSE",
     "three_inst_ratio": 7.001477407834814,
+    "change": 0.41000000000000014
+  },
+  {
+    "code": "3040",
+    "name": "遠見",
+    "market": "TWSE",
+    "three_inst_ratio": 1.57,
     "change": 0.41000000000000014
   },
   {
@@ -1295,17 +1295,17 @@
     "change": 0.3307811333060062
   },
   {
-    "code": "1904",
-    "name": "正隆",
-    "market": "TWSE",
-    "three_inst_ratio": 12.184919566760554,
-    "change": 0.33000000000000007
-  },
-  {
     "code": "6136",
     "name": "富爾特",
     "market": "TWSE",
     "three_inst_ratio": 4.160008655280034,
+    "change": 0.33000000000000007
+  },
+  {
+    "code": "1904",
+    "name": "正隆",
+    "market": "TWSE",
+    "three_inst_ratio": 12.184919566760554,
     "change": 0.33000000000000007
   },
   {
