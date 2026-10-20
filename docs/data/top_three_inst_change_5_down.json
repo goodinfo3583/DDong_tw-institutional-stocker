@@ -98,17 +98,17 @@
     "change": -2.56
   },
   {
-    "code": "00404A",
-    "name": "主動聯博動能50",
-    "market": "TWSE",
-    "three_inst_ratio": 0.56,
-    "change": -2.51
-  },
-  {
     "code": "00678",
     "name": "群益那斯達克生技",
     "market": "TWSE",
     "three_inst_ratio": 5.44,
+    "change": -2.51
+  },
+  {
+    "code": "00404A",
+    "name": "主動聯博動能50",
+    "market": "TWSE",
+    "three_inst_ratio": 0.56,
     "change": -2.51
   },
   {
@@ -525,17 +525,17 @@
     "change": -0.852251330048226
   },
   {
-    "code": "00728",
-    "name": "第一金工業30",
-    "market": "TWSE",
-    "three_inst_ratio": 0.43,
-    "change": -0.8500000000000001
-  },
-  {
     "code": "00901",
     "name": "永豐智能車供應鏈",
     "market": "TWSE",
     "three_inst_ratio": 0.73,
+    "change": -0.8500000000000001
+  },
+  {
+    "code": "00728",
+    "name": "第一金工業30",
+    "market": "TWSE",
+    "three_inst_ratio": 0.43,
     "change": -0.8500000000000001
   },
   {
@@ -1183,17 +1183,17 @@
     "change": -0.3314352489028547
   },
   {
-    "code": "2465",
-    "name": "麗臺",
-    "market": "TWSE",
-    "three_inst_ratio": 5.380008515527388,
-    "change": -0.33000000000000007
-  },
-  {
     "code": "2485",
     "name": "兆赫",
     "market": "TWSE",
     "three_inst_ratio": 2.420016997753687,
+    "change": -0.33000000000000007
+  },
+  {
+    "code": "2465",
+    "name": "麗臺",
+    "market": "TWSE",
+    "three_inst_ratio": 5.380008515527388,
     "change": -0.33000000000000007
   },
   {
@@ -1232,17 +1232,17 @@
     "change": -0.3100000000000005
   },
   {
-    "code": "4155",
-    "name": "訊映",
-    "market": "TWSE",
-    "three_inst_ratio": 1.98,
-    "change": -0.31000000000000005
-  },
-  {
     "code": "6243",
     "name": "迅杰",
     "market": "TWSE",
     "three_inst_ratio": 1.29,
+    "change": -0.31000000000000005
+  },
+  {
+    "code": "4155",
+    "name": "訊映",
+    "market": "TWSE",
+    "three_inst_ratio": 1.98,
     "change": -0.31000000000000005
   },
   {
@@ -1288,13 +1288,6 @@
     "change": -0.2999999999999998
   },
   {
-    "code": "00402A",
-    "name": "主動安聯美國科技",
-    "market": "TWSE",
-    "three_inst_ratio": 0.57,
-    "change": -0.29000000000000004
-  },
-  {
     "code": "3338",
     "name": "泰碩",
     "market": "TWSE",
@@ -1306,6 +1299,13 @@
     "name": "資通",
     "market": "TWSE",
     "three_inst_ratio": 5.090010581139458,
+    "change": -0.29000000000000004
+  },
+  {
+    "code": "00402A",
+    "name": "主動安聯美國科技",
+    "market": "TWSE",
+    "three_inst_ratio": 0.57,
     "change": -0.29000000000000004
   },
   {
@@ -1379,17 +1379,17 @@
     "change": -0.26276806233267536
   },
   {
-    "code": "6477",
-    "name": "安集",
-    "market": "TWSE",
-    "three_inst_ratio": 1.4700113097319047,
-    "change": -0.26
-  },
-  {
     "code": "00688L",
     "name": "國泰20年美債正2",
     "market": "TWSE",
     "three_inst_ratio": 0.94,
+    "change": -0.26
+  },
+  {
+    "code": "6477",
+    "name": "安集",
+    "market": "TWSE",
+    "three_inst_ratio": 1.4700113097319047,
     "change": -0.26
   },
   {
