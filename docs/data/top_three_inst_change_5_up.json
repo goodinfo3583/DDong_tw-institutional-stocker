@@ -357,17 +357,17 @@
     "change": 0.8700000000000001
   },
   {
-    "code": "00983D",
-    "name": "主動富邦複合收益",
-    "market": "TWSE",
-    "three_inst_ratio": 1.57,
-    "change": 0.8500000000000001
-  },
-  {
     "code": "00401A",
     "name": "主動摩根台灣鑫收",
     "market": "TWSE",
     "three_inst_ratio": 1.55,
+    "change": 0.8500000000000001
+  },
+  {
+    "code": "00983D",
+    "name": "主動富邦複合收益",
+    "market": "TWSE",
+    "three_inst_ratio": 1.57,
     "change": 0.8500000000000001
   },
   {
@@ -441,17 +441,17 @@
     "change": 0.7680082367292149
   },
   {
-    "code": "6742",
-    "name": "澤米",
-    "market": "TWSE",
-    "three_inst_ratio": 3.07,
-    "change": 0.75
-  },
-  {
     "code": "4927",
     "name": "泰鼎-KY",
     "market": "TWSE",
     "three_inst_ratio": 13.227971688076684,
+    "change": 0.75
+  },
+  {
+    "code": "6742",
+    "name": "澤米",
+    "market": "TWSE",
+    "three_inst_ratio": 3.07,
     "change": 0.75
   },
   {
@@ -658,17 +658,17 @@
     "change": 0.5555041574879986
   },
   {
-    "code": "00660",
-    "name": "元大歐洲50",
-    "market": "TWSE",
-    "three_inst_ratio": 8.23,
-    "change": 0.54
-  },
-  {
     "code": "2332",
     "name": "友訊",
     "market": "TWSE",
     "three_inst_ratio": 6.323393930568384,
+    "change": 0.54
+  },
+  {
+    "code": "00660",
+    "name": "元大歐洲50",
+    "market": "TWSE",
+    "three_inst_ratio": 8.23,
     "change": 0.54
   },
   {
@@ -833,17 +833,17 @@
     "change": 0.43544433271788563
   },
   {
-    "code": "00657",
-    "name": "國泰日經225",
-    "market": "TWSE",
-    "three_inst_ratio": 7.93,
-    "change": 0.41999999999999993
-  },
-  {
     "code": "1711",
     "name": "永光",
     "market": "TWSE",
     "three_inst_ratio": 6.18,
+    "change": 0.41999999999999993
+  },
+  {
+    "code": "00657",
+    "name": "國泰日經225",
+    "market": "TWSE",
+    "three_inst_ratio": 7.93,
     "change": 0.41999999999999993
   },
   {
@@ -1239,17 +1239,17 @@
     "change": 0.27
   },
   {
-    "code": "7786",
-    "name": "東方風能",
-    "market": "TWSE",
-    "three_inst_ratio": 2.9479566275593116,
-    "change": 0.27
-  },
-  {
     "code": "2419",
     "name": "仲琦",
     "market": "TWSE",
     "three_inst_ratio": 1.5597133673775085,
+    "change": 0.27
+  },
+  {
+    "code": "7786",
+    "name": "東方風能",
+    "market": "TWSE",
+    "three_inst_ratio": 2.9479566275593116,
     "change": 0.27
   },
   {
