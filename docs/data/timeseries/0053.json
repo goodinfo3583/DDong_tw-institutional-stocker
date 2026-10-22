@@ -2957,5 +2957,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.13,
     "three_inst_ratio_change_20": -0.14
+  },
+  {
+    "date": "2026-10-21",
+    "code": "0053",
+    "name": "元大科技市值",
+    "market": "TWSE",
+    "foreign_ratio": 0.28,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.28,
+    "three_inst_ratio_change_20": -0.02999999999999997
   }
 ]

@@ -1450,5 +1450,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.4,
     "three_inst_ratio_change_20": -0.9500000000000001
+  },
+  {
+    "date": "2026-10-21",
+    "code": "00401A",
+    "name": "主動摩根台灣鑫收",
+    "market": "TWSE",
+    "foreign_ratio": 1.55,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.55,
+    "three_inst_ratio_change_20": -0.1399999999999999
   }
 ]
