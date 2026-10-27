@@ -217,17 +217,17 @@
     "change": 1.15
   },
   {
-    "code": "1528",
-    "name": "恩德",
-    "market": "TWSE",
-    "three_inst_ratio": 2.888954691085083,
-    "change": 1.08
-  },
-  {
     "code": "00700",
     "name": "富邦恒生國企",
     "market": "TWSE",
     "three_inst_ratio": 2.08,
+    "change": 1.08
+  },
+  {
+    "code": "1528",
+    "name": "恩德",
+    "market": "TWSE",
+    "three_inst_ratio": 2.888954691085083,
     "change": 1.08
   },
   {
@@ -609,10 +609,10 @@
     "change": 0.5537884142005396
   },
   {
-    "code": "9955",
-    "name": "佳龍",
+    "code": "3701",
+    "name": "大眾控",
     "market": "TWSE",
-    "three_inst_ratio": 3.27,
+    "three_inst_ratio": 6.209154825832931,
     "change": 0.5499999999999998
   },
   {
@@ -623,10 +623,10 @@
     "change": 0.5499999999999998
   },
   {
-    "code": "3701",
-    "name": "大眾控",
+    "code": "9955",
+    "name": "佳龍",
     "market": "TWSE",
-    "three_inst_ratio": 6.209154825832931,
+    "three_inst_ratio": 3.27,
     "change": 0.5499999999999998
   },
   {
@@ -735,17 +735,17 @@
     "change": 0.5013340264794568
   },
   {
-    "code": "6909",
-    "name": "創控",
-    "market": "TWSE",
-    "three_inst_ratio": 9.220007439081364,
-    "change": 0.5
-  },
-  {
     "code": "2254",
     "name": "巨鎧精密-創",
     "market": "TWSE",
     "three_inst_ratio": 24.93,
+    "change": 0.5
+  },
+  {
+    "code": "6909",
+    "name": "創控",
+    "market": "TWSE",
+    "three_inst_ratio": 9.220007439081364,
     "change": 0.5
   },
   {
@@ -973,17 +973,17 @@
     "change": 0.38054291412500874
   },
   {
-    "code": "3059",
-    "name": "華晶科",
-    "market": "TWSE",
-    "three_inst_ratio": 8.69822936020082,
-    "change": 0.379999999999999
-  },
-  {
     "code": "4771",
     "name": "望隼",
     "market": "TWSE",
     "three_inst_ratio": 11.09,
+    "change": 0.379999999999999
+  },
+  {
+    "code": "3059",
+    "name": "華晶科",
+    "market": "TWSE",
+    "three_inst_ratio": 8.69822936020082,
     "change": 0.379999999999999
   },
   {
@@ -992,13 +992,6 @@
     "market": "TWSE",
     "three_inst_ratio": 4.780690388340296,
     "change": 0.37116243873129307
-  },
-  {
-    "code": "1416",
-    "name": "廣豐",
-    "market": "TWSE",
-    "three_inst_ratio": 7.4,
-    "change": 0.3700000000000001
   },
   {
     "code": "6272",
@@ -1012,6 +1005,13 @@
     "name": "資通",
     "market": "TWSE",
     "three_inst_ratio": 5.500010581139458,
+    "change": 0.3700000000000001
+  },
+  {
+    "code": "1416",
+    "name": "廣豐",
+    "market": "TWSE",
+    "three_inst_ratio": 7.4,
     "change": 0.3700000000000001
   },
   {
@@ -1260,17 +1260,17 @@
     "change": 0.291913498943714
   },
   {
-    "code": "1810",
-    "name": "和成",
-    "market": "TWSE",
-    "three_inst_ratio": 3.325089594382397,
-    "change": 0.29000000000000004
-  },
-  {
     "code": "3712",
     "name": "永崴投控",
     "market": "TWSE",
     "three_inst_ratio": 3.4757108340015845,
+    "change": 0.29000000000000004
+  },
+  {
+    "code": "1810",
+    "name": "和成",
+    "market": "TWSE",
+    "three_inst_ratio": 3.325089594382397,
     "change": 0.29000000000000004
   },
   {
@@ -1344,24 +1344,17 @@
     "change": 0.2514688745538649
   },
   {
-    "code": "1540",
-    "name": "喬福",
-    "market": "TWSE",
-    "three_inst_ratio": 1.29,
-    "change": 0.25
-  },
-  {
-    "code": "6598",
-    "name": "ABC-KY",
-    "market": "TWSE",
-    "three_inst_ratio": 23.69,
-    "change": 0.25
-  },
-  {
     "code": "1710",
     "name": "東聯",
     "market": "TWSE",
     "three_inst_ratio": 6.679460109557783,
+    "change": 0.25
+  },
+  {
+    "code": "3135",
+    "name": "凌航",
+    "market": "TWSE",
+    "three_inst_ratio": 0.886548623306573,
     "change": 0.25
   },
   {
@@ -1372,10 +1365,17 @@
     "change": 0.25
   },
   {
-    "code": "3135",
-    "name": "凌航",
+    "code": "6598",
+    "name": "ABC-KY",
     "market": "TWSE",
-    "three_inst_ratio": 0.886548623306573,
+    "three_inst_ratio": 23.69,
+    "change": 0.25
+  },
+  {
+    "code": "1540",
+    "name": "喬福",
+    "market": "TWSE",
+    "three_inst_ratio": 1.29,
     "change": 0.25
   },
   {

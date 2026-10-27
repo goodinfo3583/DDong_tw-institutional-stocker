@@ -630,17 +630,17 @@
     "change": -1.42
   },
   {
-    "code": "00405A",
-    "name": "主動富邦台灣龍耀",
-    "market": "TWSE",
-    "three_inst_ratio": 0.57,
-    "change": -1.3900000000000001
-  },
-  {
     "code": "00700",
     "name": "富邦恒生國企",
     "market": "TWSE",
     "three_inst_ratio": 2.08,
+    "change": -1.3900000000000001
+  },
+  {
+    "code": "00405A",
+    "name": "主動富邦台灣龍耀",
+    "market": "TWSE",
+    "three_inst_ratio": 0.57,
     "change": -1.3900000000000001
   },
   {
@@ -1211,17 +1211,17 @@
     "change": -0.7600000000000002
   },
   {
-    "code": "2538",
-    "name": "基泰",
-    "market": "TWSE",
-    "three_inst_ratio": 7.59,
-    "change": -0.75
-  },
-  {
     "code": "00688L",
     "name": "國泰20年美債正2",
     "market": "TWSE",
     "three_inst_ratio": 1.07,
+    "change": -0.75
+  },
+  {
+    "code": "2538",
+    "name": "基泰",
+    "market": "TWSE",
+    "three_inst_ratio": 7.59,
     "change": -0.75
   },
   {
@@ -1330,6 +1330,13 @@
     "change": -0.6743130302374709
   },
   {
+    "code": "9934",
+    "name": "成霖",
+    "market": "TWSE",
+    "three_inst_ratio": 13.01,
+    "change": -0.6699999999999999
+  },
+  {
     "code": "3704",
     "name": "合勤控",
     "market": "TWSE",
@@ -1341,13 +1348,6 @@
     "name": "日馳",
     "market": "TWSE",
     "three_inst_ratio": 2.65,
-    "change": -0.6699999999999999
-  },
-  {
-    "code": "9934",
-    "name": "成霖",
-    "market": "TWSE",
-    "three_inst_ratio": 13.01,
     "change": -0.6699999999999999
   },
   {
