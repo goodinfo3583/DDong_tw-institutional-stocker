@@ -805,17 +805,17 @@
     "change": -2.3292504615900853
   },
   {
-    "code": "00657",
-    "name": "國泰日經225",
-    "market": "TWSE",
-    "three_inst_ratio": 8.04,
-    "change": -2.3200000000000003
-  },
-  {
     "code": "00656R",
     "name": "國泰中國A50反1",
     "market": "TWSE",
     "three_inst_ratio": 0.59,
+    "change": -2.3200000000000003
+  },
+  {
+    "code": "00657",
+    "name": "國泰日經225",
+    "market": "TWSE",
+    "three_inst_ratio": 8.04,
     "change": -2.3200000000000003
   },
   {
