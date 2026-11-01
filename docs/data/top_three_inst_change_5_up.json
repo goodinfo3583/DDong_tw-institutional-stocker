@@ -483,17 +483,17 @@
     "change": 0.584517473662534
   },
   {
-    "code": "3518",
-    "name": "柏騰",
-    "market": "TWSE",
-    "three_inst_ratio": 7.7900234221223705,
-    "change": 0.5800000000000001
-  },
-  {
     "code": "00893",
     "name": "國泰智能電動車",
     "market": "TWSE",
     "three_inst_ratio": 0.8169988942214521,
+    "change": 0.5800000000000001
+  },
+  {
+    "code": "3518",
+    "name": "柏騰",
+    "market": "TWSE",
+    "three_inst_ratio": 7.7900234221223705,
     "change": 0.5800000000000001
   },
   {
@@ -1036,17 +1036,17 @@
     "change": 0.2900000000000027
   },
   {
-    "code": "00943",
-    "name": "兆豐電子高息等權",
-    "market": "TWSE",
-    "three_inst_ratio": 0.79,
-    "change": 0.29000000000000004
-  },
-  {
     "code": "00989A",
     "name": "主動摩根美國科技",
     "market": "TWSE",
     "three_inst_ratio": 3.23,
+    "change": 0.29000000000000004
+  },
+  {
+    "code": "00943",
+    "name": "兆豐電子高息等權",
+    "market": "TWSE",
+    "three_inst_ratio": 0.79,
     "change": 0.29000000000000004
   },
   {
@@ -1106,17 +1106,17 @@
     "change": 0.2799999999999998
   },
   {
-    "code": "6919",
-    "name": "康霈*",
-    "market": "TWSE",
-    "three_inst_ratio": 11.434928843155147,
-    "change": 0.27999999999999936
-  },
-  {
     "code": "2520",
     "name": "冠德",
     "market": "TWSE",
     "three_inst_ratio": 7.164530492695734,
+    "change": 0.27999999999999936
+  },
+  {
+    "code": "6919",
+    "name": "康霈*",
+    "market": "TWSE",
+    "three_inst_ratio": 11.434928843155147,
     "change": 0.27999999999999936
   },
   {
@@ -1141,17 +1141,17 @@
     "change": 0.27000000000000046
   },
   {
-    "code": "00885",
-    "name": "富邦越南",
-    "market": "TWSE",
-    "three_inst_ratio": 0.93,
-    "change": 0.27
-  },
-  {
     "code": "2020",
     "name": "美亞",
     "market": "TWSE",
     "three_inst_ratio": 2.28,
+    "change": 0.27
+  },
+  {
+    "code": "00885",
+    "name": "富邦越南",
+    "market": "TWSE",
+    "three_inst_ratio": 0.93,
     "change": 0.27
   },
   {
@@ -1204,17 +1204,17 @@
     "change": 0.26000000000000023
   },
   {
-    "code": "00653L",
-    "name": "富邦印度正2",
-    "market": "TWSE",
-    "three_inst_ratio": 0.5,
-    "change": 0.26
-  },
-  {
     "code": "2442",
     "name": "新美齊",
     "market": "TWSE",
     "three_inst_ratio": 1.82,
+    "change": 0.26
+  },
+  {
+    "code": "1325",
+    "name": "恆大",
+    "market": "TWSE",
+    "three_inst_ratio": 1.59,
     "change": 0.26
   },
   {
@@ -1225,10 +1225,10 @@
     "change": 0.26
   },
   {
-    "code": "1325",
-    "name": "恆大",
+    "code": "00653L",
+    "name": "富邦印度正2",
     "market": "TWSE",
-    "three_inst_ratio": 1.59,
+    "three_inst_ratio": 0.5,
     "change": 0.26
   },
   {
@@ -1260,6 +1260,13 @@
     "change": 0.2500128511863231
   },
   {
+    "code": "2233",
+    "name": "宇隆",
+    "market": "TWSE",
+    "three_inst_ratio": 10.302402122581793,
+    "change": 0.25
+  },
+  {
     "code": "4771",
     "name": "望隼",
     "market": "TWSE",
@@ -1271,13 +1278,6 @@
     "name": "閎暉",
     "market": "TWSE",
     "three_inst_ratio": 7.71,
-    "change": 0.25
-  },
-  {
-    "code": "2233",
-    "name": "宇隆",
-    "market": "TWSE",
-    "three_inst_ratio": 10.302402122581793,
     "change": 0.25
   },
   {
@@ -1323,10 +1323,10 @@
     "change": 0.2300000000000001
   },
   {
-    "code": "00865B",
-    "name": "國泰US短期公債",
+    "code": "6235",
+    "name": "華孚",
     "market": "TWSE",
-    "three_inst_ratio": 1.67,
+    "three_inst_ratio": 2.955016350009489,
     "change": 0.22999999999999998
   },
   {
@@ -1337,10 +1337,10 @@
     "change": 0.22999999999999998
   },
   {
-    "code": "6235",
-    "name": "華孚",
+    "code": "00865B",
+    "name": "國泰US短期公債",
     "market": "TWSE",
-    "three_inst_ratio": 2.955016350009489,
+    "three_inst_ratio": 1.67,
     "change": 0.22999999999999998
   },
   {
@@ -1358,13 +1358,6 @@
     "change": 0.2216051967803807
   },
   {
-    "code": "00680L",
-    "name": "元大美債20正2",
-    "market": "TWSE",
-    "three_inst_ratio": 1.01,
-    "change": 0.21999999999999997
-  },
-  {
     "code": "00642U",
     "name": "期元大S&P石油",
     "market": "TWSE",
@@ -1376,6 +1369,13 @@
     "name": "志信",
     "market": "TWSE",
     "three_inst_ratio": 1.79,
+    "change": 0.21999999999999997
+  },
+  {
+    "code": "00680L",
+    "name": "元大美債20正2",
+    "market": "TWSE",
+    "three_inst_ratio": 1.01,
     "change": 0.21999999999999997
   },
   {
