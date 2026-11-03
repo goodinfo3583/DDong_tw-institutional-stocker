@@ -3034,5 +3034,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 65.04001600000001,
     "three_inst_ratio_change_20": 0.20000000000000284
+  },
+  {
+    "date": "2026-11-03",
+    "code": "6862",
+    "name": "三集瑞-KY",
+    "market": "TWSE",
+    "foreign_ratio": 65.06,
+    "trust_ratio": 1.6e-05,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 65.060016,
+    "three_inst_ratio_change_20": 0.25
   }
 ]
