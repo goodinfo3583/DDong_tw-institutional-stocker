@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-04T15:56:55.074740",
+  "updated": "2026-11-04T18:59:56.185516",
   "brokers": {
     "元大-中和": [
       {
@@ -262,6 +262,13 @@
         "side": "sell",
         "pct": 0.16,
         "rank": 15
+      },
+      {
+        "stock_code": "3006",
+        "net_vol": 102,
+        "side": "buy",
+        "pct": 0.47,
+        "rank": 3
       }
     ],
     "元大-新莊": [
@@ -321,6 +328,24 @@
         "side": "sell",
         "pct": 0.22,
         "rank": 9
+      }
+    ],
+    "元大-桃園": [
+      {
+        "stock_code": "3006",
+        "net_vol": -58,
+        "side": "sell",
+        "pct": 0.27,
+        "rank": 12
+      }
+    ],
+    "元大-樹林": [
+      {
+        "stock_code": "3006",
+        "net_vol": 37,
+        "side": "buy",
+        "pct": 0.17,
+        "rank": 15
       }
     ],
     "元大-草屯": [
@@ -578,6 +603,13 @@
         "rank": 11
       },
       {
+        "stock_code": "3006",
+        "net_vol": -54,
+        "side": "sell",
+        "pct": 0.25,
+        "rank": 14
+      },
+      {
         "stock_code": "2379",
         "net_vol": 83,
         "side": "buy",
@@ -597,6 +629,15 @@
         "side": "sell",
         "pct": 3.92,
         "rank": 1
+      }
+    ],
+    "凱基-中壢": [
+      {
+        "stock_code": "3006",
+        "net_vol": 86,
+        "side": "buy",
+        "pct": 0.39,
+        "rank": 5
       }
     ],
     "凱基-中山": [
@@ -738,6 +779,13 @@
         "side": "buy",
         "pct": 2.09,
         "rank": 3
+      },
+      {
+        "stock_code": "3006",
+        "net_vol": -789,
+        "side": "sell",
+        "pct": 3.61,
+        "rank": 2
       },
       {
         "stock_code": "3034",
@@ -1049,6 +1097,13 @@
         "rank": 6
       },
       {
+        "stock_code": "3006",
+        "net_vol": -245,
+        "side": "sell",
+        "pct": 1.12,
+        "rank": 8
+      },
+      {
         "stock_code": "2379",
         "net_vol": -144,
         "side": "sell",
@@ -1303,6 +1358,15 @@
         "side": "sell",
         "pct": 0.37,
         "rank": 15
+      }
+    ],
+    "富邦-高雄": [
+      {
+        "stock_code": "3006",
+        "net_vol": 37,
+        "side": "buy",
+        "pct": 0.17,
+        "rank": 14
       }
     ],
     "富邦證券": [
@@ -1661,6 +1725,13 @@
         "rank": 2
       },
       {
+        "stock_code": "3006",
+        "net_vol": -278,
+        "side": "sell",
+        "pct": 1.27,
+        "rank": 6
+      },
+      {
         "stock_code": "2379",
         "net_vol": 32,
         "side": "buy",
@@ -1773,6 +1844,13 @@
         "side": "sell",
         "pct": 4.49,
         "rank": 1
+      },
+      {
+        "stock_code": "3006",
+        "net_vol": -211,
+        "side": "sell",
+        "pct": 0.97,
+        "rank": 9
       },
       {
         "stock_code": "2379",
@@ -2017,6 +2095,13 @@
         "rank": 1
       },
       {
+        "stock_code": "3006",
+        "net_vol": -965,
+        "side": "sell",
+        "pct": 4.42,
+        "rank": 1
+      },
+      {
         "stock_code": "2379",
         "net_vol": 51,
         "side": "buy",
@@ -2142,6 +2227,13 @@
         "net_vol": 43,
         "side": "buy",
         "pct": 0.96,
+        "rank": 5
+      },
+      {
+        "stock_code": "3006",
+        "net_vol": -295,
+        "side": "sell",
+        "pct": 1.35,
         "rank": 5
       },
       {

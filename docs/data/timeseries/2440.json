@@ -3045,5 +3045,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.96,
     "three_inst_ratio_change_20": 0.20999999999999996
+  },
+  {
+    "date": "2026-11-04",
+    "code": "2440",
+    "name": "太空梭",
+    "market": "TWSE",
+    "foreign_ratio": 0.95,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.95,
+    "three_inst_ratio_change_20": 0.1499999999999999
   }
 ]
