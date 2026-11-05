@@ -490,17 +490,17 @@
     "change": -2.0
   },
   {
-    "code": "3305",
-    "name": "昇貿",
-    "market": "TWSE",
-    "three_inst_ratio": 2.5909719430353984,
-    "change": -1.9899999999999998
-  },
-  {
     "code": "6658",
     "name": "聯策",
     "market": "TWSE",
     "three_inst_ratio": 1.240018243419338,
+    "change": -1.9899999999999998
+  },
+  {
+    "code": "3305",
+    "name": "昇貿",
+    "market": "TWSE",
+    "three_inst_ratio": 2.5909719430353984,
     "change": -1.9899999999999998
   },
   {
@@ -903,17 +903,17 @@
     "change": -1.0999999999999996
   },
   {
-    "code": "3535",
-    "name": "晶彩科",
-    "market": "TWSE",
-    "three_inst_ratio": 2.840016444797673,
-    "change": -1.0700000000000003
-  },
-  {
     "code": "2369",
     "name": "菱生",
     "market": "TWSE",
     "three_inst_ratio": 12.928254154412686,
+    "change": -1.0700000000000003
+  },
+  {
+    "code": "3535",
+    "name": "晶彩科",
+    "market": "TWSE",
+    "three_inst_ratio": 2.840016444797673,
     "change": -1.0700000000000003
   },
   {
