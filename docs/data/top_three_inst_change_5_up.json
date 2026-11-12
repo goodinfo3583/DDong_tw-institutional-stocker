@@ -434,17 +434,17 @@
     "change": 1.1
   },
   {
-    "code": "6756",
-    "name": "威鋒電子",
-    "market": "TWSE",
-    "three_inst_ratio": 5.301325903700528,
-    "change": 1.0899999999999999
-  },
-  {
     "code": "2453",
     "name": "凌群",
     "market": "TWSE",
     "three_inst_ratio": 6.020008,
+    "change": 1.0899999999999999
+  },
+  {
+    "code": "6756",
+    "name": "威鋒電子",
+    "market": "TWSE",
+    "three_inst_ratio": 5.301325903700528,
     "change": 1.0899999999999999
   },
   {
@@ -1120,17 +1120,17 @@
     "change": 0.44874086104758426
   },
   {
-    "code": "3576",
-    "name": "聯合再生",
-    "market": "TWSE",
-    "three_inst_ratio": 15.109498278461443,
-    "change": 0.4399999999999995
-  },
-  {
     "code": "4906",
     "name": "正文",
     "market": "TWSE",
     "three_inst_ratio": 8.068833890075707,
+    "change": 0.4399999999999995
+  },
+  {
+    "code": "3576",
+    "name": "聯合再生",
+    "market": "TWSE",
+    "three_inst_ratio": 15.109498278461443,
     "change": 0.4399999999999995
   },
   {
@@ -1155,17 +1155,17 @@
     "change": 0.4343478623410597
   },
   {
-    "code": "6112",
-    "name": "邁達特",
-    "market": "TWSE",
-    "three_inst_ratio": 3.220005839963674,
-    "change": 0.43000000000000016
-  },
-  {
     "code": "3257",
     "name": "虹冠電",
     "market": "TWSE",
     "three_inst_ratio": 2.542699863536581,
+    "change": 0.43000000000000016
+  },
+  {
+    "code": "6112",
+    "name": "邁達特",
+    "market": "TWSE",
+    "three_inst_ratio": 3.220005839963674,
     "change": 0.43000000000000016
   },
   {
@@ -1176,17 +1176,17 @@
     "change": 0.43000000000000005
   },
   {
-    "code": "00875",
-    "name": "國泰網路資安",
-    "market": "TWSE",
-    "three_inst_ratio": 5.14,
-    "change": 0.4299999999999997
-  },
-  {
     "code": "2399",
     "name": "映泰",
     "market": "TWSE",
     "three_inst_ratio": 6.998326782706345,
+    "change": 0.4299999999999997
+  },
+  {
+    "code": "00875",
+    "name": "國泰網路資安",
+    "market": "TWSE",
+    "three_inst_ratio": 5.14,
     "change": 0.4299999999999997
   },
   {
@@ -1253,17 +1253,17 @@
     "change": 0.40110972962657465
   },
   {
-    "code": "1536",
-    "name": "和大",
-    "market": "TWSE",
-    "three_inst_ratio": 5.072675063531531,
-    "change": 0.40000000000000036
-  },
-  {
     "code": "8341",
     "name": "日友",
     "market": "TWSE",
     "three_inst_ratio": 6.2,
+    "change": 0.40000000000000036
+  },
+  {
+    "code": "1536",
+    "name": "和大",
+    "market": "TWSE",
+    "three_inst_ratio": 5.072675063531531,
     "change": 0.40000000000000036
   },
   {
@@ -1365,10 +1365,10 @@
     "change": 0.3500000000000014
   },
   {
-    "code": "00941",
-    "name": "中信上游半導體",
+    "code": "00954",
+    "name": "中信日本半導體",
     "market": "TWSE",
-    "three_inst_ratio": 0.93,
+    "three_inst_ratio": 1.73,
     "change": 0.3500000000000001
   },
   {
@@ -1379,10 +1379,10 @@
     "change": 0.3500000000000001
   },
   {
-    "code": "00954",
-    "name": "中信日本半導體",
+    "code": "00941",
+    "name": "中信上游半導體",
     "market": "TWSE",
-    "three_inst_ratio": 1.73,
+    "three_inst_ratio": 0.93,
     "change": 0.3500000000000001
   },
   {
