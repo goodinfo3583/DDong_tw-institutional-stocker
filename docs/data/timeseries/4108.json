@@ -3199,5 +3199,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.95,
     "three_inst_ratio_change_20": -0.3600000000000001
+  },
+  {
+    "date": "2026-11-12",
+    "code": "4108",
+    "name": "懷特",
+    "market": "TWSE",
+    "foreign_ratio": 0.91,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.91,
+    "three_inst_ratio_change_20": -0.4
   }
 ]
