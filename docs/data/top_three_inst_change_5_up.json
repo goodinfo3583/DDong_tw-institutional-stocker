@@ -833,17 +833,17 @@
     "change": 0.55
   },
   {
-    "code": "00412A",
-    "name": "主動安聯亞半導體",
-    "market": "TWSE",
-    "three_inst_ratio": 1.92,
-    "change": 0.54
-  },
-  {
     "code": "6902",
     "name": "GOGOLOOK",
     "market": "TWSE",
     "three_inst_ratio": 5.670064865842191,
+    "change": 0.54
+  },
+  {
+    "code": "00412A",
+    "name": "主動安聯亞半導體",
+    "market": "TWSE",
+    "three_inst_ratio": 1.92,
     "change": 0.54
   },
   {
@@ -1064,17 +1064,17 @@
     "change": 0.42153389719138445
   },
   {
-    "code": "3060",
-    "name": "銘異",
-    "market": "TWSE",
-    "three_inst_ratio": 10.434733360719536,
-    "change": 0.41999999999999993
-  },
-  {
     "code": "4722",
     "name": "國精化",
     "market": "TWSE",
     "three_inst_ratio": 10.678318748021718,
+    "change": 0.41999999999999993
+  },
+  {
+    "code": "3060",
+    "name": "銘異",
+    "market": "TWSE",
+    "three_inst_ratio": 10.434733360719536,
     "change": 0.41999999999999993
   },
   {
@@ -1393,10 +1393,10 @@
     "change": 0.28231516689476877
   },
   {
-    "code": "3054",
-    "name": "立萬利",
+    "code": "0053",
+    "name": "元大科技市值",
     "market": "TWSE",
-    "three_inst_ratio": 0.8100173587344025,
+    "three_inst_ratio": 0.39,
     "change": 0.28
   }
 ]
