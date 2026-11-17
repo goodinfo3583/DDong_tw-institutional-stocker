@@ -252,17 +252,17 @@
     "change": -1.1600000000000001
   },
   {
-    "code": "00936",
-    "name": "台新永續高息中小",
-    "market": "TWSE",
-    "three_inst_ratio": 0.56,
-    "change": -1.16
-  },
-  {
     "code": "00406A",
     "name": "主動中信台灣收益",
     "market": "TWSE",
     "three_inst_ratio": 0.54,
+    "change": -1.16
+  },
+  {
+    "code": "00936",
+    "name": "台新永續高息中小",
+    "market": "TWSE",
+    "three_inst_ratio": 0.56,
     "change": -1.16
   },
   {
@@ -623,6 +623,13 @@
     "change": -0.5934177519778636
   },
   {
+    "code": "3704",
+    "name": "合勤控",
+    "market": "TWSE",
+    "three_inst_ratio": 9.181962714821172,
+    "change": -0.5899999999999999
+  },
+  {
     "code": "3356",
     "name": "奇偶",
     "market": "TWSE",
@@ -634,13 +641,6 @@
     "name": "宏正",
     "market": "TWSE",
     "three_inst_ratio": 15.82725645182035,
-    "change": -0.5899999999999999
-  },
-  {
-    "code": "3704",
-    "name": "合勤控",
-    "market": "TWSE",
-    "three_inst_ratio": 9.181962714821172,
     "change": -0.5899999999999999
   },
   {
@@ -700,17 +700,17 @@
     "change": -0.5336205310011586
   },
   {
-    "code": "1310",
-    "name": "台苯",
-    "market": "TWSE",
-    "three_inst_ratio": 7.345654614459032,
-    "change": -0.5300000000000002
-  },
-  {
     "code": "3050",
     "name": "鈺德",
     "market": "TWSE",
     "three_inst_ratio": 5.2900167758765475,
+    "change": -0.5300000000000002
+  },
+  {
+    "code": "1310",
+    "name": "台苯",
+    "market": "TWSE",
+    "three_inst_ratio": 7.345654614459032,
     "change": -0.5300000000000002
   },
   {
@@ -833,17 +833,17 @@
     "change": -0.48000000000000004
   },
   {
-    "code": "4952",
-    "name": "凌通",
-    "market": "TWSE",
-    "three_inst_ratio": 6.244533732853688,
-    "change": -0.46999999999999975
-  },
-  {
     "code": "6164",
     "name": "華興",
     "market": "TWSE",
     "three_inst_ratio": 4.17004125,
+    "change": -0.46999999999999975
+  },
+  {
+    "code": "4952",
+    "name": "凌通",
+    "market": "TWSE",
+    "three_inst_ratio": 6.244533732853688,
     "change": -0.46999999999999975
   },
   {
@@ -1036,17 +1036,17 @@
     "change": -0.38000000000000256
   },
   {
-    "code": "1611",
-    "name": "中電",
-    "market": "TWSE",
-    "three_inst_ratio": 6.690045548100464,
-    "change": -0.3799999999999999
-  },
-  {
     "code": "6753",
     "name": "龍德造船",
     "market": "TWSE",
     "three_inst_ratio": 3.0760614691498804,
+    "change": -0.3799999999999999
+  },
+  {
+    "code": "1611",
+    "name": "中電",
+    "market": "TWSE",
+    "three_inst_ratio": 6.690045548100464,
     "change": -0.3799999999999999
   },
   {
@@ -1176,17 +1176,17 @@
     "change": -0.35000000000000053
   },
   {
-    "code": "2444",
-    "name": "兆勁",
-    "market": "TWSE",
-    "three_inst_ratio": 2.71,
-    "change": -0.3500000000000001
-  },
-  {
     "code": "3032",
     "name": "偉訓",
     "market": "TWSE",
     "three_inst_ratio": 1.3584740463013374,
+    "change": -0.3500000000000001
+  },
+  {
+    "code": "2444",
+    "name": "兆勁",
+    "market": "TWSE",
+    "three_inst_ratio": 2.71,
     "change": -0.3500000000000001
   },
   {
@@ -1253,17 +1253,17 @@
     "change": -0.33089142228952895
   },
   {
-    "code": "2630",
-    "name": "亞航",
-    "market": "TWSE",
-    "three_inst_ratio": 3.02,
-    "change": -0.33000000000000007
-  },
-  {
     "code": "1440",
     "name": "南紡",
     "market": "TWSE",
     "three_inst_ratio": 7.9965077945110465,
+    "change": -0.33000000000000007
+  },
+  {
+    "code": "2630",
+    "name": "亞航",
+    "market": "TWSE",
+    "three_inst_ratio": 3.02,
     "change": -0.33000000000000007
   },
   {
@@ -1358,17 +1358,17 @@
     "change": -0.3
   },
   {
-    "code": "2905",
-    "name": "三商",
-    "market": "TWSE",
-    "three_inst_ratio": 5.410080017267875,
-    "change": -0.2999999999999998
-  },
-  {
     "code": "2406",
     "name": "國碩",
     "market": "TWSE",
     "three_inst_ratio": 7.691738358821535,
+    "change": -0.2999999999999998
+  },
+  {
+    "code": "2905",
+    "name": "三商",
+    "market": "TWSE",
+    "three_inst_ratio": 5.410080017267875,
     "change": -0.2999999999999998
   },
   {
