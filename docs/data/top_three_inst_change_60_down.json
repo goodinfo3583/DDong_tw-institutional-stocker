@@ -469,17 +469,17 @@
     "change": -3.2671772751149852
   },
   {
-    "code": "00405A",
-    "name": "主動富邦台灣龍耀",
-    "market": "TWSE",
-    "three_inst_ratio": 0.64,
-    "change": -3.2199999999999998
-  },
-  {
     "code": "00700",
     "name": "富邦恒生國企",
     "market": "TWSE",
     "three_inst_ratio": 2.05,
+    "change": -3.2199999999999998
+  },
+  {
+    "code": "00405A",
+    "name": "主動富邦台灣龍耀",
+    "market": "TWSE",
+    "three_inst_ratio": 0.64,
     "change": -3.2199999999999998
   },
   {
@@ -1085,17 +1085,17 @@
     "change": -1.8521882492391626
   },
   {
-    "code": "1201",
-    "name": "味全",
-    "market": "TWSE",
-    "three_inst_ratio": 3.16,
-    "change": -1.83
-  },
-  {
     "code": "00956",
     "name": "中信日經高股息",
     "market": "TWSE",
     "three_inst_ratio": 2.41,
+    "change": -1.83
+  },
+  {
+    "code": "1201",
+    "name": "味全",
+    "market": "TWSE",
+    "three_inst_ratio": 3.16,
     "change": -1.83
   },
   {
