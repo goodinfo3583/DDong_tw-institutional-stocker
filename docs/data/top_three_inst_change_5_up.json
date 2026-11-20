@@ -126,17 +126,17 @@
     "change": 1.5909865510305217
   },
   {
-    "code": "2471",
-    "name": "資通",
-    "market": "TWSE",
-    "three_inst_ratio": 10.160010581139458,
-    "change": 1.58
-  },
-  {
     "code": "00651R",
     "name": "復華香港反1",
     "market": "TWSE",
     "three_inst_ratio": 4.32,
+    "change": 1.58
+  },
+  {
+    "code": "2471",
+    "name": "資通",
+    "market": "TWSE",
+    "three_inst_ratio": 10.160010581139458,
     "change": 1.58
   },
   {
@@ -665,17 +665,17 @@
     "change": 0.47778122986019866
   },
   {
-    "code": "1786",
-    "name": "科妍",
-    "market": "TWSE",
-    "three_inst_ratio": 2.613509398351874,
-    "change": 0.46999999999999975
-  },
-  {
     "code": "00639",
     "name": "富邦深100",
     "market": "TWSE",
     "three_inst_ratio": 1.8106649692514603,
+    "change": 0.46999999999999975
+  },
+  {
+    "code": "1786",
+    "name": "科妍",
+    "market": "TWSE",
+    "three_inst_ratio": 2.613509398351874,
     "change": 0.46999999999999975
   },
   {
@@ -707,17 +707,17 @@
     "change": 0.4399999999999997
   },
   {
-    "code": "2425",
-    "name": "承啟",
-    "market": "TWSE",
-    "three_inst_ratio": 8.530010362819835,
-    "change": 0.4299999999999997
-  },
-  {
     "code": "7711",
     "name": "永擎",
     "market": "TWSE",
     "three_inst_ratio": 3.9404767362322506,
+    "change": 0.4299999999999997
+  },
+  {
+    "code": "2425",
+    "name": "承啟",
+    "market": "TWSE",
+    "three_inst_ratio": 8.530010362819835,
     "change": 0.4299999999999997
   },
   {
@@ -882,17 +882,17 @@
     "change": 0.3600000000000003
   },
   {
-    "code": "3229",
-    "name": "晟鈦",
-    "market": "TWSE",
-    "three_inst_ratio": 1.2700077805268972,
-    "change": 0.3599999999999999
-  },
-  {
     "code": "7765",
     "name": "中華資安",
     "market": "TWSE",
     "three_inst_ratio": 2.7946655686930018,
+    "change": 0.3599999999999999
+  },
+  {
+    "code": "3229",
+    "name": "晟鈦",
+    "market": "TWSE",
+    "three_inst_ratio": 1.2700077805268972,
     "change": 0.3599999999999999
   },
   {
@@ -1064,17 +1064,17 @@
     "change": 0.29000000000000625
   },
   {
-    "code": "6243",
-    "name": "迅杰",
-    "market": "TWSE",
-    "three_inst_ratio": 3.04,
-    "change": 0.29000000000000004
-  },
-  {
     "code": "6467",
     "name": "泰合",
     "market": "TWSE",
     "three_inst_ratio": 3.63,
+    "change": 0.29000000000000004
+  },
+  {
+    "code": "6243",
+    "name": "迅杰",
+    "market": "TWSE",
+    "three_inst_ratio": 3.04,
     "change": 0.29000000000000004
   },
   {
@@ -1218,17 +1218,17 @@
     "change": 0.2627282761678842
   },
   {
-    "code": "6658",
-    "name": "聯策",
-    "market": "TWSE",
-    "three_inst_ratio": 1.880018243419338,
-    "change": 0.2599999999999998
-  },
-  {
     "code": "6589",
     "name": "台康生技",
     "market": "TWSE",
     "three_inst_ratio": 6.31,
+    "change": 0.2599999999999998
+  },
+  {
+    "code": "6658",
+    "name": "聯策",
+    "market": "TWSE",
+    "three_inst_ratio": 1.880018243419338,
     "change": 0.2599999999999998
   },
   {
@@ -1246,6 +1246,13 @@
     "change": 0.25
   },
   {
+    "code": "6235",
+    "name": "華孚",
+    "market": "TWSE",
+    "three_inst_ratio": 3.675016350009489,
+    "change": 0.25
+  },
+  {
     "code": "4755",
     "name": "三福化",
     "market": "TWSE",
@@ -1257,13 +1264,6 @@
     "name": "柏文",
     "market": "TWSE",
     "three_inst_ratio": 6.108755911225607,
-    "change": 0.25
-  },
-  {
-    "code": "6235",
-    "name": "華孚",
-    "market": "TWSE",
-    "three_inst_ratio": 3.675016350009489,
     "change": 0.25
   },
   {
@@ -1344,17 +1344,17 @@
     "change": 0.22135203030025075
   },
   {
-    "code": "2540",
-    "name": "愛山林",
-    "market": "TWSE",
-    "three_inst_ratio": 2.1093046691682313,
-    "change": 0.2200000000000002
-  },
-  {
     "code": "6205",
     "name": "詮欣",
     "market": "TWSE",
     "three_inst_ratio": 2.3288058744217413,
+    "change": 0.2200000000000002
+  },
+  {
+    "code": "2540",
+    "name": "愛山林",
+    "market": "TWSE",
+    "three_inst_ratio": 2.1093046691682313,
     "change": 0.2200000000000002
   },
   {
