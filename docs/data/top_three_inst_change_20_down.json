@@ -280,17 +280,17 @@
     "change": -1.9699999999999989
   },
   {
-    "code": "6164",
-    "name": "華興",
-    "market": "TWSE",
-    "three_inst_ratio": 4.03004125,
-    "change": -1.96
-  },
-  {
     "code": "00666R",
     "name": "富邦恒生國企反1",
     "market": "TWSE",
     "three_inst_ratio": 2.51,
+    "change": -1.96
+  },
+  {
+    "code": "6164",
+    "name": "華興",
+    "market": "TWSE",
+    "three_inst_ratio": 4.03004125,
     "change": -1.96
   },
   {
@@ -455,17 +455,17 @@
     "change": -1.5099999999999998
   },
   {
-    "code": "4771",
-    "name": "望隼",
-    "market": "TWSE",
-    "three_inst_ratio": 9.42,
-    "change": -1.4800000000000004
-  },
-  {
     "code": "8103",
     "name": "瀚荃",
     "market": "TWSE",
     "three_inst_ratio": 19.075772383940162,
+    "change": -1.4800000000000004
+  },
+  {
+    "code": "4771",
+    "name": "望隼",
+    "market": "TWSE",
+    "three_inst_ratio": 9.42,
     "change": -1.4800000000000004
   },
   {
@@ -1043,17 +1043,17 @@
     "change": -0.6702961875319122
   },
   {
-    "code": "1449",
-    "name": "佳和",
-    "market": "TWSE",
-    "three_inst_ratio": 6.18,
-    "change": -0.6699999999999999
-  },
-  {
     "code": "2009",
     "name": "第一銅",
     "market": "TWSE",
     "three_inst_ratio": 2.3883778020189603,
+    "change": -0.6699999999999999
+  },
+  {
+    "code": "1449",
+    "name": "佳和",
+    "market": "TWSE",
+    "three_inst_ratio": 6.18,
     "change": -0.6699999999999999
   },
   {
@@ -1239,17 +1239,17 @@
     "change": -0.5800000000000001
   },
   {
-    "code": "00681R",
-    "name": "元大美債20反1",
-    "market": "TWSE",
-    "three_inst_ratio": 18.56,
-    "change": -0.5600000000000023
-  },
-  {
     "code": "4746",
     "name": "台耀",
     "market": "TWSE",
     "three_inst_ratio": 9.587506771701623,
+    "change": -0.5600000000000023
+  },
+  {
+    "code": "00681R",
+    "name": "元大美債20反1",
+    "market": "TWSE",
+    "three_inst_ratio": 18.56,
     "change": -0.5600000000000023
   },
   {
@@ -1295,13 +1295,6 @@
     "change": -0.5467116650646417
   },
   {
-    "code": "2538",
-    "name": "基泰",
-    "market": "TWSE",
-    "three_inst_ratio": 7.04,
-    "change": -0.54
-  },
-  {
     "code": "3528",
     "name": "安馳",
     "market": "TWSE",
@@ -1313,6 +1306,13 @@
     "name": "凌通",
     "market": "TWSE",
     "three_inst_ratio": 6.144533732853687,
+    "change": -0.54
+  },
+  {
+    "code": "2538",
+    "name": "基泰",
+    "market": "TWSE",
+    "three_inst_ratio": 7.04,
     "change": -0.54
   },
   {
