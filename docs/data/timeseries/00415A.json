@@ -240,5 +240,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.75,
     "three_inst_ratio_change_20": -1.46
+  },
+  {
+    "date": "2026-11-23",
+    "code": "00415A",
+    "name": "主動群益核心50",
+    "market": "TWSE",
+    "foreign_ratio": 1.36,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.36,
+    "three_inst_ratio_change_20": -0.9999999999999998
   }
 ]
