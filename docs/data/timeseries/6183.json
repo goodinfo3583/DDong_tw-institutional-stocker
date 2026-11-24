@@ -3276,5 +3276,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.1626193333333332,
     "three_inst_ratio_change_20": 0.002666666666666595
+  },
+  {
+    "date": "2026-11-24",
+    "code": "6183",
+    "name": "關貿",
+    "market": "TWSE",
+    "foreign_ratio": 1.15,
+    "trust_ratio": 0.0026193333333333333,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.1526193333333332,
+    "three_inst_ratio_change_20": -0.017333333333333423
   }
 ]
