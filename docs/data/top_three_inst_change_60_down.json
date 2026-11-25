@@ -1274,17 +1274,17 @@
     "change": -1.2720457674015648
   },
   {
-    "code": "00901",
-    "name": "永豐智能車供應鏈",
-    "market": "TWSE",
-    "three_inst_ratio": 0.26,
-    "change": -1.27
-  },
-  {
     "code": "1517",
     "name": "利奇",
     "market": "TWSE",
     "three_inst_ratio": 1.5611659090538121,
+    "change": -1.27
+  },
+  {
+    "code": "00901",
+    "name": "永豐智能車供應鏈",
+    "market": "TWSE",
+    "three_inst_ratio": 0.26,
     "change": -1.27
   },
   {
@@ -1351,17 +1351,17 @@
     "change": -1.2100000000000002
   },
   {
-    "code": "5531",
-    "name": "鄉林",
-    "market": "TWSE",
-    "three_inst_ratio": 1.44,
-    "change": -1.21
-  },
-  {
     "code": "6753",
     "name": "龍德造船",
     "market": "TWSE",
     "three_inst_ratio": 2.6860614691498803,
+    "change": -1.21
+  },
+  {
+    "code": "5531",
+    "name": "鄉林",
+    "market": "TWSE",
+    "three_inst_ratio": 1.44,
     "change": -1.21
   },
   {
@@ -1379,6 +1379,13 @@
     "change": -1.2070989544829303
   },
   {
+    "code": "0057",
+    "name": "富邦摩台",
+    "market": "TWSE",
+    "three_inst_ratio": 4.77,
+    "change": -1.2000000000000002
+  },
+  {
     "code": "00642U",
     "name": "期元大S&P石油",
     "market": "TWSE",
@@ -1390,13 +1397,6 @@
     "name": "太設",
     "market": "TWSE",
     "three_inst_ratio": 3.74,
-    "change": -1.2000000000000002
-  },
-  {
-    "code": "0057",
-    "name": "富邦摩台",
-    "market": "TWSE",
-    "three_inst_ratio": 4.77,
     "change": -1.2000000000000002
   }
 ]

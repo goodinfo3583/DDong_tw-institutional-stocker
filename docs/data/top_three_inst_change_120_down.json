@@ -609,17 +609,17 @@
     "change": -4.136355986552687
   },
   {
-    "code": "00930",
-    "name": "永豐ESG低碳高息",
-    "market": "TWSE",
-    "three_inst_ratio": 0.15,
-    "change": -4.0
-  },
-  {
     "code": "00999A",
     "name": "主動野村臺灣高息",
     "market": "TWSE",
     "three_inst_ratio": 2.01,
+    "change": -4.0
+  },
+  {
+    "code": "00930",
+    "name": "永豐ESG低碳高息",
+    "market": "TWSE",
+    "three_inst_ratio": 0.15,
     "change": -4.0
   },
   {
@@ -840,17 +840,17 @@
     "change": -3.0984157073970646
   },
   {
-    "code": "00993A",
-    "name": "主動安聯台灣",
-    "market": "TWSE",
-    "three_inst_ratio": 0.36,
-    "change": -3.0900000000000003
-  },
-  {
     "code": "3149",
     "name": "正達",
     "market": "TWSE",
     "three_inst_ratio": 2.77,
+    "change": -3.0900000000000003
+  },
+  {
+    "code": "00993A",
+    "name": "主動安聯台灣",
+    "market": "TWSE",
+    "three_inst_ratio": 0.36,
     "change": -3.0900000000000003
   },
   {
