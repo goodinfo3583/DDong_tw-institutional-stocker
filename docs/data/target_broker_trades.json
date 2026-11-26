@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-26T16:04:13.298144",
+  "updated": "2026-11-26T20:24:26.746621",
   "brokers": {
+    "元大-中和": [
+      {
+        "stock_code": "2881",
+        "net_vol": -43,
+        "side": "sell",
+        "pct": 0.24,
+        "rank": 15
+      }
+    ],
     "元大-中山北路": [
       {
         "stock_code": "2303",
@@ -60,6 +69,15 @@
         "side": "sell",
         "pct": 0.36,
         "rank": 14
+      }
+    ],
+    "元大-南投": [
+      {
+        "stock_code": "2881",
+        "net_vol": -52,
+        "side": "sell",
+        "pct": 0.29,
+        "rank": 13
       }
     ],
     "元大-台北": [
@@ -197,6 +215,15 @@
         "side": "sell",
         "pct": 0.42,
         "rank": 13
+      }
+    ],
+    "元大-敦化": [
+      {
+        "stock_code": "2881",
+        "net_vol": -223,
+        "side": "sell",
+        "pct": 1.26,
+        "rank": 6
       }
     ],
     "元大-斗六": [
@@ -337,6 +364,13 @@
         "rank": 7
       },
       {
+        "stock_code": "2881",
+        "net_vol": 238,
+        "side": "buy",
+        "pct": 1.34,
+        "rank": 9
+      },
+      {
         "stock_code": "2882",
         "net_vol": 455,
         "side": "buy",
@@ -456,6 +490,13 @@
         "side": "buy",
         "pct": 0.23,
         "rank": 11
+      },
+      {
+        "stock_code": "2881",
+        "net_vol": 139,
+        "side": "buy",
+        "pct": 0.78,
+        "rank": 13
       },
       {
         "stock_code": "2882",
@@ -652,6 +693,13 @@
         "side": "buy",
         "pct": 0.2,
         "rank": 13
+      },
+      {
+        "stock_code": "2881",
+        "net_vol": -893,
+        "side": "sell",
+        "pct": 5.03,
+        "rank": 2
       },
       {
         "stock_code": "2882",
@@ -909,6 +957,13 @@
         "rank": 2
       },
       {
+        "stock_code": "2881",
+        "net_vol": 358,
+        "side": "buy",
+        "pct": 2.01,
+        "rank": 6
+      },
+      {
         "stock_code": "2882",
         "net_vol": 5504,
         "side": "buy",
@@ -1057,6 +1112,15 @@
         "rank": 9
       }
     ],
+    "富邦-南屯": [
+      {
+        "stock_code": "2881",
+        "net_vol": -69,
+        "side": "sell",
+        "pct": 0.39,
+        "rank": 10
+      }
+    ],
     "富邦-台中": [
       {
         "stock_code": "2308",
@@ -1146,7 +1210,23 @@
         "rank": 13
       }
     ],
+    "富邦-新店": [
+      {
+        "stock_code": "2881",
+        "net_vol": -68,
+        "side": "sell",
+        "pct": 0.38,
+        "rank": 11
+      }
+    ],
     "富邦-新板": [
+      {
+        "stock_code": "2881",
+        "net_vol": -123,
+        "side": "sell",
+        "pct": 0.69,
+        "rank": 8
+      },
       {
         "stock_code": "2618",
         "net_vol": 101,
@@ -1356,6 +1436,13 @@
         "rank": 1
       },
       {
+        "stock_code": "2881",
+        "net_vol": 1836,
+        "side": "buy",
+        "pct": 10.33,
+        "rank": 1
+      },
+      {
         "stock_code": "2882",
         "net_vol": 12692,
         "side": "buy",
@@ -1484,6 +1571,13 @@
         "rank": 2
       },
       {
+        "stock_code": "2881",
+        "net_vol": 694,
+        "side": "buy",
+        "pct": 3.91,
+        "rank": 2
+      },
+      {
         "stock_code": "2882",
         "net_vol": 4506,
         "side": "buy",
@@ -1603,6 +1697,13 @@
         "side": "buy",
         "pct": 0.96,
         "rank": 7
+      },
+      {
+        "stock_code": "2881",
+        "net_vol": -245,
+        "side": "sell",
+        "pct": 1.38,
+        "rank": 4
       },
       {
         "stock_code": "2882",
@@ -1733,6 +1834,13 @@
         "rank": 9
       },
       {
+        "stock_code": "2881",
+        "net_vol": 618,
+        "side": "buy",
+        "pct": 3.48,
+        "rank": 4
+      },
+      {
         "stock_code": "2882",
         "net_vol": -669,
         "side": "sell",
@@ -1838,6 +1946,13 @@
         "side": "sell",
         "pct": 0.43,
         "rank": 10
+      },
+      {
+        "stock_code": "2881",
+        "net_vol": 201,
+        "side": "buy",
+        "pct": 1.13,
+        "rank": 11
       },
       {
         "stock_code": "2882",
@@ -1966,6 +2081,13 @@
         "side": "buy",
         "pct": 10.29,
         "rank": 3
+      },
+      {
+        "stock_code": "2881",
+        "net_vol": 281,
+        "side": "buy",
+        "pct": 1.58,
+        "rank": 7
       },
       {
         "stock_code": "2882",
