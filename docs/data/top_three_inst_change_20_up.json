@@ -1001,17 +1001,17 @@
     "change": 1.02
   },
   {
-    "code": "00903",
-    "name": "富邦元宇宙",
-    "market": "TWSE",
-    "three_inst_ratio": 1.91,
-    "change": 1.0099999999999998
-  },
-  {
     "code": "1515",
     "name": "力山",
     "market": "TWSE",
     "three_inst_ratio": 4.3,
+    "change": 1.0099999999999998
+  },
+  {
+    "code": "00903",
+    "name": "富邦元宇宙",
+    "market": "TWSE",
+    "three_inst_ratio": 1.91,
     "change": 1.0099999999999998
   },
   {
@@ -1239,17 +1239,17 @@
     "change": 0.79
   },
   {
-    "code": "3229",
-    "name": "晟鈦",
-    "market": "TWSE",
-    "three_inst_ratio": 1.4900077805268972,
-    "change": 0.7899999999999999
-  },
-  {
     "code": "00636",
     "name": "國泰中國A50",
     "market": "TWSE",
     "three_inst_ratio": 1.3815943980608671,
+    "change": 0.7899999999999999
+  },
+  {
+    "code": "3229",
+    "name": "晟鈦",
+    "market": "TWSE",
+    "three_inst_ratio": 1.4900077805268972,
     "change": 0.7899999999999999
   },
   {
@@ -1344,10 +1344,10 @@
     "change": 0.74
   },
   {
-    "code": "6589",
-    "name": "台康生技",
+    "code": "8341",
+    "name": "日友",
     "market": "TWSE",
-    "three_inst_ratio": 6.11,
+    "three_inst_ratio": 6.5,
     "change": 0.7300000000000004
   },
   {
@@ -1358,10 +1358,10 @@
     "change": 0.7300000000000004
   },
   {
-    "code": "8341",
-    "name": "日友",
+    "code": "6589",
+    "name": "台康生技",
     "market": "TWSE",
-    "three_inst_ratio": 6.5,
+    "three_inst_ratio": 6.11,
     "change": 0.7300000000000004
   },
   {
